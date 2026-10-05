@@ -6,7 +6,14 @@
     plate: "mealprep.plate.v1",
   };
 
-  const titles = {
+  const DAY_ORDER = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
+  function byDayOrder(a, b) {
+    const ia = DAY_ORDER.indexOf(a.day);
+    const ib = DAY_ORDER.indexOf(b.day);
+    return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib);
+  }
+
+    const titles = {
     menu: ["This week", null],
     grocery: ["Grocery list", "Sprouts · check as you shop"],
     prep: ["Sunday prep", "~90 minutes · check off as you go"],
@@ -104,7 +111,7 @@
   function renderMenu() {
     const root = $("#view-menu");
     const ratings = ratingsState();
-    const dinners = DATA.dinners
+    const dinners = [...DATA.dinners].sort(byDayOrder)
       .map((d) => {
         const r = ratings[mealKey(d)] || {};
         const thumb =
@@ -123,7 +130,7 @@
       })
       .join("");
 
-    const chloe = DATA.chloeLunches
+    const chloe = [...DATA.chloeLunches].sort(byDayOrder)
       .map(
         (c) =>
           `<div class="chip"><strong>${esc(c.day)} ${esc(c.date)}</strong>${esc(c.items)}</div>`
@@ -520,11 +527,11 @@
 
     $("#load-dinner").onclick = () => {
       // Pick dinner for today's weekday, or first if weekend mismatch — use local day name
-      const days = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
-      const today = days[new Date().getDay()];
-      let dinner = DATA.dinners.find((d) => d.day === today) || DATA.dinners[0];
-      // Prefer a dinner that has plate weights
-      if (!dinner.plate || !dinner.plate.length) dinner = DATA.dinners.find((d) => d.plate && d.plate.length) || dinner;
+      const jsDays = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+      const today = jsDays[new Date().getDay()];
+      const ordered = [...DATA.dinners].sort(byDayOrder);
+      let dinner = ordered.find((d) => d.day === today) || ordered[0];
+      if (!dinner.plate || !dinner.plate.length) dinner = ordered.find((d) => d.plate && d.plate.length) || dinner;
       plate = (dinner.plate || []).map((p) => {
         const m = macrosFor(p.id);
         return {
@@ -546,7 +553,7 @@
   function renderRatings() {
     const root = $("#view-ratings");
     const ratings = ratingsState();
-    const cards = DATA.dinners
+    const cards = [...DATA.dinners].sort(byDayOrder)
       .map((d) => {
         const key = mealKey(d);
         const r = ratings[key] || {};
@@ -566,7 +573,7 @@
       })
       .join("");
 
-    const favs = DATA.dinners.filter((d) => (ratings[mealKey(d)] || {}).vote === "up");
+    const favs = [...DATA.dinners].sort(byDayOrder).filter((d) => (ratings[mealKey(d)] || {}).vote === "up");
     const favBlock = favs.length
       ? `<div class="banner">Favorites this week: ${favs.map((d) => esc(d.name)).join(" · ")}</div>`
       : `<div class="banner">Rate meals so we can rotate favorites into future weeks.</div>`;
