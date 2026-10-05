@@ -1,0 +1,10 @@
+{
+  "name": "Meal Prep · Reiff",
+  "short_name": "Meal Prep",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FBF7F0",
+  "theme_color": "#5E7A5B",
+  "description": "Weekly meal prep for Rory, Wendy & Chloe"
+}

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#5E7A5B" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+  <meta name="description" content="Meal Prep for Rory, Wendy & Chloe — menu, grocery, prep, macros" />
+  <title>Meal Prep · Reiff</title>
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="manifest" href="manifest.webmanifest" />
+</head>
+<body>
+  <header class="app-header">
+    <div class="eyebrow">Meal Prep · Reiff household</div>
+    <h1 id="header-title">This week</h1>
+    <div class="sub" id="header-sub">Loading…</div>
+  </header>
+
+  <main>
+    <section id="view-menu" class="view active" aria-label="Menu"></section>
+    <section id="view-grocery" class="view" aria-label="Grocery"></section>
+    <section id="view-prep" class="view" aria-label="Prep"></section>
+    <section id="view-calc" class="view" aria-label="Macros"></section>
+    <section id="view-ratings" class="view" aria-label="Ratings"></section>
+  </main>
+
+  <nav class="nav" role="tablist" aria-label="Main">
+    <button type="button" data-view="menu" class="on" aria-selected="true">
+      <span class="ico" aria-hidden="true">🍽</span>Menu
+    </button>
+    <button type="button" data-view="grocery" aria-selected="false">
+      <span class="ico" aria-hidden="true">🛒</span>Grocery
+    </button>
+    <button type="button" data-view="prep" aria-selected="false">
+      <span class="ico" aria-hidden="true">⏱</span>Prep
+    </button>
+    <button type="button" data-view="calc" aria-selected="false">
+      <span class="ico" aria-hidden="true">⚖️</span>Macros
+    </button>
+    <button type="button" data-view="ratings" aria-selected="false">
+      <span class="ico" aria-hidden="true">★</span>Ratings
+    </button>
+  </nav>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,621 @@
+{
+  "weekLabel": "Mon Oct 12 \u2013 Sun Oct 18",
+  "household": [
+    "Rory",
+    "Wendy",
+    "Chloe"
+  ],
+  "targets": {
+    "calories": 600,
+    "protein": 45
+  },
+  "notes": "Everything mild; heat on the side for Rory. Rice in bone broth; gelatin in beef. Low oil (spray/air fryer/broth). Macros are estimates.",
+  "dinners": [
+    {
+      "day": "Mon",
+      "date": "Oct 12",
+      "name": "Shredded roast tacos",
+      "desc": "Corn tortillas, mild salsa, Greek yogurt, cucumber-tomato salad (or bone broth rice bowls with a fried egg)",
+      "cal": 570,
+      "protein": 57,
+      "plate": [
+        {
+          "id": "chuck",
+          "g": 150
+        },
+        {
+          "id": "tortilla",
+          "g": 78
+        },
+        {
+          "id": "yogurt",
+          "g": 50
+        },
+        {
+          "id": "cuke",
+          "g": 200
+        }
+      ]
+    },
+    {
+      "day": "Tue",
+      "date": "Oct 13",
+      "name": "Honey cashew chicken",
+      "desc": "Air-chilled chicken breast, peppers, broccoli, light honey-garlic-ginger sauce, toasted cashews, over bone broth + cauliflower rice",
+      "cal": 600,
+      "protein": 60,
+      "plate": [
+        {
+          "id": "breast_c",
+          "g": 150
+        },
+        {
+          "id": "cashsauce",
+          "g": 60
+        },
+        {
+          "id": "cashews",
+          "g": 12
+        },
+        {
+          "id": "stirveg",
+          "g": 200
+        },
+        {
+          "id": "blend",
+          "g": 180
+        }
+      ]
+    },
+    {
+      "day": "Wed",
+      "date": "Oct 14",
+      "name": "Cheeseburger bowls",
+      "desc": "Extra-lean grass-fed beef (with gelatin), bone broth + cauliflower rice, lettuce, tomato, pickles, cheddar, Greek yogurt burger sauce; fried-egg topper optional (+~80 cal, 6g protein)",
+      "cal": 560,
+      "protein": 61,
+      "plate": [
+        {
+          "id": "cbeef",
+          "g": 170
+        },
+        {
+          "id": "blend",
+          "g": 180
+        },
+        {
+          "id": "burgerveg",
+          "g": 150
+        },
+        {
+          "id": "burgersauce",
+          "g": 50
+        },
+        {
+          "id": "cheddar",
+          "g": 15
+        }
+      ]
+    },
+    {
+      "day": "Thu",
+      "date": "Oct 15",
+      "name": "Honey-lemon wild salmon",
+      "desc": "Wild-caught salmon (air fryer), roasted asparagus, bone broth + cauliflower rice (~15 min fresh)",
+      "cal": 570,
+      "protein": 60,
+      "plate": [
+        {
+          "id": "salmon_h",
+          "g": 180
+        },
+        {
+          "id": "blend",
+          "g": 250
+        },
+        {
+          "id": "asparagus",
+          "g": 200
+        }
+      ]
+    },
+    {
+      "day": "Fri",
+      "date": "Oct 16",
+      "name": "Steak night",
+      "desc": "Grass-fed sirloin, air-fryer potatoes, big green salad with honey-lemon dressing (~15 min fresh)",
+      "cal": 560,
+      "protein": 58,
+      "plate": [
+        {
+          "id": "sirloin",
+          "g": 170
+        },
+        {
+          "id": "potato",
+          "g": 200
+        },
+        {
+          "id": "salad",
+          "g": 200
+        }
+      ]
+    },
+    {
+      "day": "Sat",
+      "date": "Oct 17",
+      "name": "Greek chicken bowls",
+      "desc": "Lemon-oregano chicken breast, bone broth rice, cucumber-tomato salad, Greek yogurt tzatziki",
+      "cal": 560,
+      "protein": 67,
+      "plate": [
+        {
+          "id": "breast_g",
+          "g": 160
+        },
+        {
+          "id": "bbrice",
+          "g": 150
+        },
+        {
+          "id": "cuke",
+          "g": 200
+        },
+        {
+          "id": "tzatziki",
+          "g": 100
+        }
+      ]
+    },
+    {
+      "day": "Sun",
+      "date": "Oct 18",
+      "name": "Honey-balsamic shredded beef",
+      "desc": "Slow-cook anchor: grass-fed chuck, bone broth, gelatin; broth-and-yogurt mashed potatoes; roasted green beans",
+      "cal": 590,
+      "protein": 56,
+      "anchor": true,
+      "plate": [
+        {
+          "id": "hbchuck",
+          "g": 160
+        },
+        {
+          "id": "mash",
+          "g": 180
+        },
+        {
+          "id": "greenbeans",
+          "g": 200
+        }
+      ]
+    }
+  ],
+  "chloeLunches": [
+    {
+      "day": "Mon",
+      "date": "Oct 12",
+      "items": "Baked homemade chicken nuggets + Greek yogurt honey mustard, mango chunks, cucumber slices"
+    },
+    {
+      "day": "Tue",
+      "date": "Oct 13",
+      "items": "Grass-fed beef hot dog, apple slices + kiwi"
+    },
+    {
+      "day": "Wed",
+      "date": "Oct 14",
+      "items": "Chicken and rice (chicken breast + bone broth rice), kiwi + berries"
+    },
+    {
+      "day": "Thu",
+      "date": "Oct 15",
+      "items": "Chicken nuggets + honey mustard, mango + apple slices"
+    }
+  ],
+  "breakfasts": [
+    "Egg bites: eggs, cottage cheese, chicken breakfast sausage, spinach",
+    "Greek yogurt bowls: berries, kiwi, granola; fruit on the side for Chloe"
+  ],
+  "lunches": "Grown-up lunches from leftover chicken and beef bowls",
+  "creami": [
+    {
+      "name": "Honey vanilla protein",
+      "desc": "Cottage cheese, Greek yogurt, honey, vanilla"
+    },
+    {
+      "name": "Chloe's mango-banana",
+      "desc": "Mango, banana, Greek yogurt"
+    }
+  ],
+  "prep": [
+    {
+      "t": "0:00",
+      "step": "Sear chuck roast (avocado-oil spray), then slow cooker with carrots, onion, bone broth, gelatin (Sun dinner + Mon tacos). Oven to 425\u00b0F. Start jasmine rice in bone broth."
+    },
+    {
+      "t": "0:10",
+      "step": "Chicken breasts on 2 parchment pans: garlic-ginger (Tue) and lemon-oregano (Sat)."
+    },
+    {
+      "t": "0:20",
+      "step": "Chloe's nuggets (egg + seasoned breadcrumbs, light spray), bake or air-fry. Mix the Greek yogurt honey mustard."
+    },
+    {
+      "t": "0:30",
+      "step": "Brown extra-lean beef in broth, then stir in bloomed gelatin (Wed)."
+    },
+    {
+      "t": "0:40",
+      "step": "Honey cashew sauce, burger sauce, tzatziki. Toast cashews (store separately)."
+    },
+    {
+      "t": "0:50",
+      "step": "Cauliflower rice saut\u00e9ed in broth, then folded into half the rice. Egg bites into the oven."
+    },
+    {
+      "t": "1:00",
+      "step": "Creami pints blended and frozen."
+    },
+    {
+      "t": "1:10",
+      "step": "Cut peppers and broccoli for Tue; wash lettuce, slice tomatoes and pickles for Wed; cut fruit for Chloe's Mon\u2013Tue lunches."
+    },
+    {
+      "t": "1:20",
+      "step": "Weigh, portion, label. Freeze Sat's chicken, then move it to the fridge Thu night."
+    },
+    {
+      "t": "1:30",
+      "step": "Done. At dinner: broth-and-yogurt mashed potatoes, roasted green beans."
+    }
+  ],
+  "prepNote": "Sun Oct 18: honey-balsamic beef goes in the slow cooker that morning.",
+  "grocery": [
+    {
+      "section": "Meat & seafood",
+      "items": [
+        "Air-chilled organic chicken breasts: 5 lb",
+        "Grass-fed extra-lean ground beef (96/4): 2 lb",
+        "Grass-fed beef chuck roast: 3 lb",
+        "Wild-caught salmon fillets: 1.25 lb",
+        "Grass-fed sirloin steaks: 1.25 lb",
+        "Grass-fed beef hot dogs: 1 pack",
+        "Chicken breakfast sausage: 1 pack (~12 oz)"
+      ]
+    },
+    {
+      "section": "Dairy & eggs",
+      "items": [
+        "Pasture-raised eggs: 2 dozen",
+        "Low-fat cottage cheese: 2 \u00d7 24 oz",
+        "Plain nonfat Greek yogurt: 2 \u00d7 32 oz",
+        "Shredded cheddar: 8 oz",
+        "Milk: 1 quart"
+      ]
+    },
+    {
+      "section": "Vegetables (organic)",
+      "items": [
+        "Broccoli: 2 crowns",
+        "Bell peppers (red/yellow/orange): 4",
+        "Riced cauliflower: 3 \u00d7 12 oz bags",
+        "Asparagus: 2 bunches",
+        "Green beans: 2 lb",
+        "Romaine / mixed greens: 2 large clamshells",
+        "Cucumbers: 5",
+        "Tomatoes: 2 pints cherry + 3 Roma",
+        "Yukon Gold or russet potatoes: 5 lb",
+        "Spinach: 5 oz",
+        "Yellow onions: 2 \u00b7 Garlic: 2 heads \u00b7 Fresh ginger: 1 knob",
+        "Fresh dill and parsley or chives: 1 bunch each"
+      ]
+    },
+    {
+      "section": "Weekly organic fruit",
+      "items": [
+        "Mangoes: 4",
+        "Apples: 8",
+        "Kiwis: 8",
+        "Bananas: 1 bunch (6\u20137)",
+        "Strawberries: 2 lb",
+        "Blueberries: 2 pints",
+        "Raspberries: 1 pint",
+        "Mandarins: 1 bag",
+        "Frozen mango chunks: 1 bag",
+        "Lemons: 6 \u00b7 Limes: 2"
+      ]
+    },
+    {
+      "section": "Pantry & house staples",
+      "items": [
+        "Bone broth (chicken or beef): 4 \u00d7 32 oz cartons",
+        "Unflavored grass-fed gelatin: 1 canister (if low)",
+        "Avocado-oil spray: 1 can",
+        "Organic jasmine rice: 2 lb bag (if low)",
+        "Unsalted cashews: 8 oz",
+        "Honey: 1 jar (if low)",
+        "Coconut aminos or low-sodium tamari: 1 bottle",
+        "Cornstarch or arrowroot (if low)",
+        "Balsamic vinegar (if low)",
+        "Dijon and yellow mustard (if low)",
+        "Dill pickles: 1 jar",
+        "Mild salsa: 1 jar",
+        "Breadcrumbs (whole-wheat or panko): 1 box",
+        "Hot dog buns: 1 pack (optional)",
+        "Granola: 1 bag",
+        "Pure vanilla extract (if low)",
+        "Spices if low: smoked paprika, dried oregano, garlic powder",
+        "For Rory only: chipotle in adobo or hot sauce (if out)"
+      ]
+    }
+  ],
+  "components": {
+    "breast": {
+      "name": "Chicken breast, skinless, roasted",
+      "cal": 165,
+      "protein": 31.0,
+      "carbs": 0,
+      "fat": 3.6
+    },
+    "breast_g": {
+      "name": "Lemon-oregano chicken breast",
+      "cal": 165,
+      "protein": 31.0,
+      "carbs": 0,
+      "fat": 3.6
+    },
+    "breast_c": {
+      "name": "Garlic-ginger chicken breast",
+      "cal": 165,
+      "protein": 31.0,
+      "carbs": 0,
+      "fat": 3.6
+    },
+    "thigh": {
+      "name": "Chicken thighs, boneless skinless, roasted",
+      "cal": 179,
+      "protein": 24.8,
+      "carbs": 0,
+      "fat": 8.2
+    },
+    "cbeef": {
+      "name": "Extra-lean beef (96/4) with gelatin",
+      "cal": 171,
+      "protein": 27.1,
+      "carbs": 0,
+      "fat": 6.4
+    },
+    "hgbeef": {
+      "name": "Honey garlic extra-lean beef + gelatin",
+      "cal": 192,
+      "protein": 27.7,
+      "carbs": 6.0,
+      "fat": 5.0
+    },
+    "meatball": {
+      "name": "Extra-lean beef meatballs with gelatin",
+      "cal": 182,
+      "protein": 27.7,
+      "carbs": 3.0,
+      "fat": 6.0
+    },
+    "chuck": {
+      "name": "Chuck roast with gelatin, braised",
+      "cal": 218,
+      "protein": 30.8,
+      "carbs": 0,
+      "fat": 10.0
+    },
+    "hbchuck": {
+      "name": "Honey-balsamic shredded beef",
+      "cal": 230,
+      "protein": 29.5,
+      "carbs": 4.0,
+      "fat": 10.0
+    },
+    "salmon": {
+      "name": "Wild-caught salmon, air-fried",
+      "cal": 160,
+      "protein": 26.0,
+      "carbs": 0,
+      "fat": 6.0
+    },
+    "salmon_h": {
+      "name": "Honey-lemon wild-caught salmon",
+      "cal": 172,
+      "protein": 25.5,
+      "carbs": 3.5,
+      "fat": 6.0
+    },
+    "sirloin": {
+      "name": "Grass-fed sirloin, trimmed",
+      "cal": 185,
+      "protein": 30.0,
+      "carbs": 0,
+      "fat": 6.5
+    },
+    "strip": {
+      "name": "NY strip, trimmed",
+      "cal": 200,
+      "protein": 29.0,
+      "carbs": 0,
+      "fat": 9.0
+    },
+    "bbrice": {
+      "name": "Jasmine rice cooked in bone broth",
+      "cal": 142,
+      "protein": 5.4,
+      "carbs": 28.0,
+      "fat": 0.3
+    },
+    "blend": {
+      "name": "Bone broth rice + cauliflower rice (50/50)",
+      "cal": 84,
+      "protein": 3.7,
+      "carbs": 16.5,
+      "fat": 0.3
+    },
+    "sweetpot": {
+      "name": "Sweet potatoes, roasted (spray)",
+      "cal": 90,
+      "protein": 2.0,
+      "carbs": 20.7,
+      "fat": 0.2
+    },
+    "potato": {
+      "name": "Air-fryer potatoes (spray)",
+      "cal": 95,
+      "protein": 2.5,
+      "carbs": 21.0,
+      "fat": 0.5
+    },
+    "mash": {
+      "name": "Mashed potatoes (broth + Greek yogurt)",
+      "cal": 85,
+      "protein": 2.8,
+      "carbs": 16.5,
+      "fat": 0.8
+    },
+    "broccoli": {
+      "name": "Broccoli, roasted (spray)",
+      "cal": 35,
+      "protein": 2.4,
+      "carbs": 7.2,
+      "fat": 0.4
+    },
+    "zucchini": {
+      "name": "Zucchini, roasted",
+      "cal": 17,
+      "protein": 1.2,
+      "carbs": 3.1,
+      "fat": 0.3
+    },
+    "corn": {
+      "name": "Fire-roasted corn",
+      "cal": 96,
+      "protein": 3.4,
+      "carbs": 21.0,
+      "fat": 1.5
+    },
+    "greenbeans": {
+      "name": "Green beans, roasted (spray)",
+      "cal": 35,
+      "protein": 1.9,
+      "carbs": 7.9,
+      "fat": 0.3
+    },
+    "asparagus": {
+      "name": "Asparagus, roasted (spray)",
+      "cal": 22,
+      "protein": 2.4,
+      "carbs": 4.1,
+      "fat": 0.2
+    },
+    "carrots": {
+      "name": "Carrots, braised",
+      "cal": 35,
+      "protein": 0.8,
+      "carbs": 8.0,
+      "fat": 0.2
+    },
+    "salad": {
+      "name": "Green salad with honey-lemon dressing",
+      "cal": 30,
+      "protein": 1.2,
+      "carbs": 6.0,
+      "fat": 0.3
+    },
+    "cuke": {
+      "name": "Cucumber-tomato salad (no oil)",
+      "cal": 16,
+      "protein": 0.8,
+      "carbs": 3.5,
+      "fat": 0.2
+    },
+    "stirveg": {
+      "name": "Peppers + broccoli, saut\u00e9ed in broth",
+      "cal": 30,
+      "protein": 2.0,
+      "carbs": 6.0,
+      "fat": 0.3
+    },
+    "burgerveg": {
+      "name": "Lettuce, tomato, pickles",
+      "cal": 15,
+      "protein": 0.9,
+      "carbs": 3.0,
+      "fat": 0.2
+    },
+    "smoky": {
+      "name": "Smoky tomato cottage-cheese broth",
+      "cal": 50,
+      "protein": 6.0,
+      "carbs": 3.5,
+      "fat": 1.5
+    },
+    "marinara": {
+      "name": "Cottage-cheese marinara",
+      "cal": 70,
+      "protein": 6.0,
+      "carbs": 6.0,
+      "fat": 2.0
+    },
+    "pasta": {
+      "name": "Protein pasta, cooked",
+      "cal": 150,
+      "protein": 11.0,
+      "carbs": 22.0,
+      "fat": 2.0
+    },
+    "tortilla": {
+      "name": "Corn tortillas",
+      "cal": 218,
+      "protein": 5.7,
+      "carbs": 44.6,
+      "fat": 2.9
+    },
+    "yogurt": {
+      "name": "Plain nonfat Greek yogurt",
+      "cal": 59,
+      "protein": 10.3,
+      "carbs": 3.6,
+      "fat": 0.4
+    },
+    "tzatziki": {
+      "name": "Greek yogurt tzatziki",
+      "cal": 50,
+      "protein": 7.5,
+      "carbs": 3.5,
+      "fat": 0.3
+    },
+    "burgersauce": {
+      "name": "Greek yogurt burger sauce",
+      "cal": 65,
+      "protein": 7.5,
+      "carbs": 6.5,
+      "fat": 0.5
+    },
+    "cheddar": {
+      "name": "Shredded cheddar",
+      "cal": 404,
+      "protein": 22.9,
+      "carbs": 3.1,
+      "fat": 33.0
+    },
+    "cashsauce": {
+      "name": "Honey cashew sauce",
+      "cal": 120,
+      "protein": 1.5,
+      "carbs": 25.0,
+      "fat": 1.0
+    },
+    "cashews": {
+      "name": "Cashews, dry-roasted",
+      "cal": 574,
+      "protein": 15.3,
+      "carbs": 32.7,
+      "fat": 46.4
+    }
+  }
+}
