@@ -1,21 +1,68 @@
 {
-  "weekLabel": "Mon Oct 12 \u2013 Sun Oct 18",
+  "weekLabel": "Sun Oct 11 cook \u00b7 Mon Oct 12 \u2013 Sun Oct 18",
+  "headcount": 5,
   "household": [
     "Rory",
     "Wendy",
-    "Chloe"
+    "Chloe",
+    "+ 2 adult guests"
   ],
   "targets": {
     "calories": 600,
     "protein": 45
   },
-  "notes": "Everything mild; heat on the side for Rory. Rice in bone broth; gelatin in beef. Low oil (spray/air fryer/broth). Named veggie side each night. Macros are estimates.",
+  "notes": "Headcount 5 this week (Rory, Wendy, Chloe + 2 adult guests). Chloe's lunches are just for her; Rory's plate macros unchanged. Everything mild; heat on the side for Rory. Quality: organic; beef grass-fed/finished when possible; chicken air-chilled organic; seafood wild-caught. Rice in bone broth; gelatin in beef. Low oil (spray/air fryer/broth). Named veggie side each night. Macros are estimates.",
+  "costEstimates": {
+    "currency": "USD",
+    "pricedOn": "2026-10-05",
+    "label": "Estimated \u00b7 Sprouts prices \u00b7 excl. tax/delivery",
+    "sections": {
+      "Meat & seafood": 320.75,
+      "Eggs & dairy": 97.85,
+      "Organic vegetables": 194.59,
+      "Organic fruit": 128.53,
+      "Pantry & house staples": 159.17,
+      "Pantry \u2014 if running low": 47.28
+    },
+    "coreTotal": 900.89,
+    "withPantryLow": 948.17,
+    "note": "Estimates from Sprouts/Instacart prices priced Oct 5, 2026 ET. Excludes tax/delivery. If-running-low items optional."
+  },
   "dinners": [
+    {
+      "day": "Sun",
+      "date": "Oct 11",
+      "name": "Chuck roast (first cook night)",
+      "desc": "Grass-fed chuck with gelatin, braised carrots, mashed potatoes with bone broth and Greek yogurt; leftovers become Monday's tacos",
+      "side": "Shaved fennel-apple slaw \u2014 fennel, apple, lemon juice, drizzle of honey, pinch of salt. Thinly slice and toss: 10 min.",
+      "cal": 590,
+      "protein": 56,
+      "anchor": true,
+      "firstCook": true,
+      "plate": [
+        {
+          "id": "chuck",
+          "g": 160
+        },
+        {
+          "id": "carrots_b",
+          "g": 100
+        },
+        {
+          "id": "mash",
+          "g": 160
+        },
+        {
+          "id": "fennelslaw",
+          "g": 150
+        }
+      ]
+    },
     {
       "day": "Mon",
       "date": "Oct 12",
       "name": "Shredded roast tacos",
-      "desc": "Corn tortillas, mild salsa, Greek yogurt (or bone broth rice bowls with a fried egg)",
+      "desc": "From Sun Oct 11 chuck roast on corn tortillas, mild salsa, Greek yogurt (or bone broth rice bowls with a fried egg)",
       "side": "Honey-lime cabbage slaw \u2014 green + red cabbage, shredded carrot, lime, a little honey, salt. Toss Sunday; keeps 2 days.",
       "cal": 600,
       "protein": 58,
@@ -103,7 +150,7 @@
           "g": 15
         },
         {
-          "id": "zfries",
+          "id": "zucc_fries",
           "g": 150
         }
       ]
@@ -112,13 +159,13 @@
       "day": "Thu",
       "date": "Oct 15",
       "name": "Honey-lemon wild salmon",
-      "desc": "Wild-caught salmon (air fryer) with bone broth + cauliflower rice (~15 min fresh)",
+      "desc": "Wild-caught salmon (air fryer) with bone broth + cauliflower rice (fresh-cooked, ~15 min)",
       "side": "Garlic-lemon roasted asparagus \u2014 spray, garlic powder, lemon. 425\u00b0F for 8\u201310 min while the salmon cooks.",
       "cal": 570,
       "protein": 60,
       "plate": [
         {
-          "id": "salmon_h",
+          "id": "salmon",
           "g": 180
         },
         {
@@ -126,7 +173,7 @@
           "g": 250
         },
         {
-          "id": "laspar",
+          "id": "asparagus",
           "g": 200
         }
       ]
@@ -135,7 +182,7 @@
       "day": "Fri",
       "date": "Oct 16",
       "name": "Steak night",
-      "desc": "Grass-fed sirloin with air-fryer potatoes (~15 min fresh)",
+      "desc": "Grass-fed sirloin with air-fryer potatoes (fresh-cooked)",
       "side": "Garlic green beans with lemon zest \u2014 green beans, garlic, broth, lemon. Covered steam-saut\u00e9 in \u00bc cup broth for 6 min.",
       "cal": 570,
       "protein": 60,
@@ -145,11 +192,11 @@
           "g": 170
         },
         {
-          "id": "potato",
+          "id": "potatoes",
           "g": 200
         },
         {
-          "id": "ggbeans",
+          "id": "greenbeans",
           "g": 200
         }
       ]
@@ -168,7 +215,7 @@
           "g": 160
         },
         {
-          "id": "bbrice",
+          "id": "rice",
           "g": 150
         },
         {
@@ -185,13 +232,14 @@
       "day": "Sun",
       "date": "Oct 18",
       "name": "Honey-balsamic shredded beef",
-      "desc": "Slow-cook anchor: grass-fed chuck, bone broth, gelatin; broth-and-yogurt mashed potatoes",
+      "desc": "Slow-cook anchor: grass-fed chuck, bone broth, gelatin; broth-and-Greek-yogurt mashed potatoes",
       "side": "Honey-dill peas and carrots \u2014 frozen peas, diced carrots, broth, a touch of honey, fresh dill. Simmer 6 min.",
       "cal": 600,
       "protein": 56,
+      "anchor": true,
       "plate": [
         {
-          "id": "hbchuck",
+          "id": "hbbeef",
           "g": 160
         },
         {
@@ -199,11 +247,10 @@
           "g": 160
         },
         {
-          "id": "peascarrots",
+          "id": "peascar",
           "g": 150
         }
-      ],
-      "anchor": true
+      ]
     }
   ],
   "chloeLunches": [
@@ -229,28 +276,28 @@
     }
   ],
   "breakfasts": [
-    "Egg bites: eggs, cottage cheese, chicken breakfast sausage, spinach",
+    "Egg bites (two trays, ~24): usual Sprouts eggs, cottage cheese, organic chicken breakfast sausage, spinach",
     "Greek yogurt bowls: berries, kiwi, granola; fruit on the side for Chloe"
   ],
-  "lunches": "Grown-up lunches from leftover chicken and beef bowls",
+  "lunches": "Grown-up lunches from leftover chicken and beef bowls (scaled for 5)",
   "creami": [
     {
-      "name": "Honey vanilla protein",
+      "name": "Honey vanilla protein (\u00d72 pints)",
       "desc": "Cottage cheese, Greek yogurt, honey, vanilla"
     },
     {
-      "name": "Chloe's mango-banana",
+      "name": "Mango-banana (\u00d72 pints, Chloe's pick)",
       "desc": "Mango, banana, Greek yogurt"
     }
   ],
   "prep": [
     {
       "t": "0:00",
-      "step": "Sear chuck roast (avocado-oil spray), then slow cooker with carrots, onion, bone broth, gelatin (Sun dinner + Mon tacos). Oven to 425\u00b0F. Start jasmine rice in bone broth."
+      "step": "Sear the 4\u20134.5 lb chuck roast (avocado-oil spray), then slow cooker with carrots, onion, bone broth, gelatin (Sun dinner + Mon tacos). Oven to 425\u00b0F. Start a double batch of jasmine rice in bone broth (~3 cups dry)."
     },
     {
       "t": "0:10",
-      "step": "Chicken breasts on 2 parchment pans: garlic-ginger (Tue) and lemon-oregano (Sat)."
+      "step": "~4.5 lb chicken breasts on 2\u20133 parchment pans: garlic-ginger (Tue) and lemon-oregano (Sat)."
     },
     {
       "t": "0:20",
@@ -258,7 +305,7 @@
     },
     {
       "t": "0:30",
-      "step": "Brown extra-lean beef in broth, then stir in bloomed gelatin (Wed)."
+      "step": "Brown ~3 lb extra-lean beef in broth, then stir in bloomed gelatin (Wed)."
     },
     {
       "t": "0:40",
@@ -266,11 +313,11 @@
     },
     {
       "t": "0:50",
-      "step": "Cauliflower rice saut\u00e9ed in broth, then folded into half the rice. Egg bites into the oven."
+      "step": "Cauliflower rice saut\u00e9ed in broth, then folded into half the rice. Two trays of egg bites (~24) into the oven."
     },
     {
       "t": "1:00",
-      "step": "Creami pints blended and frozen."
+      "step": "4 Creami pints blended and frozen (2 honey vanilla, 2 mango-banana)."
     },
     {
       "t": "1:10",
@@ -282,97 +329,100 @@
     },
     {
       "t": "1:30",
-      "step": "Done. At dinner (this week's Sun): broth-and-yogurt mashed potatoes and shaved fennel-apple slaw."
+      "step": "Done. At dinner: broth-and-yogurt mashed potatoes and shaved fennel-apple slaw for 5."
     }
   ],
-  "prepNote": "Sun Oct 18: honey-balsamic beef goes in the slow cooker that morning; peas and carrots at dinner.",
+  "prepNote": "Sun Oct 18: honey-balsamic beef goes in the slow cooker that morning; peas and carrots at dinner. First batch cook is Sun Oct 11 (~90\u2013105 min for 5).",
   "grocery": [
     {
       "section": "Meat & seafood",
       "items": [
-        "Air-chilled organic chicken breasts: 5 lb",
-        "Grass-fed extra-lean ground beef (96/4): 2 lb",
-        "Grass-fed beef chuck roast: 3 lb",
-        "Wild-caught salmon fillets: 1.25 lb",
-        "Grass-fed sirloin steaks: 1.25 lb",
-        "Grass-fed beef hot dogs: 1 pack",
-        "Chicken breakfast sausage: 1 pack (~12 oz)"
+        "Organic grass-fed beef chuck roast (grass-finished when possible): 4\u20134.5 lb (Sun Oct 11 dinner + Mon Oct 12 tacos)",
+        "Organic grass-fed beef chuck roast (grass-finished when possible): 4 lb (Sun Oct 18 honey-balsamic beef + leftovers)",
+        "Organic air-chilled chicken breasts: 7 lb (Tue cashew chicken, Sat Greek bowls, Chloe's nuggets and chicken & rice, lunches)",
+        "Organic grass-fed extra-lean ground beef, 96/4 (grass-finished when possible): 3 lb (Wed cheeseburger bowls + lunches)",
+        "Wild-caught salmon fillets: 2 lb (Thu)",
+        "Organic grass-fed sirloin steaks (grass-finished when possible): 2.25 lb (Fri)",
+        "Organic grass-fed beef hot dogs (grass-finished when possible): 1 pack (Chloe's Tue lunch)",
+        "Organic chicken breakfast sausage (air-chilled organic chicken): 2 packs, ~12 oz each (egg bites)"
       ]
     },
     {
-      "section": "Dairy & eggs",
+      "section": "Eggs & dairy",
       "items": [
-        "Pasture-raised eggs: 2 dozen",
-        "Low-fat cottage cheese: 2 \u00d7 24 oz",
-        "Plain nonfat Greek yogurt: 2 \u00d7 32 oz",
-        "Shredded cheddar: 8 oz",
-        "Parmesan, wedge or grated: 1",
-        "Milk: 1 quart"
+        "Our usual Sprouts eggs: 3 dozen (egg bites, fried-egg toppers, nugget coating)",
+        "Organic low-fat cottage cheese: 3 \u00d7 24 oz (egg bites, Creami)",
+        "Organic plain nonfat Greek yogurt: 4 \u00d7 32 oz (yogurt bowls, mashed potatoes, tzatziki, burger sauce, honey mustard, tacos, Creami)",
+        "Organic shredded cheddar: 8 oz",
+        "Organic Parmesan, wedge or grated: 1 (zucchini fries)",
+        "Organic milk: \u00bd gallon (Creami re-spins, mashed potatoes)"
       ]
     },
     {
-      "section": "Vegetables (organic)",
+      "section": "Organic vegetables",
       "items": [
-        "Broccoli: 2 crowns",
-        "Bell peppers (red/yellow/orange): 4",
-        "Riced cauliflower: 3 \u00d7 12 oz bags",
-        "Asparagus: 2 bunches",
-        "Green beans: 1.5 lb",
-        "Romaine hearts: 1 pack",
-        "Persian cucumbers: 1 bag (~6)",
-        "English cucumbers: 3",
-        "Zucchini: 4 medium",
-        "Green cabbage: 1 small + red cabbage: 1 small (or 14 oz coleslaw mix)",
-        "Carrots: 2 lb",
-        "Red onion: 1",
-        "Tomatoes: 2 pints cherry + 3 Roma",
-        "Yukon Gold or russet potatoes: 6 lb",
-        "Spinach: 5 oz",
-        "Yellow onions: 2 \u00b7 Garlic: 2 heads \u00b7 Fresh ginger: 1 knob",
-        "Fresh dill: 1 bunch"
+        "Organic potatoes, Yukon Gold or russet: 10 lb (Oct 11 and Oct 18 mash, Fri air-fryer potatoes, Chloe's wedges)",
+        "Organic carrots: 4 lb (Oct 11 roast, Mon slaw, Sun peas and carrots)",
+        "Organic fennel: 2 bulbs (Oct 11 fennel-apple slaw)",
+        "Organic green cabbage: 1 medium + organic red cabbage: 1 small, or 2 bags organic coleslaw mix (Mon slaw)",
+        "Organic broccoli: 3 crowns (Tue cashew chicken)",
+        "Organic bell peppers (red/yellow/orange): 6 (Tue)",
+        "Organic riced cauliflower: 5 \u00d7 12 oz bags, fresh or frozen",
+        "Organic Persian cucumbers: 2 bags (Tue smashed cucumber salad)",
+        "Organic English cucumbers: 4 (Sat salad, tzatziki, Chloe's snacks)",
+        "Organic zucchini: 6 medium (Wed zucchini fries)",
+        "Organic romaine hearts: 2 packs (Wed bowls)",
+        "Organic asparagus: 3 bunches (Thu)",
+        "Organic green beans: 2.5 lb (Fri)",
+        "Organic tomatoes: 3 pints cherry + 4 Roma (Wed, Sat)",
+        "Organic red onion: 1 (Sat salad)",
+        "Organic baby spinach: 10 oz (egg bites)",
+        "Organic yellow onions: 4 \u00b7 organic garlic: 3 heads \u00b7 organic ginger: 1 knob",
+        "Organic fresh dill: 2 bunches (tzatziki, peas and carrots)",
+        "Organic frozen peas: 2 \u00d7 16 oz bags (Sun Oct 18 peas and carrots)"
       ]
     },
     {
-      "section": "Weekly organic fruit",
+      "section": "Organic fruit",
       "items": [
-        "Mangoes: 4",
-        "Apples: 8",
-        "Kiwis: 8",
-        "Bananas: 1 bunch (6\u20137)",
-        "Strawberries: 2 lb",
-        "Blueberries: 2 pints",
-        "Raspberries: 1 pint",
-        "Mandarins: 1 bag",
-        "Frozen mango chunks: 1 bag",
-        "Frozen peas: 1 bag, 16 oz",
-        "Lemons: 6 \u00b7 Limes: 2"
+        "Organic mangoes: 6 (Chloe's lunches, yogurt bowls, Creami)",
+        "Organic apples: 12 (incl. 2 for the fennel-apple slaw)",
+        "Organic kiwis: 10",
+        "Organic bananas: 2 bunches (ripe ones for Creami)",
+        "Organic strawberries: 3 lb",
+        "Organic blueberries: 3 pints",
+        "Organic raspberries: 2 pints",
+        "Organic mandarins: 2 bags",
+        "Organic frozen mango chunks: 1 bag (Creami backup)",
+        "Organic lemons: 8 \u00b7 organic limes: 3"
       ]
     },
     {
       "section": "Pantry & house staples",
       "items": [
-        "Bone broth (chicken or beef): 4 \u00d7 32 oz cartons",
-        "Unflavored grass-fed gelatin: 1 canister (if low)",
-        "Avocado-oil spray: 1 can",
-        "Organic jasmine rice: 2 lb bag (if low)",
-        "Unsalted cashews: 8 oz",
-        "Honey: 1 jar (if low)",
-        "Coconut aminos or low-sodium tamari: 1 bottle",
-        "Cornstarch or arrowroot (if low)",
-        "Balsamic vinegar (if low)",
-        "Dijon and yellow mustard (if low)",
-        "Dill pickles: 1 jar",
-        "Mild salsa: 1 jar",
-        "Breadcrumbs (whole-wheat or panko): 1 container",
-        "Whole-grain hot dog buns: 1 pack",
-        "Whole-wheat tortillas (small): 1 pack",
-        "Rice vinegar: 1 bottle (if out)",
-        "Toasted sesame oil: 1 small bottle (if out)",
-        "Sesame seeds: 1 small jar (if out)",
-        "Granola: 1 bag",
-        "Pure vanilla extract (if low)",
-        "Spices if low: smoked paprika, dried oregano, garlic powder",
-        "For Rory only: chipotle in adobo or hot sauce (if out)"
+        "Organic bone broth, chicken or beef: 6 \u00d7 32 oz (rice, roasts, saut\u00e9ing, mashed potatoes, cashew sauce)",
+        "Organic avocado-oil spray: 2 cans (no bottled cooking oil needed)",
+        "Organic corn tortillas: 2 packs, ~24 small (Mon Oct 12 tacos)",
+        "Organic unsalted cashews: 12 oz",
+        "Organic coconut aminos or low-sodium tamari: 1 bottle",
+        "Organic mild salsa: 2 jars (Mon tacos)",
+        "Organic dill pickles: 1 jar",
+        "Organic whole-wheat or panko breadcrumbs: 1 container (nuggets)",
+        "Organic whole-grain hot dog buns: 1 pack (Chloe's Tue lunch)",
+        "Organic small whole-wheat tortillas: 1 pack (Chloe's Thu wrap)",
+        "Organic granola: 2 bags"
+      ]
+    },
+    {
+      "section": "Pantry \u2014 if running low",
+      "items": [
+        "Organic unflavored grass-fed gelatin: 1 canister (if running low)",
+        "Organic jasmine rice: 3 lb (if running low)",
+        "Organic honey: 1 jar (if running low)",
+        "Organic rice vinegar, toasted sesame oil (used by the drop), and sesame seeds (if out)",
+        "Organic balsamic vinegar, Dijon and yellow mustard, cornstarch or arrowroot, and vanilla extract (if out)",
+        "Organic smoked paprika, dried oregano, and garlic powder (if low)",
+        "For Rory only: organic chipotle in adobo or hot sauce (if out)"
       ]
     }
   ],
@@ -725,6 +775,20 @@
       "cal": 62,
       "protein": 3.0,
       "carbs": 12.8,
+      "fat": 0.2
+    },
+    "fennelslaw": {
+      "name": "Shaved fennel-apple slaw",
+      "cal": 45,
+      "protein": 0.8,
+      "carbs": 11,
+      "fat": 0.2
+    },
+    "carrots_b": {
+      "name": "Braised carrots",
+      "cal": 41,
+      "protein": 0.9,
+      "carbs": 9.6,
       "fat": 0.2
     }
   }

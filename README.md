@@ -1,6 +1,6 @@
 # Meal Prep · Reiff household
 
-Mobile-first static web app for weekly meal prep (Rory, Wendy, Chloe).
+Mobile-first static web app for weekly meal prep (Rory, Wendy, Chloe; scaled for guests when noted).
 
 **Live:** https://roryreiff.github.io/meal-prep/
 

@@ -8,6 +8,10 @@
 
   const DAY_ORDER = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
   function byDayOrder(a, b) {
+    // First-cook night (Sun Oct 11) stays pinned at the top; then Mon→Sun.
+    const aFirst = a.firstCook ? 0 : 1;
+    const bFirst = b.firstCook ? 0 : 1;
+    if (aFirst !== bFirst) return aFirst - bFirst;
     const ia = DAY_ORDER.indexOf(a.day);
     const ib = DAY_ORDER.indexOf(b.day);
     return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib);
@@ -15,7 +19,7 @@
 
     const titles = {
     menu: ["This week", null],
-    grocery: ["Grocery list", "Sprouts · check as you shop"],
+    grocery: ["Grocery list", "Sprouts · estimates labeled · check as you shop"],
     prep: ["Sunday prep", "~90 minutes · check off as you go"],
     calc: ["Macro calculator", "Weigh · estimate · hit ~600 cal / 45g+ protein"],
     ratings: ["Ratings", "Thumbs + notes so favorites rotate back in"],
@@ -102,7 +106,10 @@
     const [t, sub] = titles[name];
     $("#header-title").textContent = t;
     $("#header-sub").textContent =
-      sub || (DATA ? `${DATA.weekLabel} · ${DATA.household.join(", ")}` : "");
+      sub ||
+      (DATA
+        ? `${DATA.weekLabel} · ${DATA.headcount || DATA.household.length} people`
+        : "");
     if (name === "calc") renderCalc();
     if (name === "ratings") renderRatings();
   }
@@ -119,7 +126,7 @@
         return `
         <article class="card ${d.anchor ? "anchor" : ""}">
           <div class="card-top">
-            <span class="day-badge ${d.anchor ? "anchor" : ""}">${esc(d.day)} ${esc(d.date)}${d.anchor ? " · slow cook" : ""}</span>
+            <span class="day-badge ${d.anchor || d.firstCook ? "anchor" : ""}">${esc(d.day)} ${esc(d.date)}${d.firstCook ? " · first cook" : d.anchor ? " · slow cook" : ""}</span>
             <span class="macros-pill">~${d.cal} cal · ${d.protein}g protein</span>
           </div>
           <h3 class="meal-name">${esc(d.name)}${thumb}</h3>
@@ -165,11 +172,20 @@
   }
 
   /* ---------- GROCERY ---------- */
+  function money(n) {
+    return Number(n).toLocaleString("en-US", {
+      style: "currency",
+      currency: "USD",
+    });
+  }
+
   function renderGrocery() {
     const root = $("#view-grocery");
     const { checked } = groceryState(DATA);
     let total = 0;
     let done = 0;
+    const est = (DATA && DATA.costEstimates) || null;
+    const sectionCosts = (est && est.sections) || {};
     const sections = DATA.grocery
       .map((sec, si) => {
         const rows = sec.items
@@ -185,16 +201,31 @@
             </label>`;
           })
           .join("");
-        return `<div class="grocery-section"><h3>${esc(sec.section)}</h3>${rows}</div>`;
+        const cost = sectionCosts[sec.section];
+        const costHtml =
+          cost != null
+            ? `<span class="section-cost">Est. ${money(cost)}</span>`
+            : "";
+        return `<div class="grocery-section"><h3>${esc(sec.section)}${costHtml}</h3>${rows}</div>`;
       })
       .join("");
+
+    const costBanner = est
+      ? `<div class="cost-banner card">
+          <div class="cost-banner-title">Estimated grocery cost</div>
+          <div class="cost-banner-total">${money(est.coreTotal)} <span class="muted">core</span></div>
+          <div class="cost-banner-sub">${money(est.withPantryLow)} incl. if-running-low pantry · ${esc(est.label || "Estimates")}</div>
+          <div class="cost-banner-note muted">${esc(est.note || "")}</div>
+        </div>`
+      : "";
 
     root.innerHTML = `
       <div class="toolbar">
         <button type="button" class="btn secondary" id="groc-uncheck">Clear checks</button>
         <button type="button" class="btn secondary" id="groc-checkall">Check all</button>
       </div>
-      <div class="progress">${done} of ${total} checked · Sprouts (Whole Foods backup)</div>
+      <div class="progress">${done} of ${total} checked · Sprouts (Whole Foods backup) · for ${DATA.headcount || DATA.household.length}</div>
+      ${costBanner}
       ${sections}
     `;
 
