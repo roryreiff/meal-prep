@@ -117,6 +117,7 @@
           </div>
           <h3 class="meal-name">${esc(d.name)}${thumb}</h3>
           <p class="meal-desc">${esc(d.desc)}</p>
+          ${d.side ? `<p class="meal-desc" style="margin-top:6px"><strong style="color:var(--sageD)">Side:</strong> ${esc(d.side)}</p>` : ""}
           <p class="est-note">Estimate for Rory's plate (veggie side included). Weigh with Macros tab for precision.</p>
         </article>`;
       })
