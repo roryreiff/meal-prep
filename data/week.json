@@ -1,795 +1,1172 @@
 {
-  "weekLabel": "Sun Oct 11 cook \u00b7 Mon Oct 12 \u2013 Sun Oct 18",
-  "headcount": 5,
-  "household": [
-    "Rory",
-    "Wendy",
-    "Chloe",
-    "+ 2 adult guests"
-  ],
-  "targets": {
-    "calories": 600,
-    "protein": 45
+ "weekLabel": "Sun Oct 11 cook · Mon Oct 12 – Sun Oct 18",
+ "headcount": 5,
+ "household": [
+  "Rory",
+  "Wendy",
+  "Chloe",
+  "+ 2 adult guests"
+ ],
+ "targets": {
+  "calories": 600,
+  "protein": 45
+ },
+ "notes": "Headcount 5 this week (Rory, Wendy, Chloe + 2 adult guests). Chloe's lunches are just for her; Rory's plate macros unchanged. Everything mild; heat on the side for Rory. Quality: organic; beef grass-fed/finished when possible; chicken air-chilled organic; seafood wild-caught. Rice in bone broth; gelatin in beef. Low oil (spray/air fryer/broth). Named veggie side each night. Every recipe has full quantities for 5: tap 'Recipe' on each dinner. Every recipe has full quantities for 5: tap 'Recipe' on each dinner. Macros are estimates.",
+ "costEstimates": {
+  "currency": "USD",
+  "pricedOn": "2026-10-05",
+  "label": "Estimated · Sprouts prices · excl. tax/delivery",
+  "sections": {
+   "Meat & seafood": 331.24,
+   "Eggs & dairy": 97.85,
+   "Organic vegetables": 187.81,
+   "Organic fruit": 131.25,
+   "Pantry & house staples": 159.17,
+   "Pantry — if running low": 47.28
   },
-  "notes": "Headcount 5 this week (Rory, Wendy, Chloe + 2 adult guests). Chloe's lunches are just for her; Rory's plate macros unchanged. Everything mild; heat on the side for Rory. Quality: organic; beef grass-fed/finished when possible; chicken air-chilled organic; seafood wild-caught. Rice in bone broth; gelatin in beef. Low oil (spray/air fryer/broth). Named veggie side each night. Macros are estimates.",
-  "costEstimates": {
-    "currency": "USD",
-    "pricedOn": "2026-10-05",
-    "label": "Estimated \u00b7 Sprouts prices \u00b7 excl. tax/delivery",
-    "sections": {
-      "Meat & seafood": 320.75,
-      "Eggs & dairy": 97.85,
-      "Organic vegetables": 194.59,
-      "Organic fruit": 128.53,
-      "Pantry & house staples": 159.17,
-      "Pantry \u2014 if running low": 47.28
+  "coreTotal": 907.32,
+  "withPantryLow": 954.6,
+  "note": "Estimates from Sprouts/Instacart prices found Oct 5, 2026 ET, updated for Rory's apple-ginger roast (+0.75 lb chuck, +2 apples, −2 lb carrots, −1 bag peas = +$6.43). New roast items (tamari, tomato paste, green onions; ACV/cinnamon/star anise if out) are not priced yet: rough estimate ~$8–14, plus ~$8–21 if out or optional. Excludes tax/delivery."
+ },
+ "dinners": [
+  {
+   "day": "Sun",
+   "date": "Oct 11",
+   "name": "Rory's Mild Apple-Ginger Braised Chuck Roast",
+   "desc": "Rory's recipe as written (1.5× for 5 lb grass-fed, grass-finished chuck): grated apple, onion, garlic, ginger, honey, cider vinegar, low-sodium tamari, beef broth, sesame oil, and tomato paste, braised covered 4 hr at 325°F in his ceramic pot, then shredded in the juices. Served with broth-and-yogurt mashed potatoes. Leftovers become Monday's tacos.",
+   "side": "Shaved fennel-apple slaw: fennel, apple, lemon juice, a drizzle of honey, a pinch of salt. Thinly slice and toss, 10 min.",
+   "cal": 580,
+   "protein": 55,
+   "anchor": true,
+   "firstCook": true,
+   "plate": [
+    {
+     "id": "agchuck",
+     "g": 190
     },
-    "coreTotal": 900.89,
-    "withPantryLow": 948.17,
-    "note": "Estimates from Sprouts/Instacart prices priced Oct 5, 2026 ET. Excludes tax/delivery. If-running-low items optional."
+    {
+     "id": "mash",
+     "g": 150
+    },
+    {
+     "id": "fennelslaw",
+     "g": 150
+    }
+   ],
+   "recipe": {
+    "serves": "5 for Sunday dinner + ~750 g shredded beef for Monday's tacos",
+    "time": "15 min prep · 4 hr covered braise at 325°F",
+    "ingredients": [
+     "5 lb chuck roast (or blade roast); one 5 lb roast or two ~2½ lb roasts",
+     "1½ large apples (Honeycrisp or Fuji), grated (~1½ cups)",
+     "1½ medium yellow onions, diced",
+     "6 garlic cloves, minced",
+     "1½-inch piece fresh ginger, minced or grated (~1½ Tbsp)",
+     "3 Tbsp honey",
+     "3 Tbsp apple cider vinegar",
+     "¾ cup low-sodium soy sauce (or tamari)",
+     "3 cups beef broth",
+     "1½ Tbsp toasted sesame oil (optional, but worth it)",
+     "1½ Tbsp tomato paste or 1½ tsp white miso (optional umami boost, not spicy)",
+     "Neutral oil (about 1 Tbsp to sear), salt (guide: 1½ tsp kosher), and black pepper (guide: 1 tsp)",
+     "Optional garnish: 3 green onions, sliced; 1 Tbsp toasted sesame seeds",
+     "Optional: 1 cinnamon stick + 1 star anise (in for the first 3 hours, then pull before shredding)"
+    ],
+    "steps": [
+     "Heat oven to 325°F, with a rack low enough to fit the covered pot.",
+     "Pat the roast dry. Season all sides with salt and pepper (about 1½ tsp kosher salt and 1 tsp pepper for 5 lb; the soy adds more salt). In a Dutch oven, sear in a little oil until well browned on both sides, 4–5 min per side (optional but better flavor). Sear two roasts one at a time. Leave the roast in the pot.",
+     "Add the grated apple, onion, garlic, ginger, honey, vinegar, soy sauce, broth, sesame oil, and tomato paste or miso if using. Add the cinnamon stick and star anise now if using. Turn the roast so it's coated.",
+     "Cover tightly and braise 4 hours, undisturbed, until it shreds easily with two forks (about 200–205°F inside). If using the cinnamon and star anise, pull them at the 3-hour mark.",
+     "Shred the beef in the pot and toss it through the juices. If the sauce is thin, simmer uncovered on the stove a few minutes to reduce.",
+     "Serve over the broth-and-yogurt mash with the fennel-apple slaw on the side. Garnish with green onion and sesame seeds."
+    ],
+    "scale": "Rory's recipe as written, scaled 1.5× for a 5 lb roast (the original is for a 3–4 lb roast and serves 6–8). Ingredients, ratios, and method are unchanged.",
+    "tweaks": [
+     "Sear with avocado-oil cooking spray instead of pouring in the neutral oil.",
+     "Use beef bone broth for the beef broth (same 3 cups).",
+     "Add the usual gelatin: bloom 2 Tbsp unflavored grass-fed gelatin in ½ cup of the measured broth for 5 min, then add it with the liquids.",
+     "Rory cooks this in his ceramic pot (Dutch-oven style; fine in a 325°F oven). For 5 lb it needs about 6 qt or more. If the pot isn't stovetop-rated, sear in a 12-inch stainless skillet and reduce the juices in a stainless saucepan.",
+     "Everything organic; the chuck should be grass-fed and grass-finished."
+    ],
+    "rump": "Rump works too (from Rory's notes): it's leaner, so use the same 325°F covered braise but plan on 4–4½ hours, then check and give it another 30 min if it doesn't pull apart. If the pot looks dry at the 3-hour mark, add ½ cup more broth. Slice against the grain if it resists shredding, and let it rest in the sauce 10–15 min.",
+    "leftovers": "Monday: ~750 g shredded beef plus 1 cup of the juices go into one glass container in the fridge (keeps 3–4 days). Monday's tacos, or burritos using Rory's burrito build, are always mild, with heat on the side for Rory.",
+    "rory": "Rory's plate: 190 g shredded beef with juices + 150 g mash + 150 g fennel-apple slaw ≈ 580 cal · 55 g protein (about 600 with a spoonful of extra juices and the garnish)."
+   },
+   "sideRecipes": [
+    {
+     "serves": "5 (~1.1 kg); same recipe Sun Oct 11 and Sun Oct 18",
+     "time": "10 min prep · 25 min cook",
+     "ingredients": [
+      "3 lb Yukon Gold potatoes, peeled, in 1½-inch chunks",
+      "1 Tbsp salt (for the cooking water)",
+      "¾ cup bone broth, warmed",
+      "¾ cup plain nonfat Greek yogurt, room temperature",
+      "½ tsp salt and ¼ tsp black pepper"
+     ],
+     "steps": [
+      "Put the potatoes in a large stainless pot, cover with cold water by 1 inch, and add 1 Tbsp salt.",
+      "Bring to a boil over high (~10 min), then simmer 12–15 min, until a knife slides through with no resistance.",
+      "Drain well and return to the warm pot for 1 min to steam dry.",
+      "Mash with the warm broth, then stir in the yogurt, salt, and pepper. Rory's portion is 150 g on Oct 11 and 160 g on Oct 18.",
+      "Leftovers: fridge up to 3 days. Reheat covered with 1–2 Tbsp broth until steaming."
+     ],
+     "title": "Broth-and-yogurt mashed potatoes"
+    },
+    {
+     "serves": "5 (~870 g)",
+     "time": "10 min",
+     "ingredients": [
+      "2 fennel bulbs (trimmed and thinly sliced, ~550 g), plus a handful of fronds, chopped",
+      "2 apples, cored and cut into thin matchsticks (~320 g)",
+      "3 Tbsp lemon juice (1½ lemons)",
+      "1 Tbsp honey",
+      "½ tsp salt"
+     ],
+     "steps": [
+      "Halve the fennel bulbs, cut out the cores, and slice paper-thin with a sharp knife or mandoline.",
+      "Cut the apples into matchsticks and toss them right away with the lemon juice so they don't brown.",
+      "Add the fennel, honey, salt, and fronds and toss. Make it at dinnertime; it's best within a day. Rory's portion is 150 g."
+     ],
+     "title": "Shaved fennel-apple slaw"
+    }
+   ]
   },
-  "dinners": [
+  {
+   "day": "Mon",
+   "date": "Oct 12",
+   "name": "Shredded roast tacos",
+   "desc": "Sunday's apple-ginger shredded chuck on corn tortillas with mild salsa and Greek yogurt (or burritos using Rory's build, or bone broth rice bowls with a fried egg). Mild; heat on the side for Rory.",
+   "side": "Honey-lime cabbage slaw: green + red cabbage, shredded carrot, lime, a little honey, salt. Shredded Sunday; toss with the dressing 10 min before dinner.",
+   "cal": 600,
+   "protein": 54,
+   "plate": [
     {
-      "day": "Sun",
-      "date": "Oct 11",
-      "name": "Chuck roast (first cook night)",
-      "desc": "Grass-fed chuck with gelatin, braised carrots, mashed potatoes with bone broth and Greek yogurt; leftovers become Monday's tacos",
-      "side": "Shaved fennel-apple slaw \u2014 fennel, apple, lemon juice, drizzle of honey, pinch of salt. Thinly slice and toss: 10 min.",
-      "cal": 590,
-      "protein": 56,
-      "anchor": true,
-      "firstCook": true,
-      "plate": [
-        {
-          "id": "chuck",
-          "g": 160
-        },
-        {
-          "id": "carrots_b",
-          "g": 100
-        },
-        {
-          "id": "mash",
-          "g": 160
-        },
-        {
-          "id": "fennelslaw",
-          "g": 150
-        }
-      ]
+     "id": "agchuck",
+     "g": 160
     },
     {
-      "day": "Mon",
-      "date": "Oct 12",
-      "name": "Shredded roast tacos",
-      "desc": "From Sun Oct 11 chuck roast on corn tortillas, mild salsa, Greek yogurt (or bone broth rice bowls with a fried egg)",
-      "side": "Honey-lime cabbage slaw \u2014 green + red cabbage, shredded carrot, lime, a little honey, salt. Toss Sunday; keeps 2 days.",
-      "cal": 600,
-      "protein": 58,
-      "plate": [
-        {
-          "id": "chuck",
-          "g": 150
-        },
-        {
-          "id": "tortilla",
-          "g": 78
-        },
-        {
-          "id": "yogurt",
-          "g": 50
-        },
-        {
-          "id": "slaw",
-          "g": 200
-        }
-      ]
+     "id": "tortilla",
+     "g": 78
     },
     {
-      "day": "Tue",
-      "date": "Oct 13",
-      "name": "Honey cashew chicken",
-      "desc": "Air-chilled chicken breast, peppers, broccoli, light honey-garlic-ginger sauce, toasted cashews, over bone broth + cauliflower rice",
-      "side": "Smashed cucumber salad \u2014 Persian cucumbers, rice vinegar, drops of toasted sesame oil, sesame seeds, salt. Smash, chunk, toss: 5 min.",
-      "cal": 600,
-      "protein": 59,
-      "plate": [
-        {
-          "id": "breast_c",
-          "g": 150
-        },
-        {
-          "id": "cashsauce",
-          "g": 60
-        },
-        {
-          "id": "cashews",
-          "g": 12
-        },
-        {
-          "id": "stirveg",
-          "g": 150
-        },
-        {
-          "id": "blend",
-          "g": 150
-        },
-        {
-          "id": "smashcuke",
-          "g": 150
-        }
-      ]
+     "id": "yogurt",
+     "g": 50
     },
     {
-      "day": "Wed",
-      "date": "Oct 14",
-      "name": "Cheeseburger bowls",
-      "desc": "Extra-lean grass-fed beef (with gelatin), bone broth + cauliflower rice, romaine, tomato, pickles, cheddar, Greek yogurt burger sauce; fried egg optional (+~80 cal, 6g protein)",
-      "side": "Air-fryer zucchini fries with parmesan \u2014 zucchini spears, avocado-oil spray, garlic powder, grated parmesan. 400\u00b0F for 10 min.",
-      "cal": 580,
-      "protein": 64,
-      "plate": [
-        {
-          "id": "cbeef",
-          "g": 170
-        },
-        {
-          "id": "blend",
-          "g": 150
-        },
-        {
-          "id": "burgerveg",
-          "g": 100
-        },
-        {
-          "id": "burgersauce",
-          "g": 50
-        },
-        {
-          "id": "cheddar",
-          "g": 15
-        },
-        {
-          "id": "zucc_fries",
-          "g": 150
-        }
-      ]
-    },
-    {
-      "day": "Thu",
-      "date": "Oct 15",
-      "name": "Honey-lemon wild salmon",
-      "desc": "Wild-caught salmon (air fryer) with bone broth + cauliflower rice (fresh-cooked, ~15 min)",
-      "side": "Garlic-lemon roasted asparagus \u2014 spray, garlic powder, lemon. 425\u00b0F for 8\u201310 min while the salmon cooks.",
-      "cal": 570,
-      "protein": 60,
-      "plate": [
-        {
-          "id": "salmon",
-          "g": 180
-        },
-        {
-          "id": "blend",
-          "g": 250
-        },
-        {
-          "id": "asparagus",
-          "g": 200
-        }
-      ]
-    },
-    {
-      "day": "Fri",
-      "date": "Oct 16",
-      "name": "Steak night",
-      "desc": "Grass-fed sirloin with air-fryer potatoes (fresh-cooked)",
-      "side": "Garlic green beans with lemon zest \u2014 green beans, garlic, broth, lemon. Covered steam-saut\u00e9 in \u00bc cup broth for 6 min.",
-      "cal": 570,
-      "protein": 60,
-      "plate": [
-        {
-          "id": "sirloin",
-          "g": 170
-        },
-        {
-          "id": "potatoes",
-          "g": 200
-        },
-        {
-          "id": "greenbeans",
-          "g": 200
-        }
-      ]
-    },
-    {
-      "day": "Sat",
-      "date": "Oct 17",
-      "name": "Greek chicken bowls",
-      "desc": "Lemon-oregano chicken breast, bone broth rice, Greek yogurt tzatziki",
-      "side": "Cucumber-tomato-red onion salad \u2014 cucumber, cherry tomatoes, thin red onion, lemon, dried oregano, salt. 5 min.",
-      "cal": 560,
-      "protein": 67,
-      "plate": [
-        {
-          "id": "breast_g",
-          "g": 160
-        },
-        {
-          "id": "rice",
-          "g": 150
-        },
-        {
-          "id": "greeksalad",
-          "g": 200
-        },
-        {
-          "id": "tzatziki",
-          "g": 100
-        }
-      ]
-    },
-    {
-      "day": "Sun",
-      "date": "Oct 18",
-      "name": "Honey-balsamic shredded beef",
-      "desc": "Slow-cook anchor: grass-fed chuck, bone broth, gelatin; broth-and-Greek-yogurt mashed potatoes",
-      "side": "Honey-dill peas and carrots \u2014 frozen peas, diced carrots, broth, a touch of honey, fresh dill. Simmer 6 min.",
-      "cal": 600,
-      "protein": 56,
-      "anchor": true,
-      "plate": [
-        {
-          "id": "hbbeef",
-          "g": 160
-        },
-        {
-          "id": "mash",
-          "g": 160
-        },
-        {
-          "id": "peascar",
-          "g": 150
-        }
-      ]
+     "id": "slaw",
+     "g": 200
     }
-  ],
-  "chloeLunches": [
+   ],
+   "recipe": {
+    "serves": "5",
+    "time": "20 min",
+    "ingredients": [
+     "~750 g apple-ginger shredded beef + 1 cup juices (from Sunday)",
+     "14–16 small organic corn tortillas",
+     "1 cup (230 g) plain nonfat Greek yogurt",
+     "1 cup mild salsa",
+     "Honey-lime slaw kit from Sunday (~850 g shredded cabbage and carrot + dressing jar: ¼ cup lime juice, 1½ Tbsp honey, ¾ tsp salt)",
+     "Optional: lime wedges, shredded cheddar",
+     "For Rory only: hot sauce or chipotle on the side"
+    ],
+    "steps": [
+     "10 min before dinner, pour the dressing over the slaw and toss.",
+     "Reheat the beef in a covered saucepan over medium-low with its juices for 8–10 min, stirring once or twice, until steaming and 165°F.",
+     "Warm the tortillas in a dry stainless skillet over medium-high, 30–45 sec per side, and stack them in a clean towel.",
+     "Build: a smear of yogurt, ~55 g beef per taco, slaw, then salsa. Rory: 160 g beef across 3 tortillas, 50 g yogurt, and 200 g slaw on the side (~600 cal · 54 g protein).",
+     "Bowl version: 120 g bone broth rice + beef + slaw, with a fried egg if you like (spray, 3 min).",
+     "Burrito option (Rory's burrito build, all mild): warm large flour tortillas, then layer a thin smear of yogurt with a squeeze of lime, warm rice, a generous pile of beef with extra sauce, melty cheese, and a cool crunch (slaw, lettuce, cucumber, or thin apple). Roll tight, seam-side down, and toast in a dry skillet until golden. For the drizzle, stir a little braising liquid into yogurt with lime. Heat goes on the side for Rory."
+    ]
+   }
+  },
+  {
+   "day": "Tue",
+   "date": "Oct 13",
+   "name": "Honey cashew chicken",
+   "desc": "Air-chilled chicken breast, peppers, broccoli, light honey-garlic-ginger sauce, toasted cashews, over bone broth + cauliflower rice",
+   "side": "Smashed cucumber salad — Persian cucumbers, rice vinegar, drops of toasted sesame oil, sesame seeds, salt. Smash, chunk, toss: 5 min.",
+   "cal": 600,
+   "protein": 59,
+   "plate": [
     {
-      "day": "Mon",
-      "date": "Oct 12",
-      "items": "Baked homemade chicken nuggets with Greek yogurt honey mustard, roasted potato wedges, mango chunks"
+     "id": "breast_c",
+     "g": 150
     },
     {
-      "day": "Tue",
-      "date": "Oct 13",
-      "items": "Grass-fed beef hot dog on a whole-grain bun, apple slices and kiwi"
+     "id": "cashsauce",
+     "g": 60
     },
     {
-      "day": "Wed",
-      "date": "Oct 14",
-      "items": "Chicken and bone broth rice, kiwi and berries"
+     "id": "cashews",
+     "g": 12
     },
     {
-      "day": "Thu",
-      "date": "Oct 15",
-      "items": "Chicken nugget wrap in a whole-wheat tortilla with honey mustard, mango and apple slices"
+     "id": "stirveg",
+     "g": 150
+    },
+    {
+     "id": "blend",
+     "g": 150
+    },
+    {
+     "id": "smashcuke",
+     "g": 150
     }
-  ],
-  "breakfasts": [
-    "Egg bites (two trays, ~24): usual Sprouts eggs, cottage cheese, organic chicken breakfast sausage, spinach",
-    "Greek yogurt bowls: berries, kiwi, granola; fruit on the side for Chloe"
-  ],
-  "lunches": "Grown-up lunches from leftover chicken and beef bowls (scaled for 5)",
-  "creami": [
+   ],
+   "recipe": {
+    "serves": "5",
+    "time": "20 min",
+    "ingredients": [
+     "~680 g garlic-ginger chicken, sliced (Pan A, from Sunday)",
+     "~300 g honey cashew sauce (from Sunday)",
+     "Cut stir-fry veg: 3 bell peppers + 2 broccoli crowns (~850 g, from Sunday)",
+     "¼ cup bone broth (veg) + 2 Tbsp (rice reheat)",
+     "650 g bone broth rice + cauliflower rice blend (from Sunday)",
+     "70 g toasted cashews (from Sunday)",
+     "Smashed cucumber salad: 1½ lb Persian cucumbers (8–10), 2 Tbsp rice vinegar, ½ tsp toasted sesame oil, 2 tsp sesame seeds, ¾ tsp salt"
+    ],
+    "steps": [
+     "Cucumbers first: smash each one with the flat of a knife, cut into 1-inch chunks, and toss with the vinegar, sesame oil, sesame seeds, and salt. Let them sit while you cook.",
+     "In a 12-inch skillet over medium-high, add the veg and ¼ cup broth. Cover for 3 min, then uncover and cook 2–3 min until crisp-tender and the broth has cooked off.",
+     "Add the chicken and sauce and toss 3–4 min, until the sauce bubbles and the chicken is 165°F.",
+     "Reheat the blend in a covered saucepan with 2 Tbsp broth for 5–6 min, stirring (or microwave covered 3–4 min, stirring halfway), until steaming.",
+     "Serve over the blend with cashews on top. Rory: 150 g chicken, 60 g sauce, 150 g veg, 150 g blend, 12 g cashews, and 150 g cucumbers."
+    ]
+   }
+  },
+  {
+   "day": "Wed",
+   "date": "Oct 14",
+   "name": "Cheeseburger bowls",
+   "desc": "Extra-lean grass-fed beef (with gelatin), bone broth + cauliflower rice, romaine, tomato, pickles, cheddar, Greek yogurt burger sauce; fried egg optional (+~80 cal, 6g protein)",
+   "side": "Air-fryer zucchini fries with parmesan — zucchini spears, avocado-oil spray, garlic powder, grated parmesan. 400°F for 10 min.",
+   "cal": 580,
+   "protein": 64,
+   "plate": [
     {
-      "name": "Honey vanilla protein (\u00d72 pints)",
-      "desc": "Cottage cheese, Greek yogurt, honey, vanilla"
+     "id": "cbeef",
+     "g": 170
     },
     {
-      "name": "Mango-banana (\u00d72 pints, Chloe's pick)",
-      "desc": "Mango, banana, Greek yogurt"
+     "id": "blend",
+     "g": 150
+    },
+    {
+     "id": "burgerveg",
+     "g": 100
+    },
+    {
+     "id": "burgersauce",
+     "g": 50
+    },
+    {
+     "id": "cheddar",
+     "g": 15
+    },
+    {
+     "id": "zfries",
+     "g": 150
     }
-  ],
-  "prep": [
+   ],
+   "recipe": {
+    "serves": "5",
+    "time": "25 min",
+    "ingredients": [
+     "750 g cheeseburger beef (from Sunday) + 2 Tbsp bone broth",
+     "650 g bone broth + cauliflower rice blend (from Sunday) + 2 Tbsp broth",
+     "2 romaine hearts, chopped (~300 g, from Sunday)",
+     "2 Roma tomatoes, diced (~200 g)",
+     "½ cup chopped dill pickles (~75 g)",
+     "~230 g Greek yogurt burger sauce (from Sunday)",
+     "70 g (⅔ cup) shredded cheddar",
+     "Zucchini fries: 6 medium zucchini (~1.2 kg), avocado-oil spray, 1 tsp garlic powder, ½ tsp salt, ⅓ cup (30 g) grated parmesan",
+     "Optional: 1 egg per person, fried in spray"
+    ],
+    "steps": [
+     "Zucchini fries: cut the zucchini into ½-inch spears about 3 inches long. Spray, then toss with the garlic powder, salt, and parmesan. Air-fry at 400°F for 10–12 min in a single layer (2–3 batches), shaking halfway, until browned.",
+     "Reheat the beef in a skillet with 2 Tbsp broth for 5–6 min, until 165°F. Reheat the blend covered with 2 Tbsp broth, 5–6 min.",
+     "Dice the tomatoes and chop the pickles.",
+     "Build bowls: blend, beef, romaine, tomato, pickles, a little cheddar, and 2–3 Tbsp burger sauce. Rory: 170 g beef, 150 g blend, 100 g veg, 50 g sauce, 15 g cheddar, and 150 g fries. A fried egg adds ~80 cal and 6 g protein."
+    ]
+   }
+  },
+  {
+   "day": "Thu",
+   "date": "Oct 15",
+   "name": "Honey-lemon wild salmon",
+   "desc": "Wild-caught salmon (air fryer) with bone broth + cauliflower rice (fresh-cooked, ~15 min)",
+   "side": "Garlic-lemon roasted asparagus — spray, garlic powder, lemon. 425°F for 8–10 min while the salmon cooks.",
+   "cal": 570,
+   "protein": 60,
+   "plate": [
     {
-      "t": "0:00",
-      "step": "Sear the 4\u20134.5 lb chuck roast (avocado-oil spray), then slow cooker with carrots, onion, bone broth, gelatin (Sun dinner + Mon tacos). Oven to 425\u00b0F. Start a double batch of jasmine rice in bone broth (~3 cups dry)."
+     "id": "salmon",
+     "g": 180
     },
     {
-      "t": "0:10",
-      "step": "~4.5 lb chicken breasts on 2\u20133 parchment pans: garlic-ginger (Tue) and lemon-oregano (Sat)."
+     "id": "blend",
+     "g": 250
     },
     {
-      "t": "0:20",
-      "step": "Chloe's nuggets (egg + seasoned breadcrumbs, light spray), bake or air-fry. Potato wedges on a parchment pan with spray (Mon lunch). Mix the Greek yogurt honey mustard."
-    },
-    {
-      "t": "0:30",
-      "step": "Brown ~3 lb extra-lean beef in broth, then stir in bloomed gelatin (Wed)."
-    },
-    {
-      "t": "0:40",
-      "step": "Honey cashew sauce, burger sauce, tzatziki. Toast cashews (store separately)."
-    },
-    {
-      "t": "0:50",
-      "step": "Cauliflower rice saut\u00e9ed in broth, then folded into half the rice. Two trays of egg bites (~24) into the oven."
-    },
-    {
-      "t": "1:00",
-      "step": "4 Creami pints blended and frozen (2 honey vanilla, 2 mango-banana)."
-    },
-    {
-      "t": "1:10",
-      "step": "Cut peppers and broccoli for Tue; shred the honey-lime cabbage slaw for Mon tacos; wash romaine, slice tomatoes and pickles for Wed; cut fruit for Chloe's lunches."
-    },
-    {
-      "t": "1:20",
-      "step": "Weigh, portion, label. Freeze Sat's chicken, then move it to the fridge Thu night."
-    },
-    {
-      "t": "1:30",
-      "step": "Done. At dinner: broth-and-yogurt mashed potatoes and shaved fennel-apple slaw for 5."
+     "id": "asparagus",
+     "g": 200
     }
-  ],
-  "prepNote": "Sun Oct 18: honey-balsamic beef goes in the slow cooker that morning; peas and carrots at dinner. First batch cook is Sun Oct 11 (~90\u2013105 min for 5).",
-  "grocery": [
+   ],
+   "recipe": {
+    "serves": "5",
+    "time": "20 min (fresh-cooked)",
+    "ingredients": [
+     "2 lb wild-caught salmon, cut into 5 portions (~7 oz each for the adults, ~3 oz for Chloe)",
+     "Glaze: 2 Tbsp honey, 2 Tbsp lemon juice, zest of 1 lemon, 1 garlic clove (grated), ½ tsp salt, ¼ tsp pepper",
+     "Avocado-oil spray",
+     "1,075 g bone broth + cauliflower rice blend (moved from the freezer to the fridge Wed night) + 3 Tbsp broth",
+     "Asparagus: 3 bunches (~3 lb, trimmed), spray, ½ tsp garlic powder, ½ tsp salt, 1 Tbsp lemon juice"
+    ],
+    "steps": [
+     "Oven to 425°F. Spread the asparagus on 2 parchment-lined sheet pans, spray, and season with the garlic powder and salt.",
+     "Pat the salmon dry and spray the air-fryer basket. Stir the glaze together and brush half of it on the salmon.",
+     "Air-fry the salmon at 400°F for 8–10 min in batches, skin-side down, until it flakes easily and reads 145°F in the thickest part. Brush on the rest of the glaze in the last 2 min.",
+     "While the salmon cooks, roast the asparagus 8–10 min until bright and just tender, then squeeze lemon over it.",
+     "Reheat the blend in a covered skillet with 3 Tbsp broth for 6–8 min, stirring, until steaming. Rory: 180 g salmon, 250 g blend, 200 g asparagus."
+    ]
+   }
+  },
+  {
+   "day": "Fri",
+   "date": "Oct 16",
+   "name": "Steak night",
+   "desc": "Grass-fed sirloin with air-fryer potatoes (fresh-cooked)",
+   "side": "Garlic green beans with lemon zest — green beans, garlic, broth, lemon. Covered steam-sauté in ¼ cup broth for 6 min.",
+   "cal": 570,
+   "protein": 60,
+   "plate": [
     {
-      "section": "Meat & seafood",
-      "items": [
-        "Organic grass-fed beef chuck roast (grass-finished when possible): 4\u20134.5 lb (Sun Oct 11 dinner + Mon Oct 12 tacos)",
-        "Organic grass-fed beef chuck roast (grass-finished when possible): 4 lb (Sun Oct 18 honey-balsamic beef + leftovers)",
-        "Organic air-chilled chicken breasts: 7 lb (Tue cashew chicken, Sat Greek bowls, Chloe's nuggets and chicken & rice, lunches)",
-        "Organic grass-fed extra-lean ground beef, 96/4 (grass-finished when possible): 3 lb (Wed cheeseburger bowls + lunches)",
-        "Wild-caught salmon fillets: 2 lb (Thu)",
-        "Organic grass-fed sirloin steaks (grass-finished when possible): 2.25 lb (Fri)",
-        "Organic grass-fed beef hot dogs (grass-finished when possible): 1 pack (Chloe's Tue lunch)",
-        "Organic chicken breakfast sausage (air-chilled organic chicken): 2 packs, ~12 oz each (egg bites)"
-      ]
+     "id": "sirloin",
+     "g": 170
     },
     {
-      "section": "Eggs & dairy",
-      "items": [
-        "Our usual Sprouts eggs: 3 dozen (egg bites, fried-egg toppers, nugget coating)",
-        "Organic low-fat cottage cheese: 3 \u00d7 24 oz (egg bites, Creami)",
-        "Organic plain nonfat Greek yogurt: 4 \u00d7 32 oz (yogurt bowls, mashed potatoes, tzatziki, burger sauce, honey mustard, tacos, Creami)",
-        "Organic shredded cheddar: 8 oz",
-        "Organic Parmesan, wedge or grated: 1 (zucchini fries)",
-        "Organic milk: \u00bd gallon (Creami re-spins, mashed potatoes)"
-      ]
+     "id": "potato",
+     "g": 200
     },
     {
-      "section": "Organic vegetables",
-      "items": [
-        "Organic potatoes, Yukon Gold or russet: 10 lb (Oct 11 and Oct 18 mash, Fri air-fryer potatoes, Chloe's wedges)",
-        "Organic carrots: 4 lb (Oct 11 roast, Mon slaw, Sun peas and carrots)",
-        "Organic fennel: 2 bulbs (Oct 11 fennel-apple slaw)",
-        "Organic green cabbage: 1 medium + organic red cabbage: 1 small, or 2 bags organic coleslaw mix (Mon slaw)",
-        "Organic broccoli: 3 crowns (Tue cashew chicken)",
-        "Organic bell peppers (red/yellow/orange): 6 (Tue)",
-        "Organic riced cauliflower: 5 \u00d7 12 oz bags, fresh or frozen",
-        "Organic Persian cucumbers: 2 bags (Tue smashed cucumber salad)",
-        "Organic English cucumbers: 4 (Sat salad, tzatziki, Chloe's snacks)",
-        "Organic zucchini: 6 medium (Wed zucchini fries)",
-        "Organic romaine hearts: 2 packs (Wed bowls)",
-        "Organic asparagus: 3 bunches (Thu)",
-        "Organic green beans: 2.5 lb (Fri)",
-        "Organic tomatoes: 3 pints cherry + 4 Roma (Wed, Sat)",
-        "Organic red onion: 1 (Sat salad)",
-        "Organic baby spinach: 10 oz (egg bites)",
-        "Organic yellow onions: 4 \u00b7 organic garlic: 3 heads \u00b7 organic ginger: 1 knob",
-        "Organic fresh dill: 2 bunches (tzatziki, peas and carrots)",
-        "Organic frozen peas: 2 \u00d7 16 oz bags (Sun Oct 18 peas and carrots)"
-      ]
-    },
-    {
-      "section": "Organic fruit",
-      "items": [
-        "Organic mangoes: 6 (Chloe's lunches, yogurt bowls, Creami)",
-        "Organic apples: 12 (incl. 2 for the fennel-apple slaw)",
-        "Organic kiwis: 10",
-        "Organic bananas: 2 bunches (ripe ones for Creami)",
-        "Organic strawberries: 3 lb",
-        "Organic blueberries: 3 pints",
-        "Organic raspberries: 2 pints",
-        "Organic mandarins: 2 bags",
-        "Organic frozen mango chunks: 1 bag (Creami backup)",
-        "Organic lemons: 8 \u00b7 organic limes: 3"
-      ]
-    },
-    {
-      "section": "Pantry & house staples",
-      "items": [
-        "Organic bone broth, chicken or beef: 6 \u00d7 32 oz (rice, roasts, saut\u00e9ing, mashed potatoes, cashew sauce)",
-        "Organic avocado-oil spray: 2 cans (no bottled cooking oil needed)",
-        "Organic corn tortillas: 2 packs, ~24 small (Mon Oct 12 tacos)",
-        "Organic unsalted cashews: 12 oz",
-        "Organic coconut aminos or low-sodium tamari: 1 bottle",
-        "Organic mild salsa: 2 jars (Mon tacos)",
-        "Organic dill pickles: 1 jar",
-        "Organic whole-wheat or panko breadcrumbs: 1 container (nuggets)",
-        "Organic whole-grain hot dog buns: 1 pack (Chloe's Tue lunch)",
-        "Organic small whole-wheat tortillas: 1 pack (Chloe's Thu wrap)",
-        "Organic granola: 2 bags"
-      ]
-    },
-    {
-      "section": "Pantry \u2014 if running low",
-      "items": [
-        "Organic unflavored grass-fed gelatin: 1 canister (if running low)",
-        "Organic jasmine rice: 3 lb (if running low)",
-        "Organic honey: 1 jar (if running low)",
-        "Organic rice vinegar, toasted sesame oil (used by the drop), and sesame seeds (if out)",
-        "Organic balsamic vinegar, Dijon and yellow mustard, cornstarch or arrowroot, and vanilla extract (if out)",
-        "Organic smoked paprika, dried oregano, and garlic powder (if low)",
-        "For Rory only: organic chipotle in adobo or hot sauce (if out)"
-      ]
+     "id": "greenbeans",
+     "g": 200
     }
-  ],
-  "components": {
-    "thigh": {
-      "name": "Chicken thighs, boneless skinless, roasted",
-      "cal": 179,
-      "protein": 24.8,
-      "carbs": 0,
-      "fat": 8.2
+   ],
+   "recipe": {
+    "serves": "5",
+    "time": "35 min (fresh-cooked)",
+    "ingredients": [
+     "2¼ lb grass-fed sirloin steaks, about 1 inch thick",
+     "1½ tsp kosher salt, 1 tsp pepper, ½ tsp garlic powder, avocado-oil spray",
+     "Air-fryer potatoes: 2½ lb Yukon Gold potatoes in 1-inch cubes, spray, 1 tsp salt, ½ tsp garlic powder, ½ tsp smoked paprika",
+     "Green beans: 2½ lb green beans (trimmed), ½ cup bone broth, 3 garlic cloves (sliced), zest of 1 lemon, ½ tsp salt"
+    ],
+    "steps": [
+     "Season the steaks 30–40 min ahead and leave them on the counter.",
+     "Potatoes: spray and toss with the seasonings. Air-fry at 400°F for 18–22 min in 2 batches, shaking every 6 min, until crisp. (Or roast at 425°F on parchment for 30–35 min.)",
+     "Steak: heat a 12-inch stainless skillet over medium-high for 3 min, spray, and sear 4–5 min per side, to 130–135°F for medium-rare (USDA recommends 145°F). Rest 5–10 min, then slice against the grain.",
+     "Green beans: in a wide pan with a lid, add the beans, broth, and garlic. Cover and steam-sauté 6–8 min, then uncover and cook off the liquid for 1–2 min. Finish with the lemon zest and salt.",
+     "Rory: 170 g sirloin, 200 g potatoes, 200 g green beans."
+    ]
+   }
+  },
+  {
+   "day": "Sat",
+   "date": "Oct 17",
+   "name": "Greek chicken bowls",
+   "desc": "Lemon-oregano chicken breast, bone broth rice, Greek yogurt tzatziki",
+   "side": "Cucumber-tomato-red onion salad — cucumber, cherry tomatoes, thin red onion, lemon, dried oregano, salt. 5 min.",
+   "cal": 560,
+   "protein": 67,
+   "plate": [
+    {
+     "id": "breast_g",
+     "g": 160
     },
-    "breast": {
-      "name": "Chicken breast, skinless, roasted",
-      "cal": 165,
-      "protein": 31.0,
-      "carbs": 0,
-      "fat": 3.6
+    {
+     "id": "bbrice",
+     "g": 150
     },
-    "breast_g": {
-      "name": "Lemon-oregano chicken breast",
-      "cal": 165,
-      "protein": 31.0,
-      "carbs": 0,
-      "fat": 3.6
+    {
+     "id": "greeksalad",
+     "g": 200
     },
-    "breast_c": {
-      "name": "Garlic-ginger chicken breast",
-      "cal": 165,
-      "protein": 31.0,
-      "carbs": 0,
-      "fat": 3.6
-    },
-    "hgbeef": {
-      "name": "Honey garlic extra-lean beef + gelatin",
-      "cal": 192,
-      "protein": 27.7,
-      "carbs": 6.0,
-      "fat": 5.0
-    },
-    "cbeef": {
-      "name": "Extra-lean beef (96/4) with gelatin",
-      "cal": 171,
-      "protein": 27.1,
-      "carbs": 0,
-      "fat": 6.4
-    },
-    "meatball": {
-      "name": "Extra-lean beef meatballs with gelatin",
-      "cal": 182,
-      "protein": 27.7,
-      "carbs": 3.0,
-      "fat": 6.0
-    },
-    "chuck": {
-      "name": "Chuck roast with gelatin, braised",
-      "cal": 218,
-      "protein": 30.8,
-      "carbs": 0,
-      "fat": 10.0
-    },
-    "hbchuck": {
-      "name": "Honey-balsamic shredded beef",
-      "cal": 230,
-      "protein": 29.5,
-      "carbs": 4.0,
-      "fat": 10.0
-    },
-    "salmon": {
-      "name": "Wild-caught salmon, air-fried",
-      "cal": 160,
-      "protein": 26.0,
-      "carbs": 0,
-      "fat": 6.0
-    },
-    "salmon_h": {
-      "name": "Honey-lemon wild-caught salmon",
-      "cal": 172,
-      "protein": 25.5,
-      "carbs": 3.5,
-      "fat": 6.0
-    },
-    "strip": {
-      "name": "NY strip, trimmed",
-      "cal": 200,
-      "protein": 29.0,
-      "carbs": 0,
-      "fat": 9.0
-    },
-    "sirloin": {
-      "name": "Grass-fed sirloin, trimmed",
-      "cal": 185,
-      "protein": 30.0,
-      "carbs": 0,
-      "fat": 6.5
-    },
-    "bbrice": {
-      "name": "Jasmine rice cooked in bone broth",
-      "cal": 142,
-      "protein": 5.4,
-      "carbs": 28.0,
-      "fat": 0.3
-    },
-    "blend": {
-      "name": "Bone broth rice + cauliflower rice (50/50)",
-      "cal": 84,
-      "protein": 3.7,
-      "carbs": 16.5,
-      "fat": 0.3
-    },
-    "sweetpot": {
-      "name": "Sweet potatoes, roasted (spray)",
-      "cal": 90,
-      "protein": 2.0,
-      "carbs": 20.7,
-      "fat": 0.2
-    },
-    "potato": {
-      "name": "Air-fryer potatoes (spray)",
-      "cal": 95,
-      "protein": 2.5,
-      "carbs": 21.0,
-      "fat": 0.5
-    },
-    "mash": {
-      "name": "Mashed potatoes (broth + Greek yogurt)",
-      "cal": 85,
-      "protein": 2.8,
-      "carbs": 16.5,
-      "fat": 0.8
-    },
-    "broccoli": {
-      "name": "Broccoli, roasted (spray)",
-      "cal": 35,
-      "protein": 2.4,
-      "carbs": 7.2,
-      "fat": 0.4
-    },
-    "zucchini": {
-      "name": "Zucchini, roasted",
-      "cal": 17,
-      "protein": 1.2,
-      "carbs": 3.1,
-      "fat": 0.3
-    },
-    "corn": {
-      "name": "Fire-roasted corn",
-      "cal": 96,
-      "protein": 3.4,
-      "carbs": 21.0,
-      "fat": 1.5
-    },
-    "greenbeans": {
-      "name": "Green beans, roasted (spray)",
-      "cal": 35,
-      "protein": 1.9,
-      "carbs": 7.9,
-      "fat": 0.3
-    },
-    "asparagus": {
-      "name": "Asparagus, roasted (spray)",
-      "cal": 22,
-      "protein": 2.4,
-      "carbs": 4.1,
-      "fat": 0.2
-    },
-    "carrots": {
-      "name": "Carrots, braised",
-      "cal": 35,
-      "protein": 0.8,
-      "carbs": 8.0,
-      "fat": 0.2
-    },
-    "salad": {
-      "name": "Green salad with honey-lemon dressing",
-      "cal": 30,
-      "protein": 1.2,
-      "carbs": 6.0,
-      "fat": 0.3
-    },
-    "cuke": {
-      "name": "Cucumber-tomato salad (no oil)",
-      "cal": 16,
-      "protein": 0.8,
-      "carbs": 3.5,
-      "fat": 0.2
-    },
-    "stirveg": {
-      "name": "Peppers + broccoli, saut\u00e9ed in broth",
-      "cal": 30,
-      "protein": 2.0,
-      "carbs": 6.0,
-      "fat": 0.3
-    },
-    "burgerveg": {
-      "name": "Lettuce, tomato, pickles",
-      "cal": 15,
-      "protein": 0.9,
-      "carbs": 3.0,
-      "fat": 0.2
-    },
-    "smoky": {
-      "name": "Smoky tomato cottage-cheese broth",
-      "cal": 50,
-      "protein": 6.0,
-      "carbs": 3.5,
-      "fat": 1.5
-    },
-    "marinara": {
-      "name": "Cottage-cheese marinara",
-      "cal": 70,
-      "protein": 6.0,
-      "carbs": 6.0,
-      "fat": 2.0
-    },
-    "pasta": {
-      "name": "Protein pasta, cooked",
-      "cal": 150,
-      "protein": 11.0,
-      "carbs": 22.0,
-      "fat": 2.0
-    },
-    "tortilla": {
-      "name": "Corn tortillas",
-      "cal": 218,
-      "protein": 5.7,
-      "carbs": 44.6,
-      "fat": 2.9
-    },
-    "yogurt": {
-      "name": "Plain nonfat Greek yogurt",
-      "cal": 59,
-      "protein": 10.3,
-      "carbs": 3.6,
-      "fat": 0.4
-    },
-    "tzatziki": {
-      "name": "Greek yogurt tzatziki",
-      "cal": 50,
-      "protein": 7.5,
-      "carbs": 3.5,
-      "fat": 0.3
-    },
-    "burgersauce": {
-      "name": "Greek yogurt burger sauce",
-      "cal": 65,
-      "protein": 7.5,
-      "carbs": 6.5,
-      "fat": 0.5
-    },
-    "cheddar": {
-      "name": "Shredded cheddar",
-      "cal": 404,
-      "protein": 22.9,
-      "carbs": 3.1,
-      "fat": 33.0
-    },
-    "cashsauce": {
-      "name": "Honey cashew sauce",
-      "cal": 120,
-      "protein": 1.5,
-      "carbs": 25.0,
-      "fat": 1.0
-    },
-    "cashews": {
-      "name": "Cashews, dry-roasted",
-      "cal": 574,
-      "protein": 15.3,
-      "carbs": 32.7,
-      "fat": 46.4
-    },
-    "snappeas": {
-      "name": "Garlic sugar snap peas (broth saut\u00e9)",
-      "cal": 42,
-      "protein": 2.8,
-      "carbs": 7.5,
-      "fat": 0.2
-    },
-    "ggbeans": {
-      "name": "Garlic green beans with lemon zest",
-      "cal": 35,
-      "protein": 1.9,
-      "carbs": 7.9,
-      "fat": 0.3
-    },
-    "lgbroc": {
-      "name": "Lemon-garlic roasted broccoli",
-      "cal": 35,
-      "protein": 2.4,
-      "carbs": 7.2,
-      "fat": 0.4
-    },
-    "spinach": {
-      "name": "Greek-yogurt creamed spinach",
-      "cal": 50,
-      "protein": 6.5,
-      "carbs": 3.8,
-      "fat": 1.6
-    },
-    "caesar": {
-      "name": "Romaine Caesar with yogurt dressing",
-      "cal": 35,
-      "protein": 3.2,
-      "carbs": 3.6,
-      "fat": 1.0
-    },
-    "fennel": {
-      "name": "Shaved fennel-apple slaw",
-      "cal": 45,
-      "protein": 0.8,
-      "carbs": 11.0,
-      "fat": 0.2
-    },
-    "slaw": {
-      "name": "Honey-lime cabbage slaw",
-      "cal": 32,
-      "protein": 1.1,
-      "carbs": 7.5,
-      "fat": 0.1
-    },
-    "smashcuke": {
-      "name": "Smashed cucumber salad",
-      "cal": 30,
-      "protein": 0.9,
-      "carbs": 4.0,
-      "fat": 1.4
-    },
-    "zfries": {
-      "name": "Air-fryer zucchini fries with parmesan",
-      "cal": 40,
-      "protein": 3.0,
-      "carbs": 3.3,
-      "fat": 1.7
-    },
-    "laspar": {
-      "name": "Garlic-lemon roasted asparagus",
-      "cal": 22,
-      "protein": 2.4,
-      "carbs": 4.1,
-      "fat": 0.2
-    },
-    "greeksalad": {
-      "name": "Cucumber-tomato-red onion salad",
-      "cal": 18,
-      "protein": 0.8,
-      "carbs": 4.0,
-      "fat": 0.2
-    },
-    "peascarrots": {
-      "name": "Honey-dill peas and carrots",
-      "cal": 62,
-      "protein": 3.0,
-      "carbs": 12.8,
-      "fat": 0.2
-    },
-    "fennelslaw": {
-      "name": "Shaved fennel-apple slaw",
-      "cal": 45,
-      "protein": 0.8,
-      "carbs": 11,
-      "fat": 0.2
-    },
-    "carrots_b": {
-      "name": "Braised carrots",
-      "cal": 41,
-      "protein": 0.9,
-      "carbs": 9.6,
-      "fat": 0.2
+    {
+     "id": "tzatziki",
+     "g": 100
     }
+   ],
+   "recipe": {
+    "serves": "5",
+    "time": "20 min",
+    "ingredients": [
+     "~765 g lemon-oregano chicken (moved from the freezer to the fridge Thu night) + 3 Tbsp bone broth",
+     "650 g bone broth rice (moved from the freezer to the fridge Fri night) + 2 Tbsp broth",
+     "Tzatziki: 1½ cups (340 g) Greek yogurt, 1 English cucumber (grated and squeezed dry), 1 Tbsp lemon juice, 1 small garlic clove (grated), 2 Tbsp chopped fresh dill, ½ tsp salt",
+     "Salad: 2 English cucumbers (diced), 1 pint cherry tomatoes (halved), ¼ red onion (thinly sliced), 2 Tbsp lemon juice, 1 tsp dried oregano, ½ tsp salt"
+    ],
+    "steps": [
+     "Tzatziki: grate the cucumber, squeeze it hard in a clean towel, and stir it into the yogurt with the lemon, garlic, dill, and salt. Makes ~500 g.",
+     "Salad: toss the cucumbers, tomatoes, onion, lemon juice, oregano, and salt.",
+     "Reheat the chicken in a covered skillet with 3 Tbsp broth over medium for 5–6 min (or in a covered dish at 350°F for 15 min), until 165°F.",
+     "Reheat the rice covered with 2 Tbsp broth for 5 min (or microwave 3 min), until steaming.",
+     "Build bowls. Rory: 160 g chicken, 150 g rice, 200 g salad, 100 g tzatziki."
+    ]
+   }
+  },
+  {
+   "day": "Sun",
+   "date": "Oct 18",
+   "name": "Honey-balsamic shredded beef",
+   "desc": "Slow-cook anchor: grass-fed chuck, bone broth, gelatin; broth-and-Greek-yogurt mashed potatoes",
+   "side": "Honey-dill peas and carrots — frozen peas, diced carrots, broth, a touch of honey, fresh dill. Simmer 6 min.",
+   "cal": 600,
+   "protein": 56,
+   "anchor": true,
+   "plate": [
+    {
+     "id": "hbchuck",
+     "g": 160
+    },
+    {
+     "id": "mash",
+     "g": 160
+    },
+    {
+     "id": "peascarrots",
+     "g": 150
+    }
+   ],
+   "recipe": {
+    "serves": "5, plus ~450 g leftovers",
+    "time": "15 min morning prep · 8 hr on LOW",
+    "ingredients": [
+     "4 lb grass-fed chuck roast",
+     "1½ tsp kosher salt, 1 tsp pepper, avocado-oil spray",
+     "1 yellow onion, sliced; 4 garlic cloves, minced",
+     "1 cup beef bone broth",
+     "2 Tbsp unflavored grass-fed gelatin (bloomed in ¼ cup of the broth)",
+     "⅓ cup balsamic vinegar, 3 Tbsp honey, 2 Tbsp coconut aminos, 1 Tbsp Dijon",
+     "Broth-and-yogurt mash (same recipe as Oct 11: 3 lb potatoes)",
+     "Peas and carrots: 16 oz bag frozen peas, 3 medium carrots (diced, ~250 g), ¼ cup broth, 1 tsp honey, 1 Tbsp chopped fresh dill, ½ tsp salt"
+    ],
+    "steps": [
+     "By 9 AM: season the chuck, sear 4–5 min per side in a stainless skillet with spray, and put it in the slow cooker on the onion and garlic.",
+     "Whisk the broth (with the bloomed gelatin), balsamic, honey, aminos, and Dijon and pour over the beef. Cook on LOW for 8 hours (or HIGH for 5–6), until it shreds easily.",
+     "Shred in the juices. For a thicker sauce, skim off the fat, simmer 2 cups of the liquid in a saucepan 8–10 min to reduce by half, and stir it back in.",
+     "Mash: same as Oct 11, started 30 min before dinner.",
+     "Peas and carrots: simmer the carrots in the broth, covered, for 4 min. Add the peas and cook 3 min, then stir in the honey, dill, and salt.",
+     "Rory: 160 g beef, 160 g mash, 150 g peas and carrots. Leftover beef goes in the fridge for lunches (3–4 days)."
+    ]
+   }
   }
+ ],
+ "chloeLunches": [
+  {
+   "day": "Mon",
+   "date": "Oct 12",
+   "items": "7 chicken nuggets + ~100 g potato wedges (hot), 2 Tbsp honey mustard (steel dip cup), ½ mango in chunks",
+   "how": "Reheat the nuggets and wedges in the air fryer at 375°F for 4–5 min, until 165°F. Pack them into the warmed jar. Mango and the dip cup go in the bento."
+  },
+  {
+   "day": "Tue",
+   "date": "Oct 13",
+   "items": "1 grass-fed beef hot dog (or 2 minis) on a whole-grain bun, 1 small apple (sliced), 1 kiwi",
+   "how": "Simmer the hot dog in water for 5 min (165°F). Put it in the warmed jar and cover with hot water. Pack the bun, apple slices (tossed in a little lemon water), and quartered kiwi in the bento."
+  },
+  {
+   "day": "Wed",
+   "date": "Oct 14",
+   "items": "80 g diced chicken + 120 g bone broth rice, 1 kiwi, ½ cup berries",
+   "how": "Warm the chicken and rice in a small saucepan with 1 Tbsp broth for 3–4 min, stirring, until steaming. Pack into the warmed jar. Fruit goes in the bento."
+  },
+  {
+   "day": "Thu",
+   "date": "Oct 15",
+   "items": "6 nuggets + 1 small whole-wheat tortilla + 1 Tbsp honey mustard (wrap), ½ mango and ½ apple, sliced",
+   "how": "The nuggets moved to the fridge Wed night. Air-fry them at 375°F for 4–5 min and pack them hot in the jar. The tortilla, a little lettuce, and the dip cup go in the bento so she can wrap it at lunch."
+  }
+ ],
+ "breakfasts": [
+  "Egg bites (24, made Sunday): 18 eggs, 1½ cups low-fat cottage cheese, 2 packs (~24 oz) chicken breakfast sausage (browned), 10 oz baby spinach (wilted and squeezed), ½ tsp salt, ¼ tsp pepper; 325°F for 25–30 min. 12 in the fridge, 12 in the freezer. Reheat: microwave 45–60 sec from the fridge or 90 sec from frozen, or air-fry at 350°F for 5 min (8 min from frozen). 2–3 per adult.",
+  "Greek yogurt bowls (assemble each morning): Per bowl: ¾ cup (170 g) Greek yogurt, ½ cup berries, ½ kiwi (diced), ¼ cup granola, and a drizzle of honey if you like. Chloe gets the fruit on the side."
+ ],
+ "lunches": "Grown-up lunches from leftover chicken and beef bowls (scaled for 5)",
+ "creami": [
+  {
+   "name": "Honey vanilla protein (2 pints)",
+   "desc": "Per pint: ¾ cup low-fat cottage cheese, ¾ cup Greek yogurt, 3 Tbsp honey, 1 tsp vanilla, ¼ cup milk, pinch of salt. Blend, fill to the max line, and freeze level 24 hours. Spin on Lite Ice Cream; re-spin with 1–2 Tbsp milk if it's crumbly."
+  },
+  {
+   "name": "Mango-banana (2 pints, Chloe's pick)",
+   "desc": "Per pint: 1½ cups ripe mango chunks, 1 ripe banana, ½ cup Greek yogurt, 1 Tbsp honey (optional). Blend, fill to the max line, and freeze 24 hours. Spin on Sorbet (or Lite Ice Cream for creamier); re-spin with 1 Tbsp milk if it's powdery."
+  }
+ ],
+ "prep": [
+  {
+   "t": "11:00",
+   "title": "Set up, then start the bone broth rice",
+   "step": "Oven to 425°F with racks in the upper-middle and lower-middle. Line 4 half-sheet pans (18×13 in) with parchment. Pull out a 5-qt+ stainless pot, a 12-inch stainless skillet, two 12-cup muffin tins, the kitchen scale, and glass containers with labels.",
+   "details": [
+    "Rice: rinse 4 cups (740 g) organic jasmine rice in a fine strainer until the water runs mostly clear, about 1 minute.",
+    "In the 5-qt pot combine the rice, 5 cups bone broth, and ½ tsp salt. Bring to a boil over high (5–7 min), stir once, cover, turn to the lowest heat, and cook 15 min.",
+    "Turn off the heat and let it sit covered 10 min without lifting the lid. Makes about 2.2 kg cooked."
+   ]
+  },
+  {
+   "t": "11:10",
+   "title": "Season three pans of chicken (6¼ lb breasts)",
+   "step": "Trim the breasts and slice any thick ones in half horizontally so everything is about ¾ inch thick (even pieces cook evenly). Lay out on 3 parchment-lined pans in a single layer, not touching.",
+   "details": [
+    "Pan A, garlic-ginger (Tue cashew chicken), 2 lb: 2 Tbsp coconut aminos, 3 garlic cloves (grated), 1 Tbsp grated fresh ginger, ½ tsp salt, light avocado-oil spray.",
+    "Pan B, lemon-oregano (Sat Greek bowls), 2¼ lb: zest of 1 lemon + 2 Tbsp lemon juice, 2 tsp dried oregano, 1 tsp garlic powder, 1 tsp salt, ½ tsp pepper, light spray.",
+    "Pan C, plain lunch chicken (grown-up lunches + Chloe's Wed chicken and rice), 2 lb: 1 tsp salt, 1 tsp garlic powder, 1 tsp smoked paprika, ½ tsp pepper, light spray.",
+    "11:20: Pans A and B into the 425°F oven, 18–25 min, until 165°F in the thickest piece. Wash the board, knife, and your hands."
+   ]
+  },
+  {
+   "t": "11:20",
+   "title": "Chloe's nuggets, potato wedges, and honey mustard",
+   "step": "Nuggets go in the air fryer so the oven stays free.",
+   "details": [
+    "Nuggets: cut ¾ lb chicken breast into ~20 one-inch pieces. Bowl 1: 1 egg beaten with 1 Tbsp water. Bowl 2: ¾ cup whole-wheat panko, ½ tsp garlic powder, ½ tsp smoked paprika, ½ tsp salt.",
+    "Dip each piece in egg, then press into the crumbs. Spray lightly. Air-fry at 400°F for 8–10 min in a single layer (2 batches), flipping halfway, until golden and 165°F inside.",
+    "Wedges: cut 1 medium potato (~250 g) into 8 wedges, spray, sprinkle with ¼ tsp salt, and set on a small parchment-lined pan (it goes in at 11:45).",
+    "Honey mustard: stir ½ cup Greek yogurt, 2 Tbsp Dijon, 1½ Tbsp honey, and a pinch of salt. Spoon 2 Tbsp into each of 2 steel dip cups (Mon and Thu lunches); the rest goes in a small jar. Fridge."
+   ]
+  },
+  {
+   "t": "11:45",
+   "title": "Swap pans; spread the rice to cool",
+   "step": "Check Pans A and B: 165°F means done. Pull them and let the chicken rest 10 min on the pans. Put Pan C and the wedges in at 425°F.",
+   "details": [
+    "Pan C: 18–25 min, to 165°F. Wedges: 25–30 min, flipping at 15 min, until browned and fork-tender.",
+    "Fluff the rice and spread it in a thin layer on a parchment-lined sheet pan to cool for 15–20 min (rice must be in the fridge within 1 hour)."
+   ]
+  },
+  {
+   "t": "11:50",
+   "title": "Cheeseburger beef (3 lb 96/4 ground beef)",
+   "step": "12-inch stainless skillet over medium-high (do it in 2 batches, or all at once in a wide 5-qt pot).",
+   "details": [
+    "Add ¼ cup bone broth and 3 lb extra-lean grass-fed ground beef. Break it up with a spatula. Season with 1½ tsp salt, 1 tsp garlic powder, ½ tsp smoked paprika, ½ tsp pepper.",
+    "Cook 10–12 min, stirring, until no pink remains and it reads 160°F.",
+    "Meanwhile, sprinkle 1 Tbsp unflavored grass-fed gelatin over ¼ cup cold bone broth and let it bloom 5 min. Stir it into the beef and simmer 1–2 min until glossy. Makes ~1,020 g cooked.",
+    "Portion: Wed dinner 750 g in one glass container (fridge). Grown-up lunches: 2 small containers of ~135 g each (fridge, eat by Wed)."
+   ]
+  },
+  {
+   "t": "12:10",
+   "title": "Cauliflower rice, then weigh out the rice and blends",
+   "step": "12-inch skillet, medium-high, in 2 batches (2–3 bags each).",
+   "details": [
+    "Per 12-oz bag: 2 Tbsp bone broth and ¼ tsp salt. Cook uncovered, stirring, 6–8 min (fresh) or 8–10 min (frozen) until tender and the liquid has cooked off. 5 bags make ~1.3 kg. Spread on a sheet pan to cool 10 min.",
+    "Weigh into labeled glass containers (half rice, half cauliflower rice by weight for each blend):",
+    "Tue blend: 650 g (325 g rice + 325 g cauli). Fridge.",
+    "Wed blend: 650 g (325 g + 325 g). Fridge.",
+    "Thu blend: 1,075 g (540 g + 535 g). Freezer; move to the fridge Wed night.",
+    "Sat plain bone broth rice: 650 g. Freezer; move to the fridge Fri night.",
+    "Chloe's Wed lunch rice: 120 g in a small container. Fridge.",
+    "Leftover rice (~190 g) and cauli (~100 g): one container for Mon rice bowls and lunches. Fridge."
+   ]
+  },
+  {
+   "t": "12:25",
+   "title": "Slice and portion the chicken, nuggets, and wedges",
+   "step": "Pan C comes out at about 12:05–12:10 and the wedges at 12:15. Once rested, slice or dice the chicken, then portion it.",
+   "details": [
+    "Tue: all of Pan A, garlic-ginger, ~680 g sliced. One container, fridge.",
+    "Sat: all of Pan B, lemon-oregano, ~765 g sliced. One container, freezer; move to the fridge Thu night.",
+    "Pan C, ~680 g: Chloe's Wed lunch 80 g diced (small container) plus 3 grown-up lunch containers of 200 g each. Fridge.",
+    "Nuggets: Mon lunch 7 nuggets (fridge). Thu lunch 6 nuggets (freezer; move to the fridge Wed night). The ~7 extras go in the freezer for another week.",
+    "Wedges: Chloe's Mon lunch ~100 g (fridge); the rest are a snack."
+   ]
+  },
+  {
+   "t": "12:40",
+   "title": "Sauces and toasted cashews",
+   "step": "Small saucepan for the cashew sauce; dry skillet for the cashews.",
+   "details": [
+    "Honey cashew sauce (Tue): whisk ¾ cup bone broth, ⅓ cup coconut aminos, 3 Tbsp honey, 4 garlic cloves (minced), 1 Tbsp grated ginger, and 1 Tbsp rice vinegar. Simmer 3 min. Whisk in a slurry of 1 Tbsp arrowroot or cornstarch + 2 Tbsp cold water and simmer 1 min until glossy. Makes ~1⅓ cups (~300 g). Jar, fridge.",
+    "Cashews: ½ cup (70 g) unsalted cashews in a dry skillet over medium, 3–4 min, stirring, until golden. Cool, then store in a small jar at room temperature.",
+    "Burger sauce (Wed): stir ¾ cup Greek yogurt, 2 Tbsp finely chopped dill pickles + 1 Tbsp pickle brine, 1 Tbsp yellow mustard, 1 tsp honey, ½ tsp smoked paprika, ¼ tsp garlic powder, and a pinch of salt. Makes ~230 g. Jar, fridge."
+   ]
+  },
+  {
+   "t": "1:00",
+   "title": "Oven down to 325°F; start Rory's apple-ginger chuck roast",
+   "step": "Turn the oven to 325°F and crack the door 2–3 min so it cools faster. Make the roast exactly as written on the Sunday recipe page (5 lb, 1.5× Rory's recipe), in Rory's ceramic pot.",
+   "details": [
+    "Prep: grate 1½ large apples, dice 1½ medium yellow onions, mince 6 garlic cloves, grate a 1½-inch piece of ginger.",
+    "Pat 5 lb chuck dry; season all sides with 1½ tsp kosher salt + 1 tsp black pepper. Sear (house tweak: avocado-oil spray) 4–5 min per side until well browned.",
+    "Add the apple, onion, garlic, ginger, 3 Tbsp honey, 3 Tbsp apple cider vinegar, ¾ cup low-sodium tamari, 3 cups beef bone broth (with 2 Tbsp gelatin bloomed in ½ cup of it; house tweak), 1½ Tbsp toasted sesame oil, and 1½ Tbsp tomato paste (or 1½ tsp white miso). Optional: 1 cinnamon stick + 1 star anise. Turn the roast to coat.",
+    "Cover tightly and get it into the 325°F oven by about 1:20 PM. Set timers for 4:20 PM (pull the cinnamon and star anise) and 5:20 PM (check for fork-tender)."
+   ]
+  },
+  {
+   "t": "1:25",
+   "title": "Egg bites (24) bake alongside the roast at 325°F",
+   "step": "Spray two 12-cup muffin tins well.",
+   "details": [
+    "Brown 2 packs (~24 oz) organic chicken breakfast sausage in the skillet, crumbled, until 165°F (if it's pre-cooked, just warm and chop). Wilt the 10 oz bag of baby spinach in 2 Tbsp broth for 2 min, squeeze dry, and chop.",
+    "Blend 18 eggs, 1½ cups low-fat cottage cheese, ½ tsp salt, and ¼ tsp pepper until smooth, about 30 seconds.",
+    "Divide the sausage and spinach among the 24 cups, then pour the egg mixture about ¾ full (~⅓ cup each).",
+    "Bake on the open rack next to the roast, 325°F, 25–30 min, until set in the center (160°F). Cool 10 min and unmold.",
+    "12 go in a glass container in the fridge (Mon–Wed); 12 go in the freezer (Thu onward)."
+   ]
+  },
+  {
+   "t": "1:35",
+   "title": "Ninja Creami pints (4)",
+   "step": "Blend each base, pour into a Creami pint up to the max fill line, lid it, and freeze level for 24 hours.",
+   "details": [
+    "Honey vanilla protein, per pint (make 2): ¾ cup low-fat cottage cheese, ¾ cup Greek yogurt, 3 Tbsp honey, 1 tsp vanilla, ¼ cup milk, and a pinch of salt.",
+    "Mango-banana, per pint (make 2; Chloe's pick): 1½ cups ripe mango chunks (fresh, or frozen and thawed), 1 ripe banana, ½ cup Greek yogurt, and 1 Tbsp honey (optional)."
+   ]
+  },
+  {
+   "t": "1:50",
+   "title": "Veggie and fruit prep for Mon–Wed",
+   "step": "Wash, dry, cut, and store in containers lined with a paper towel.",
+   "details": [
+    "Tue stir-fry veg: 3 bell peppers in ½-inch strips (~450 g) + 2 broccoli crowns in bite-size florets (~400 g). One container, fridge.",
+    "Mon slaw: thinly shred ½ medium green cabbage (~500 g) and ¼ small red cabbage (~200 g), and coarsely grate 2 carrots (~150 g). One container, undressed. Dressing jar: ¼ cup lime juice (2–3 limes), 1½ Tbsp honey, ¾ tsp salt. Fridge.",
+    "Wed: wash, spin dry, and chop 2 romaine hearts (~300 g). Container with a paper towel, fridge. Leave tomatoes whole on the counter until Wed.",
+    "Chloe: cut 1 mango into chunks (~150 g) for Mon lunch, in a small container in the fridge. Cut apples and kiwi the morning of so they stay fresh."
+   ]
+  },
+  {
+   "t": "2:10",
+   "title": "Label, store, clean up",
+   "step": "Everything into the fridge or freezer per the labels. You're free until 4:20 PM.",
+   "details": [
+    "Fridge (Mon–Wed): Tue chicken, Tue/Wed blends, Wed beef, lunch chicken and beef, Chloe's Mon nuggets, wedges, mango and Wed chicken and rice, sauces, cut veg, slaw kit, 12 egg bites.",
+    "Freezer (Thu onward): Thu blend, Sat rice, Sat chicken, Thu nuggets, extra nuggets, 12 egg bites, 4 Creami pints."
+   ]
+  },
+  {
+   "t": "4:20",
+   "title": "Pull the spices; start the potatoes",
+   "step": "Remove the cinnamon stick and star anise from the roast if used (Rory's recipe: in for the first 3 hours only). Re-cover and return it to the oven.",
+   "details": [
+    "Mash: peel 3 lb Yukon Gold potatoes and cut into 1½-inch chunks. Put them in a large stainless pot, cover with cold water by 1 inch, and add 1 Tbsp salt."
+   ]
+  },
+  {
+   "t": "4:50",
+   "title": "Boil the potatoes; make the fennel-apple slaw",
+   "step": "Bring the potatoes to a boil over high (~10 min), then simmer 12–15 min until a knife slides through with no resistance.",
+   "details": [
+    "Slaw: trim 2 fennel bulbs (save a handful of fronds), halve, core, and slice paper-thin (~550 g). Core 2 apples and cut into thin matchsticks (~320 g).",
+    "Toss with 3 Tbsp lemon juice (1½ lemons), 1 Tbsp honey, ½ tsp salt, and the chopped fronds. Makes ~870 g."
+   ]
+  },
+  {
+   "t": "5:20",
+   "title": "Finish the roast and the mash",
+   "step": "The roast is ready when it shreds easily with two forks (about 200–205°F inside). If it resists, give it 30 more minutes.",
+   "details": [
+    "Shred the beef in the pot and toss it through the juices. If the sauce is thin, simmer it uncovered a few minutes to reduce. If the ceramic pot isn't stovetop-rated, ladle 2 cups of the juices into a stainless saucepan instead, reduce them for 5–10 min, and pour them back.",
+    "Garnish: 3 green onions (sliced) and 1 Tbsp toasted sesame seeds.",
+    "Drain the potatoes and mash with ¾ cup warm bone broth, ¾ cup room-temperature Greek yogurt, ½ tsp salt, and ¼ tsp pepper."
+   ]
+  },
+  {
+   "t": "5:45",
+   "title": "Dinner, then set up Monday",
+   "step": "Rory's plate: 190 g shredded beef with juices, 150 g mash, 150 g slaw (~580 cal, 55 g protein). Hot sauce on the side for Rory only.",
+   "details": [
+    "Within 2 hours of dinner: weigh ~750 g shredded beef and add 1 cup of the juices to a glass container for Monday's tacos. Fridge.",
+    "Extra juices go in a jar in the fridge (great over rice or mash). Leftover mash goes in a container for grown-up lunches (fridge, Mon–Tue)."
+   ]
+  }
+ ],
+ "prepNote": "Sun Oct 18: the honey-balsamic beef goes in the slow cooker by 9 AM (recipe in the Menu tab); peas and carrots and mash at dinner.",
+ "grocery": [
+  {
+   "section": "Meat & seafood",
+   "items": [
+    "Organic grass-fed, grass-finished beef chuck roast: 5 lb, one roast or two ~2.5 lb (Sun Oct 11 apple-ginger roast for 5 + Mon Oct 12 tacos)",
+    "Organic grass-fed beef chuck roast (grass-finished when possible): 4 lb (Sun Oct 18 honey-balsamic beef + leftovers)",
+    "Organic air-chilled chicken breasts: 7 lb (Tue cashew chicken, Sat Greek bowls, Chloe's nuggets and chicken & rice, lunches)",
+    "Organic grass-fed extra-lean ground beef, 96/4 (grass-finished when possible): 3 lb (Wed cheeseburger bowls + lunches)",
+    "Wild-caught salmon fillets: 2 lb (Thu)",
+    "Organic grass-fed sirloin steaks (grass-finished when possible): 2.25 lb (Fri)",
+    "Organic grass-fed beef hot dogs (grass-finished when possible): 1 pack (Chloe's Tue lunch)",
+    "Organic chicken breakfast sausage (air-chilled organic chicken): 2 packs, ~12 oz each (egg bites)"
+   ]
+  },
+  {
+   "section": "Eggs & dairy",
+   "items": [
+    "Our usual Sprouts eggs: 3 dozen (egg bites, fried-egg toppers, nugget coating)",
+    "Organic low-fat cottage cheese: 3 × 24 oz (egg bites, Creami)",
+    "Organic plain nonfat Greek yogurt: 4 × 32 oz (yogurt bowls, mashed potatoes, tzatziki, burger sauce, honey mustard, tacos, Creami)",
+    "Organic shredded cheddar: 8 oz",
+    "Organic Parmesan, wedge or grated: 1 (zucchini fries)",
+    "Organic milk: ½ gallon (Creami re-spins, mashed potatoes)"
+   ]
+  },
+  {
+   "section": "Organic vegetables",
+   "items": [
+    "Organic potatoes, Yukon Gold or russet: 10 lb (Oct 11 and Oct 18 mash, Fri air-fryer potatoes, Chloe's wedges)",
+    "Organic carrots: 2 lb (Mon slaw, Oct 18 peas and carrots, snacks)",
+    "Organic fennel: 2 bulbs (Oct 11 fennel-apple slaw)",
+    "Organic green cabbage: 1 medium + organic red cabbage: 1 small, or 2 bags organic coleslaw mix (Mon slaw)",
+    "Organic broccoli: 3 crowns (Tue cashew chicken)",
+    "Organic bell peppers (red/yellow/orange): 6 (Tue)",
+    "Organic riced cauliflower: 5 × 12 oz bags, fresh or frozen",
+    "Organic Persian cucumbers: 2 bags (Tue smashed cucumber salad)",
+    "Organic English cucumbers: 4 (Sat salad, tzatziki, Chloe's snacks)",
+    "Organic zucchini: 6 medium (Wed zucchini fries)",
+    "Organic romaine hearts: 2 packs (Wed bowls)",
+    "Organic asparagus: 3 bunches (Thu)",
+    "Organic green beans: 2.5 lb (Fri)",
+    "Organic tomatoes: 3 pints cherry + 4 Roma (Wed, Sat)",
+    "Organic red onion: 1 (Sat salad)",
+    "Organic baby spinach: 10 oz (egg bites)",
+    "Organic yellow onions: 4 (1½ for the Oct 11 roast) · organic garlic: 3 heads · organic fresh ginger: 1 large knob, ~3 oz (roast, cashew sauce, chicken)",
+    "Organic fresh dill: 2 bunches (tzatziki, peas and carrots)",
+    "Organic green onions: 1 bunch (Oct 11 roast garnish)",
+    "Organic frozen peas: 1 × 16 oz bag (Sun Oct 18 peas and carrots)"
+   ]
+  },
+  {
+   "section": "Organic fruit",
+   "items": [
+    "Organic mangoes: 6 (Chloe's lunches, yogurt bowls, Creami)",
+    "Organic apples: 14 (incl. 2 for the Oct 11 roast, grated, and 2 for the fennel-apple slaw)",
+    "Organic kiwis: 10",
+    "Organic bananas: 2 bunches (ripe ones for Creami)",
+    "Organic strawberries: 3 lb",
+    "Organic blueberries: 3 pints",
+    "Organic raspberries: 2 pints",
+    "Organic mandarins: 2 bags",
+    "Organic frozen mango chunks: 1 bag (Creami backup)",
+    "Organic lemons: 8 · organic limes: 4 (1 lb bag)"
+   ]
+  },
+  {
+   "section": "Pantry & house staples",
+   "items": [
+    "Organic bone broth: 6 × 32 oz, at least 1 of them beef (3 cups for the Oct 11 roast; rice, sautéing, mash, cashew sauce)",
+    "Organic avocado-oil spray: 2 cans (no bottled cooking oil needed)",
+    "Organic corn tortillas: 2 packs, ~24 small (Mon Oct 12 tacos)",
+    "Organic unsalted cashews: 12 oz",
+    "Organic coconut aminos: 1 bottle (cashew sauce, garlic-ginger chicken, Oct 18 beef)",
+    "Organic low-sodium tamari or soy sauce: 1 bottle (¾ cup for the Oct 11 roast)",
+    "Organic tomato paste: 1 small can or tube (1½ Tbsp for the roast), or organic white miso",
+    "Organic mild salsa: 2 jars (Mon tacos)",
+    "Organic dill pickles: 1 jar",
+    "Organic whole-wheat or panko breadcrumbs: 1 container (nuggets)",
+    "Organic whole-grain hot dog buns: 1 pack (Chloe's Tue lunch)",
+    "Organic small whole-wheat tortillas: 1 pack (Chloe's Thu wrap)",
+    "Organic granola: 2 bags",
+    "Organic apple cider vinegar (3 Tbsp for the roast, if out)"
+   ]
+  },
+  {
+   "section": "Pantry — if running low",
+   "items": [
+    "Organic unflavored grass-fed gelatin: 1 canister (if running low)",
+    "Organic jasmine rice: 3 lb (if running low)",
+    "Organic honey: 1 jar (if running low)",
+    "Organic toasted sesame oil (1½ Tbsp for the roast), rice vinegar, and sesame seeds (if out)",
+    "Optional for the roast: 1 organic cinnamon stick + 1 whole star anise (if out)",
+    "Optional, only for Monday burritos: organic large flour tortillas, 1 pack",
+    "Organic balsamic vinegar, Dijon and yellow mustard, cornstarch or arrowroot, and vanilla extract (if out)",
+    "Organic smoked paprika, dried oregano, and garlic powder (if low)",
+    "For Rory only: organic chipotle in adobo or hot sauce (if out)"
+   ]
+  }
+ ],
+ "components": {
+  "thigh": {
+   "name": "Chicken thighs, boneless skinless, roasted",
+   "cal": 179,
+   "protein": 24.8,
+   "carbs": 0,
+   "fat": 8.2
+  },
+  "breast": {
+   "name": "Chicken breast, skinless, roasted",
+   "cal": 165,
+   "protein": 31.0,
+   "carbs": 0,
+   "fat": 3.6
+  },
+  "breast_g": {
+   "name": "Lemon-oregano chicken breast",
+   "cal": 165,
+   "protein": 31.0,
+   "carbs": 0,
+   "fat": 3.6
+  },
+  "breast_c": {
+   "name": "Garlic-ginger chicken breast",
+   "cal": 165,
+   "protein": 31.0,
+   "carbs": 0,
+   "fat": 3.6
+  },
+  "hgbeef": {
+   "name": "Honey garlic extra-lean beef + gelatin",
+   "cal": 192,
+   "protein": 27.7,
+   "carbs": 6.0,
+   "fat": 5.0
+  },
+  "cbeef": {
+   "name": "Extra-lean beef (96/4) with gelatin",
+   "cal": 171,
+   "protein": 27.1,
+   "carbs": 0,
+   "fat": 6.4
+  },
+  "meatball": {
+   "name": "Extra-lean beef meatballs with gelatin",
+   "cal": 182,
+   "protein": 27.7,
+   "carbs": 3.0,
+   "fat": 6.0
+  },
+  "chuck": {
+   "name": "Chuck roast with gelatin, braised",
+   "cal": 218,
+   "protein": 30.8,
+   "carbs": 0,
+   "fat": 10.0
+  },
+  "hbchuck": {
+   "name": "Honey-balsamic shredded beef",
+   "cal": 230,
+   "protein": 29.5,
+   "carbs": 4.0,
+   "fat": 10.0
+  },
+  "salmon": {
+   "name": "Wild-caught salmon, air-fried",
+   "cal": 160,
+   "protein": 26.0,
+   "carbs": 0,
+   "fat": 6.0
+  },
+  "salmon_h": {
+   "name": "Honey-lemon wild-caught salmon",
+   "cal": 172,
+   "protein": 25.5,
+   "carbs": 3.5,
+   "fat": 6.0
+  },
+  "strip": {
+   "name": "NY strip, trimmed",
+   "cal": 200,
+   "protein": 29.0,
+   "carbs": 0,
+   "fat": 9.0
+  },
+  "sirloin": {
+   "name": "Grass-fed sirloin, trimmed",
+   "cal": 185,
+   "protein": 30.0,
+   "carbs": 0,
+   "fat": 6.5
+  },
+  "bbrice": {
+   "name": "Jasmine rice cooked in bone broth",
+   "cal": 142,
+   "protein": 5.4,
+   "carbs": 28.0,
+   "fat": 0.3
+  },
+  "blend": {
+   "name": "Bone broth rice + cauliflower rice (50/50)",
+   "cal": 84,
+   "protein": 3.7,
+   "carbs": 16.5,
+   "fat": 0.3
+  },
+  "sweetpot": {
+   "name": "Sweet potatoes, roasted (spray)",
+   "cal": 90,
+   "protein": 2.0,
+   "carbs": 20.7,
+   "fat": 0.2
+  },
+  "potato": {
+   "name": "Air-fryer potatoes (spray)",
+   "cal": 95,
+   "protein": 2.5,
+   "carbs": 21.0,
+   "fat": 0.5
+  },
+  "mash": {
+   "name": "Mashed potatoes (broth + Greek yogurt)",
+   "cal": 85,
+   "protein": 2.8,
+   "carbs": 16.5,
+   "fat": 0.8
+  },
+  "broccoli": {
+   "name": "Broccoli, roasted (spray)",
+   "cal": 35,
+   "protein": 2.4,
+   "carbs": 7.2,
+   "fat": 0.4
+  },
+  "zucchini": {
+   "name": "Zucchini, roasted",
+   "cal": 17,
+   "protein": 1.2,
+   "carbs": 3.1,
+   "fat": 0.3
+  },
+  "corn": {
+   "name": "Fire-roasted corn",
+   "cal": 96,
+   "protein": 3.4,
+   "carbs": 21.0,
+   "fat": 1.5
+  },
+  "greenbeans": {
+   "name": "Green beans, roasted (spray)",
+   "cal": 35,
+   "protein": 1.9,
+   "carbs": 7.9,
+   "fat": 0.3
+  },
+  "asparagus": {
+   "name": "Asparagus, roasted (spray)",
+   "cal": 22,
+   "protein": 2.4,
+   "carbs": 4.1,
+   "fat": 0.2
+  },
+  "carrots": {
+   "name": "Carrots, braised",
+   "cal": 35,
+   "protein": 0.8,
+   "carbs": 8.0,
+   "fat": 0.2
+  },
+  "salad": {
+   "name": "Green salad with honey-lemon dressing",
+   "cal": 30,
+   "protein": 1.2,
+   "carbs": 6.0,
+   "fat": 0.3
+  },
+  "cuke": {
+   "name": "Cucumber-tomato salad (no oil)",
+   "cal": 16,
+   "protein": 0.8,
+   "carbs": 3.5,
+   "fat": 0.2
+  },
+  "stirveg": {
+   "name": "Peppers + broccoli, sautéed in broth",
+   "cal": 30,
+   "protein": 2.0,
+   "carbs": 6.0,
+   "fat": 0.3
+  },
+  "burgerveg": {
+   "name": "Lettuce, tomato, pickles",
+   "cal": 15,
+   "protein": 0.9,
+   "carbs": 3.0,
+   "fat": 0.2
+  },
+  "smoky": {
+   "name": "Smoky tomato cottage-cheese broth",
+   "cal": 50,
+   "protein": 6.0,
+   "carbs": 3.5,
+   "fat": 1.5
+  },
+  "marinara": {
+   "name": "Cottage-cheese marinara",
+   "cal": 70,
+   "protein": 6.0,
+   "carbs": 6.0,
+   "fat": 2.0
+  },
+  "pasta": {
+   "name": "Protein pasta, cooked",
+   "cal": 150,
+   "protein": 11.0,
+   "carbs": 22.0,
+   "fat": 2.0
+  },
+  "tortilla": {
+   "name": "Corn tortillas",
+   "cal": 218,
+   "protein": 5.7,
+   "carbs": 44.6,
+   "fat": 2.9
+  },
+  "yogurt": {
+   "name": "Plain nonfat Greek yogurt",
+   "cal": 59,
+   "protein": 10.3,
+   "carbs": 3.6,
+   "fat": 0.4
+  },
+  "tzatziki": {
+   "name": "Greek yogurt tzatziki",
+   "cal": 50,
+   "protein": 7.5,
+   "carbs": 3.5,
+   "fat": 0.3
+  },
+  "burgersauce": {
+   "name": "Greek yogurt burger sauce",
+   "cal": 65,
+   "protein": 7.5,
+   "carbs": 6.5,
+   "fat": 0.5
+  },
+  "cheddar": {
+   "name": "Shredded cheddar",
+   "cal": 404,
+   "protein": 22.9,
+   "carbs": 3.1,
+   "fat": 33.0
+  },
+  "cashsauce": {
+   "name": "Honey cashew sauce",
+   "cal": 120,
+   "protein": 1.5,
+   "carbs": 25.0,
+   "fat": 1.0
+  },
+  "cashews": {
+   "name": "Cashews, dry-roasted",
+   "cal": 574,
+   "protein": 15.3,
+   "carbs": 32.7,
+   "fat": 46.4
+  },
+  "snappeas": {
+   "name": "Garlic sugar snap peas (broth sauté)",
+   "cal": 42,
+   "protein": 2.8,
+   "carbs": 7.5,
+   "fat": 0.2
+  },
+  "ggbeans": {
+   "name": "Garlic green beans with lemon zest",
+   "cal": 35,
+   "protein": 1.9,
+   "carbs": 7.9,
+   "fat": 0.3
+  },
+  "lgbroc": {
+   "name": "Lemon-garlic roasted broccoli",
+   "cal": 35,
+   "protein": 2.4,
+   "carbs": 7.2,
+   "fat": 0.4
+  },
+  "spinach": {
+   "name": "Greek-yogurt creamed spinach",
+   "cal": 50,
+   "protein": 6.5,
+   "carbs": 3.8,
+   "fat": 1.6
+  },
+  "caesar": {
+   "name": "Romaine Caesar with yogurt dressing",
+   "cal": 35,
+   "protein": 3.2,
+   "carbs": 3.6,
+   "fat": 1.0
+  },
+  "fennel": {
+   "name": "Shaved fennel-apple slaw",
+   "cal": 45,
+   "protein": 0.8,
+   "carbs": 11.0,
+   "fat": 0.2
+  },
+  "slaw": {
+   "name": "Honey-lime cabbage slaw",
+   "cal": 32,
+   "protein": 1.1,
+   "carbs": 7.5,
+   "fat": 0.1
+  },
+  "smashcuke": {
+   "name": "Smashed cucumber salad",
+   "cal": 30,
+   "protein": 0.9,
+   "carbs": 4.0,
+   "fat": 1.4
+  },
+  "zfries": {
+   "name": "Air-fryer zucchini fries with parmesan",
+   "cal": 40,
+   "protein": 3.0,
+   "carbs": 3.3,
+   "fat": 1.7
+  },
+  "laspar": {
+   "name": "Garlic-lemon roasted asparagus",
+   "cal": 22,
+   "protein": 2.4,
+   "carbs": 4.1,
+   "fat": 0.2
+  },
+  "greeksalad": {
+   "name": "Cucumber-tomato-red onion salad",
+   "cal": 18,
+   "protein": 0.8,
+   "carbs": 4.0,
+   "fat": 0.2
+  },
+  "peascarrots": {
+   "name": "Honey-dill peas and carrots",
+   "cal": 62,
+   "protein": 3.0,
+   "carbs": 12.8,
+   "fat": 0.2
+  },
+  "fennelslaw": {
+   "name": "Shaved fennel-apple slaw",
+   "cal": 45,
+   "protein": 0.8,
+   "carbs": 11,
+   "fat": 0.2
+  },
+  "carrots_b": {
+   "name": "Braised carrots",
+   "cal": 41,
+   "protein": 0.9,
+   "carbs": 9.6,
+   "fat": 0.2
+  },
+  "agchuck": {
+   "name": "Rory's apple-ginger braised chuck, shredded with juices (grass-fed, gelatin)",
+   "cal": 204,
+   "protein": 26.1,
+   "carbs": 1.1,
+   "fat": 10.4
+  }
+ },
+ "lunchIntro": "Each morning: fill the 12 oz thermal jar with boiling water for 5–10 min, then dump it. Heat the hot food to 165°F (steaming), pack it into the warmed jar, and close it. Cold food goes in the steel bento with an ice pack, and everything goes in the insulated bag.",
+ "prepIntro": "Times assume an 11:00 AM start and dinner around 5:45 PM. About 3 hours hands-on late morning (everything for 5 people, Mon–Sat), then the roast braises on its own; about 45 minutes more at dinnertime. Oven order matters: the 425°F sheet-pan work happens first, then the oven drops to 325°F for Rory's roast and the egg bites.",
+ "prepSafety": [
+  "Chicken is done at 165°F in the thickest part; ground beef at 160°F; reheated leftovers to 165°F (steaming hot).",
+  "Cool fast: spread rice and cauliflower rice on sheet pans, and get everything into the fridge within 1–2 hours of cooking (rice within 1 hour).",
+  "Fridge = eaten Mon–Wed. Freezer = Thu onward (Thu cauliflower-rice blend, Sat rice, Sat chicken, Thu nuggets, half the egg bites).",
+  "Reheat each portion only once; take out just what you need.",
+  "Label every container with the dish, the day it's for, the total grams, and 'cooked 10/11'."
+ ],
+ "prepThaw": [
+  "Wed night: move Thu's rice blend, Chloe's Thu nuggets, and the frozen egg bites to the fridge.",
+  "Thu night: move Sat's lemon-oregano chicken to the fridge.",
+  "Fri night: move Sat's bone broth rice to the fridge."
+ ]
 }

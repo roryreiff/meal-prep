@@ -20,7 +20,7 @@
     const titles = {
     menu: ["This week", null],
     grocery: ["Grocery list", "Sprouts · estimates labeled · check as you shop"],
-    prep: ["Sunday prep", "~90 minutes · check off as you go"],
+    prep: ["Sunday prep", "Sun Oct 11 · ~3 hrs hands-on + dinner · check off as you go"],
     calc: ["Macro calculator", "Weigh · estimate · hit ~600 cal / 45g+ protein"],
     ratings: ["Ratings", "Thumbs + notes so favorites rotate back in"],
   };
@@ -90,6 +90,31 @@
       .replace(/"/g, "&quot;");
   }
 
+  function list(items, tag) {
+    if (!items || !items.length) return "";
+    return `<${tag}>${items.map((i) => `<li>${esc(i)}</li>`).join("")}</${tag}>`;
+  }
+  function recipeBlock(r, title) {
+    if (!r) return "";
+    return `
+      <div class="recipe-body">
+        ${title ? `<h4 class="recipe-title">${esc(title)}</h4>` : ""}
+        <p class="recipe-meta">Serves ${esc(r.serves || "")}${r.time ? " · " + esc(r.time) : ""}</p>
+        ${r.scale ? `<p class="recipe-note"><strong>As written:</strong> ${esc(r.scale)}</p>` : ""}
+        <h5>Ingredients</h5>${list(r.ingredients, "ul")}
+        <h5>Steps</h5>${list(r.steps, "ol")}
+        ${r.tweaks ? `<div class="recipe-tweaks"><strong>Optional house tweaks</strong> (don't change the recipe)${list(r.tweaks, "ul")}</div>` : ""}
+        ${r.rump ? `<p class="recipe-note"><strong>Rump roast:</strong> ${esc(r.rump)}</p>` : ""}
+        ${r.leftovers ? `<p class="recipe-note"><strong>Leftovers:</strong> ${esc(r.leftovers)}</p>` : ""}
+        ${r.rory ? `<p class="recipe-rory">${esc(r.rory)}</p>` : ""}
+      </div>`;
+  }
+  function recipeDetails(d) {
+    if (!d.recipe) return "";
+    const sides = (d.sideRecipes || []).map((s) => recipeBlock(s, s.title)).join("");
+    return `<details class="recipe"><summary>Recipe · ingredients &amp; steps</summary>${recipeBlock(d.recipe)}${sides}</details>`;
+  }
+
   function mealKey(d) {
     return `${d.day}|${d.name}`;
   }
@@ -132,6 +157,7 @@
           <h3 class="meal-name">${esc(d.name)}${thumb}</h3>
           <p class="meal-desc">${esc(d.desc)}</p>
           ${d.side ? `<p class="meal-desc" style="margin-top:6px"><strong style="color:var(--sageD)">Side:</strong> ${esc(d.side)}</p>` : ""}
+          ${recipeDetails(d)}
           <p class="est-note">Estimate for Rory's plate (veggie side included). Weigh with Macros tab for precision.</p>
         </article>`;
       })
@@ -140,7 +166,7 @@
     const chloe = [...DATA.chloeLunches].sort(byDayOrder)
       .map(
         (c) =>
-          `<div class="chip"><strong>${esc(c.day)} ${esc(c.date)}</strong>${esc(c.items)}</div>`
+          `<div class="chip"><strong>${esc(c.day)} ${esc(c.date)}</strong>${esc(c.items)}${c.how ? `<span class="chip-how">${esc(c.how)}</span>` : ""}</div>`
       )
       .join("");
 
@@ -160,6 +186,7 @@
       <h2 class="section-title">Dinners</h2>
       ${dinners}
       <h2 class="section-title">Chloe's lunches (Mon–Thu)</h2>
+      ${DATA.lunchIntro ? `<p class="meal-desc" style="margin:0 0 8px">${esc(DATA.lunchIntro)}</p>` : ""}
       <div class="chip-list">${chloe}</div>
       <h2 class="section-title">Breakfasts</h2>
       <div class="chip-list">${breakfasts}</div>
@@ -267,7 +294,7 @@
         <label class="prep-row ${on ? "done" : ""}">
           <input type="checkbox" data-pid="${i}" ${on ? "checked" : ""} />
           <span class="prep-time">${esc(p.t)}</span>
-          <span class="prep-step">${esc(p.step)}</span>
+          <span class="prep-step">${p.title ? `<strong class="prep-title">${esc(p.title)}</strong>` : ""}<span class="prep-text">${esc(p.step)}</span>${p.details && p.details.length ? `<ul class="prep-details">${p.details.map((x) => `<li>${esc(x)}</li>`).join("")}</ul>` : ""}</span>
         </label>`;
       })
       .join("");
@@ -277,7 +304,10 @@
         <button type="button" class="btn secondary" id="prep-reset">Reset steps</button>
       </div>
       <div class="progress">${done} of ${DATA.prep.length} done</div>
+      ${DATA.prepIntro ? `<div class="banner">${esc(DATA.prepIntro)}</div>` : ""}
       <div class="timeline">${rows}</div>
+      ${DATA.prepSafety ? `<div class="card"><h3 class="mini-h">Food safety &amp; storage</h3>${list(DATA.prepSafety, "ul")}</div>` : ""}
+      ${DATA.prepThaw ? `<div class="card"><h3 class="mini-h">Freezer-to-fridge schedule</h3>${list(DATA.prepThaw, "ul")}</div>` : ""}
       <p class="est-note">${esc(DATA.prepNote || "")}</p>
     `;
 

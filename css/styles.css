@@ -277,3 +277,39 @@ a { color: var(--sage); }
 .cost-banner-sub { margin-top: 0.2rem; }
 .cost-banner-note { margin-top: 0.45rem; opacity: 0.8; }
 .muted { opacity: 0.7; }
+
+/* Detailed prep steps + recipes (Oct 5 update) */
+.prep-step { min-width: 0; overflow-wrap: anywhere; }
+.prep-title { display: block; font-family: Georgia, "Noto Serif", serif; color: var(--sageD); font-size: 15px; margin-bottom: 3px; line-height: 1.3; }
+.prep-text { display: block; }
+.prep-details { margin: 6px 0 0; padding-left: 18px; font-size: 13.5px; color: var(--ink); }
+.prep-details li { margin: 4px 0; }
+.prep-row.done .prep-step { text-decoration: none; }
+.prep-row.done .prep-title { text-decoration: line-through; }
+.mini-h { font-size: 15px; color: var(--sage); margin-bottom: 6px; }
+.card ul { margin: 0; padding-left: 18px; font-size: 13.5px; }
+.card ul li { margin: 3px 0; }
+.chip-how { display: block; margin-top: 4px; font-size: 12.5px; color: var(--muted); }
+details.recipe { margin-top: 10px; border-top: 1px dashed var(--line); padding-top: 8px; }
+details.recipe summary {
+  cursor: pointer; list-style: none; font-weight: 700; font-size: 14px; color: var(--terra);
+  padding: 8px 12px; background: var(--terraL); border-radius: 10px;
+}
+details.recipe summary::-webkit-details-marker { display: none; }
+details.recipe summary::before { content: "▸ "; }
+details.recipe[open] summary::before { content: "▾ "; }
+.recipe-body { font-size: 13.5px; line-height: 1.45; padding: 4px 2px 0; overflow-wrap: anywhere; }
+.recipe-body + .recipe-body { border-top: 1px solid var(--line); margin-top: 10px; padding-top: 8px; }
+.recipe-title { font-family: Georgia, serif; font-size: 15px; color: var(--sageD); margin: 4px 0 2px; }
+.recipe-meta { color: var(--muted); font-size: 12px; margin: 6px 0; }
+.recipe-body h5 { font-size: 12px; text-transform: uppercase; letter-spacing: .05em; color: var(--sage); margin: 10px 0 4px; }
+.recipe-body ul, .recipe-body ol { margin: 0; padding-left: 20px; }
+.recipe-body li { margin: 4px 0; }
+.recipe-note { margin: 8px 0 0; }
+.recipe-tweaks { margin-top: 10px; padding: 8px 10px; border: 1px dashed var(--terra); border-radius: 10px; background: #fffaf6; }
+.recipe-tweaks ul { margin-top: 4px; }
+.recipe-rory { margin: 10px 0 0; color: var(--terra); font-weight: 600; }
+.prep-row { display: grid; grid-template-columns: 22px 1fr; column-gap: 10px; row-gap: 2px; }
+.prep-row input[type="checkbox"] { grid-row: 1 / span 2; grid-column: 1; }
+.prep-time { grid-column: 2; grid-row: 1; min-width: 0; font-size: 13px; }
+.prep-step { grid-column: 2; grid-row: 2; }
