@@ -11,22 +11,22 @@
   "calories": 600,
   "protein": 45
  },
- "notes": "Headcount 5 this week (Rory, Wendy, Chloe + 2 adult guests). Chloe's lunches are just for her; Rory's plate macros unchanged. Everything mild; heat on the side for Rory. Quality: organic; beef grass-fed/finished when possible; chicken air-chilled organic; seafood wild-caught. Rice in bone broth; gelatin in beef. Low oil (spray/air fryer/broth). Named veggie side each night. Every recipe has full quantities for 5: tap 'Recipe' on each dinner. Every recipe has full quantities for 5: tap 'Recipe' on each dinner. Macros are estimates.",
+ "notes": "Headcount 5 this week (Rory, Wendy, Chloe + 2 adult guests). Tue: car dinner for Rory and Chloe after dance, plus a single bowl for Wendy at home. Sat: our standing night out (no prep). Chloe's lunches are just for her. Everything mild; heat on the side for Rory. Quality: organic; beef grass-fed/finished; chicken air-chilled organic; seafood wild-caught; eggs OrgaNICK Corn & Soy Feed Free. Rice in bone broth; gelatin in beef. Low oil. Every recipe has full quantities: tap 'Recipe' on each dinner. Macros are estimates.",
  "costEstimates": {
   "currency": "USD",
   "pricedOn": "2026-10-05",
   "label": "Estimated · Sprouts prices · excl. tax/delivery",
   "sections": {
-   "Meat & seafood": 331.24,
-   "Eggs & dairy": 97.85,
-   "Organic vegetables": 187.81,
+   "Meat & seafood": 310.27,
+   "Eggs & dairy": 106.85,
+   "Organic vegetables": 135.65,
    "Organic fruit": 131.25,
-   "Pantry & house staples": 159.17,
+   "Pantry & house staples": 149.69,
    "Pantry — if running low": 47.28
   },
-  "coreTotal": 907.32,
-  "withPantryLow": 954.6,
-  "note": "Estimates from Sprouts/Instacart prices found Oct 5, 2026 ET, updated for Rory's apple-ginger roast (+0.75 lb chuck, +2 apples, −2 lb carrots, −1 bag peas = +$6.43). New roast items (tamari, tomato paste, green onions; ACV/cinnamon/star anise if out) are not priced yet: rough estimate ~$8–14, plus ~$8–21 if out or optional. Excludes tax/delivery."
+  "coreTotal": 833.71,
+  "withPantryLow": 880.99,
+  "note": "Estimates from Sprouts/Instacart prices found Oct 5–6, 2026 ET. Oct 6 update: Saturday is now a night out, Tuesday is a smaller car dinner, the nuggets are store-bought (Bell & Evans organic, $8.99 at Whole Foods), and the eggs are OrgaNICK Corn & Soy Feed Free (~$7.99/doz, estimated): −$73.61 vs Oct 5. Items not priced yet (tamari, tomato paste, white miso, green onions, garlic) are rough estimates of ~$15–25 and aren't in the totals. Excludes tax/delivery."
  },
  "dinners": [
   {
@@ -67,25 +67,24 @@
      "¾ cup low-sodium soy sauce (or tamari)",
      "3 cups beef broth",
      "1½ Tbsp toasted sesame oil (optional, but worth it)",
-     "1½ Tbsp tomato paste or 1½ tsp white miso (optional umami boost, not spicy)",
-     "Neutral oil (about 1 Tbsp to sear), salt (guide: 1½ tsp kosher), and black pepper (guide: 1 tsp)",
+     "1½ Tbsp tomato paste AND 1½ tsp white miso (Rory uses both; umami boost, not spicy)",
+     "Salt (guide: 1½ tsp kosher) and black pepper (guide: 1 tsp)",
      "Optional garnish: 3 green onions, sliced; 1 Tbsp toasted sesame seeds",
      "Optional: 1 cinnamon stick + 1 star anise (in for the first 3 hours, then pull before shredding)"
     ],
     "steps": [
      "Heat oven to 325°F, with a rack low enough to fit the covered pot.",
-     "Pat the roast dry. Season all sides with salt and pepper (about 1½ tsp kosher salt and 1 tsp pepper for 5 lb; the soy adds more salt). In a Dutch oven, sear in a little oil until well browned on both sides, 4–5 min per side (optional but better flavor). Sear two roasts one at a time. Leave the roast in the pot.",
-     "Add the grated apple, onion, garlic, ginger, honey, vinegar, soy sauce, broth, sesame oil, and tomato paste or miso if using. Add the cinnamon stick and star anise now if using. Turn the roast so it's coated.",
+     "Pat the roast dry, put it in the pot (Rory's ceramic Dutch-oven-style pot), and season all sides with salt and pepper (about 1½ tsp kosher salt and 1 tsp pepper for 5 lb; the soy adds more salt). No searing.",
+     "Add everything at once: the grated apple, onion, garlic, ginger, honey, vinegar, soy sauce or tamari, broth, sesame oil, tomato paste, and miso (whisk the miso into a little of the broth first so it dissolves). Add the cinnamon stick and star anise now if using. Turn the roast so it's coated.",
      "Cover tightly and braise 4 hours, undisturbed, until it shreds easily with two forks (about 200–205°F inside). If using the cinnamon and star anise, pull them at the 3-hour mark.",
      "Shred the beef in the pot and toss it through the juices. If the sauce is thin, simmer uncovered on the stove a few minutes to reduce.",
      "Serve over the broth-and-yogurt mash with the fennel-apple slaw on the side. Garnish with green onion and sesame seeds."
     ],
-    "scale": "Rory's recipe as written, scaled 1.5× for a 5 lb roast (the original is for a 3–4 lb roast and serves 6–8). Ingredients, ratios, and method are unchanged.",
+    "scale": "Rory's recipe, scaled 1.5× for a 5 lb roast (the original is for a 3–4 lb roast and serves 6–8). Ratios are unchanged. Rory's method: no sear; everything goes in the pot at once, and he uses both tomato paste and white miso.",
     "tweaks": [
-     "Sear with avocado-oil cooking spray instead of pouring in the neutral oil.",
      "Use beef bone broth for the beef broth (same 3 cups).",
      "Add the usual gelatin: bloom 2 Tbsp unflavored grass-fed gelatin in ½ cup of the measured broth for 5 min, then add it with the liquids.",
-     "Rory cooks this in his ceramic pot (Dutch-oven style; fine in a 325°F oven). For 5 lb it needs about 6 qt or more. If the pot isn't stovetop-rated, sear in a 12-inch stainless skillet and reduce the juices in a stainless saucepan.",
+     "Rory cooks this in his ceramic pot (Dutch-oven style; fine in a 325°F oven). For 5 lb it needs about 6 qt or more. If the pot isn't stovetop-rated, reduce the juices in a stainless saucepan instead.",
      "Everything organic; the chuck should be grass-fed and grass-finished."
     ],
     "rump": "Rump works too (from Rory's notes): it's leaner, so use the same 325°F covered braise but plan on 4–4½ hours, then check and give it another 30 min if it doesn't pull apart. If the pot looks dry at the 3-hour mark, add ½ cup more broth. Slice against the grain if it resists shredding, and let it rest in the sauce 10–15 min.",
@@ -182,55 +181,54 @@
   {
    "day": "Tue",
    "date": "Oct 13",
-   "name": "Honey cashew chicken",
-   "desc": "Air-chilled chicken breast, peppers, broccoli, light honey-garlic-ginger sauce, toasted cashews, over bone broth + cauliflower rice",
-   "side": "Smashed cucumber salad — Persian cucumbers, rice vinegar, drops of toasted sesame oil, sesame seeds, salt. Smash, chunk, toss: 5 min.",
-   "cal": 600,
-   "protein": 59,
+   "name": "Car dinner after dance (Rory + Chloe) · Wendy's bowl at home",
+   "desc": "Rory and Chloe: toasted honey-garlic chicken wraps (garlic-ginger chicken, thick honey cashew sauce, cheddar, small whole-wheat tortillas), wrapped in parchment and foil to eat by hand in the car. Or Chloe's chicken and rice in her preheated 12 oz thermal jar. Wendy at home: her own honey cashew chicken bowl, packed Sunday; reheat 2½–3 min to 165°F.",
+   "side": "Cucumber and bell pepper spears (+ apple slices for Chloe): cut Tuesday, packed in a steel container with napkins.",
+   "cal": 610,
+   "protein": 56,
    "plate": [
     {
      "id": "breast_c",
-     "g": 150
+     "g": 140
     },
     {
      "id": "cashsauce",
-     "g": 60
+     "g": 25
     },
     {
-     "id": "cashews",
-     "g": 12
+     "id": "cheddar",
+     "g": 10
     },
     {
-     "id": "stirveg",
-     "g": 150
+     "id": "wwtort",
+     "g": 90
     },
     {
-     "id": "blend",
-     "g": 150
-    },
-    {
-     "id": "smashcuke",
+     "id": "spears",
      "g": 150
     }
    ],
    "recipe": {
-    "serves": "5",
-    "time": "20 min",
+    "serves": "3: Rory and Chloe eat in the car on the way home from dance; Wendy eats at home. (The guests aren't part of Tuesday dinner; if they're home, pack 2 more bowls like Wendy's and add ¾ lb chicken to Sunday's Pan A.)",
+    "time": "15 min before you leave to pick up Chloe",
     "ingredients": [
-     "~680 g garlic-ginger chicken, sliced (Pan A, from Sunday)",
-     "~300 g honey cashew sauce (from Sunday)",
-     "Cut stir-fry veg: 3 bell peppers + 2 broccoli crowns (~850 g, from Sunday)",
-     "¼ cup bone broth (veg) + 2 Tbsp (rice reheat)",
-     "650 g bone broth rice + cauliflower rice blend (from Sunday)",
-     "70 g toasted cashews (from Sunday)",
-     "Smashed cucumber salad: 1½ lb Persian cucumbers (8–10), 2 Tbsp rice vinegar, ½ tsp toasted sesame oil, 2 tsp sesame seeds, ¾ tsp salt"
+     "210 g garlic-ginger chicken, sliced (from Sunday): 140 g for Rory, 70 g for Chloe",
+     "40 g extra-thick honey cashew sauce (jar from Sunday): 25 g for Rory, 15 g for Chloe",
+     "3 small organic whole-wheat tortillas (~45 g each): 2 for Rory, 1 for Chloe",
+     "20 g (¼ cup) shredded cheddar: 10 g each",
+     "Car sides: 3 Persian cucumbers + 1 bell pepper cut into spears (~250 g; Rory 150 g, Chloe ~100 g), and 1 small apple sliced for Chloe (squeeze of lemon)",
+     "Packing: parchment, foil, the insulated lunch bag, a steel container for the spears, 2 cloth napkins",
+     "Optional for Chloe instead of a wrap: her second LunchBots 12 oz thermal jar with 70 g chicken + the 40 g rice set aside Sunday",
+     "Wendy's bowl (assembled Sunday): 150 g bone broth + cauliflower rice blend, 120 g chicken, 150 g pepper + broccoli, 40 g cashew sauce, 12 g toasted cashews in a tiny jar"
     ],
     "steps": [
-     "Cucumbers first: smash each one with the flat of a knife, cut into 1-inch chunks, and toss with the vinegar, sesame oil, sesame seeds, and salt. Let them sit while you cook.",
-     "In a 12-inch skillet over medium-high, add the veg and ¼ cup broth. Cover for 3 min, then uncover and cook 2–3 min until crisp-tender and the broth has cooked off.",
-     "Add the chicken and sauce and toss 3–4 min, until the sauce bubbles and the chicken is 165°F.",
-     "Reheat the blend in a covered saucepan with 2 Tbsp broth for 5–6 min, stirring (or microwave covered 3–4 min, stirring halfway), until steaming.",
-     "Serve over the blend with cashews on top. Rory: 150 g chicken, 60 g sauce, 150 g veg, 150 g blend, 12 g cashews, and 150 g cucumbers."
+     "In a stainless skillet over medium, toss the 210 g chicken with the 40 g thick sauce for 3–4 min, until it's 165°F and the sauce clings with no drips.",
+     "Warm the tortillas in a dry skillet, 20 sec per side. Rory: 2 wraps, each with 70 g chicken and 5 g cheddar. Chloe: 1 wrap with 70 g chicken and 10 g cheddar. Fold in the sides and roll tight.",
+     "Toast the wraps seam-side down in the dry skillet, 1–2 min per side, until golden and sealed so they hold together in the car.",
+     "Wrap each one in parchment, then foil, and twist the ends. Pack them in the insulated bag with the container of spears, Chloe's apple slices, and the napkins. Eat within 2 hours of packing.",
+     "Thermal-jar option for Chloe (best if pickup is more than 2 hours after you pack): fill the 12 oz jar with boiling water for 5–10 min and dump it. Heat 70 g chicken + 40 g rice with 1 Tbsp broth until steaming (165°F), pack it in, and close the lid. Bring a fork.",
+     "Wendy at home: microwave her bowl covered for 2½–3 min, stirring halfway (or heat in a skillet with 2 Tbsp broth for 5 min), to 165°F. Top with the cashews.",
+     "Rory: 2 wraps (90 g tortillas, 140 g chicken, 25 g sauce, 10 g cheddar) + 150 g cucumber and pepper spears ≈ 610 cal · 56 g protein. Chloe's carb is the tortilla, plus apple."
     ]
    }
   },
@@ -374,46 +372,10 @@
   {
    "day": "Sat",
    "date": "Oct 17",
-   "name": "Greek chicken bowls",
-   "desc": "Lemon-oregano chicken breast, bone broth rice, Greek yogurt tzatziki",
-   "side": "Cucumber-tomato-red onion salad — cucumber, cherry tomatoes, thin red onion, lemon, dried oregano, salt. 5 min.",
-   "cal": 560,
-   "protein": 67,
-   "plate": [
-    {
-     "id": "breast_g",
-     "g": 160
-    },
-    {
-     "id": "bbrice",
-     "g": 150
-    },
-    {
-     "id": "greeksalad",
-     "g": 200
-    },
-    {
-     "id": "tzatziki",
-     "g": 100
-    }
-   ],
-   "recipe": {
-    "serves": "5",
-    "time": "20 min",
-    "ingredients": [
-     "~765 g lemon-oregano chicken (moved from the freezer to the fridge Thu night) + 3 Tbsp bone broth",
-     "650 g bone broth rice (moved from the freezer to the fridge Fri night) + 2 Tbsp broth",
-     "Tzatziki: 1½ cups (340 g) Greek yogurt, 1 English cucumber (grated and squeezed dry), 1 Tbsp lemon juice, 1 small garlic clove (grated), 2 Tbsp chopped fresh dill, ½ tsp salt",
-     "Salad: 2 English cucumbers (diced), 1 pint cherry tomatoes (halved), ¼ red onion (thinly sliced), 2 Tbsp lemon juice, 1 tsp dried oregano, ½ tsp salt"
-    ],
-    "steps": [
-     "Tzatziki: grate the cucumber, squeeze it hard in a clean towel, and stir it into the yogurt with the lemon, garlic, dill, and salt. Makes ~500 g.",
-     "Salad: toss the cucumbers, tomatoes, onion, lemon juice, oregano, and salt.",
-     "Reheat the chicken in a covered skillet with 3 Tbsp broth over medium for 5–6 min (or in a covered dish at 350°F for 15 min), until 165°F.",
-     "Reheat the rice covered with 2 Tbsp broth for 5 min (or microwave 3 min), until steaming.",
-     "Build bowls. Rory: 160 g chicken, 150 g rice, 200 g salad, 100 g tzatziki."
-    ]
-   }
+   "name": "Night out",
+   "nightOut": true,
+   "desc": "Saturday is our standing night out. No meal prep, no groceries, nothing to thaw.",
+   "plate": []
   },
   {
    "day": "Sun",
@@ -443,7 +405,7 @@
     "time": "15 min morning prep · 8 hr on LOW",
     "ingredients": [
      "4 lb grass-fed chuck roast",
-     "1½ tsp kosher salt, 1 tsp pepper, avocado-oil spray",
+     "1½ tsp kosher salt, 1 tsp pepper",
      "1 yellow onion, sliced; 4 garlic cloves, minced",
      "1 cup beef bone broth",
      "2 Tbsp unflavored grass-fed gelatin (bloomed in ¼ cup of the broth)",
@@ -452,7 +414,7 @@
      "Peas and carrots: 16 oz bag frozen peas, 3 medium carrots (diced, ~250 g), ¼ cup broth, 1 tsp honey, 1 Tbsp chopped fresh dill, ½ tsp salt"
     ],
     "steps": [
-     "By 9 AM: season the chuck, sear 4–5 min per side in a stainless skillet with spray, and put it in the slow cooker on the onion and garlic.",
+     "By 9 AM: season the chuck with salt and pepper and put it straight in the slow cooker on the onion and garlic (no sear, our usual way).",
      "Whisk the broth (with the bloomed gelatin), balsamic, honey, aminos, and Dijon and pour over the beef. Cook on LOW for 8 hours (or HIGH for 5–6), until it shreds easily.",
      "Shred in the juices. For a thicker sauce, skim off the fat, simmer 2 cups of the liquid in a saucepan 8–10 min to reduce by half, and stir it back in.",
      "Mash: same as Oct 11, started 30 min before dinner.",
@@ -466,8 +428,8 @@
   {
    "day": "Mon",
    "date": "Oct 12",
-   "items": "7 chicken nuggets + ~100 g potato wedges (hot), 2 Tbsp honey mustard (steel dip cup), ½ mango in chunks",
-   "how": "Reheat the nuggets and wedges in the air fryer at 375°F for 4–5 min, until 165°F. Pack them into the warmed jar. Mango and the dip cup go in the bento."
+   "items": "4 Bell & Evans organic chicken nuggets + ~100 g potato wedges (hot), 2 Tbsp honey mustard (steel dip cup), ½ mango in chunks",
+   "how": "Nuggets are sold uncooked: air-fry them from frozen at 400°F for 10–12 min in a single layer, shaking at 5–6 min, until 170°F (follow the bag). Add the wedges for the last 4 min. Pack into the warmed jar. Mango and the dip cup go in the bento."
   },
   {
    "day": "Tue",
@@ -484,12 +446,12 @@
   {
    "day": "Thu",
    "date": "Oct 15",
-   "items": "6 nuggets + 1 small whole-wheat tortilla + 1 Tbsp honey mustard (wrap), ½ mango and ½ apple, sliced",
-   "how": "The nuggets moved to the fridge Wed night. Air-fry them at 375°F for 4–5 min and pack them hot in the jar. The tortilla, a little lettuce, and the dip cup go in the bento so she can wrap it at lunch."
+   "items": "4 Bell & Evans organic chicken nuggets + 1 small whole-wheat tortilla + 1 Tbsp honey mustard (wrap), ½ mango and ½ apple, sliced",
+   "how": "Air-fry the nuggets from frozen at 400°F for 10–12 min, shaking halfway, until 170°F (follow the bag), and pack them hot in the warmed jar. The tortilla, a little lettuce, and the dip cup go in the bento so she can wrap it at lunch."
   }
  ],
  "breakfasts": [
-  "Egg bites (24, made Sunday): 18 eggs, 1½ cups low-fat cottage cheese, 2 packs (~24 oz) chicken breakfast sausage (browned), 10 oz baby spinach (wilted and squeezed), ½ tsp salt, ¼ tsp pepper; 325°F for 25–30 min. 12 in the fridge, 12 in the freezer. Reheat: microwave 45–60 sec from the fridge or 90 sec from frozen, or air-fry at 350°F for 5 min (8 min from frozen). 2–3 per adult.",
+  "Egg bites (24, made Sunday): 18 OrgaNICK Pastures Corn & Soy Feed Free eggs, 1½ cups low-fat cottage cheese, 2 packs (~24 oz) chicken breakfast sausage (browned), 10 oz baby spinach (wilted and squeezed), ½ tsp salt, ¼ tsp pepper; 325°F for 25–30 min. 12 in the fridge, 12 in the freezer. Reheat: microwave 45–60 sec from the fridge or 90 sec from frozen, or air-fry at 350°F for 5 min (8 min from frozen). 2–3 per adult.",
   "Greek yogurt bowls (assemble each morning): Per bowl: ¾ cup (170 g) Greek yogurt, ½ cup berries, ½ kiwi (diced), ¼ cup granola, and a drizzle of honey if you like. Chloe gets the fruit on the side."
  ],
  "lunches": "Grown-up lunches from leftover chicken and beef bowls (scaled for 5)",
@@ -507,117 +469,105 @@
   {
    "t": "11:00",
    "title": "Set up, then start the bone broth rice",
-   "step": "Oven to 425°F with racks in the upper-middle and lower-middle. Line 4 half-sheet pans (18×13 in) with parchment. Pull out a 5-qt+ stainless pot, a 12-inch stainless skillet, two 12-cup muffin tins, the kitchen scale, and glass containers with labels.",
+   "step": "Oven to 425°F with racks in the upper-middle and lower-middle. Line 2 half-sheet pans (18×13 in) with parchment. Pull out a 4-qt+ stainless pot, a 12-inch stainless skillet, two 12-cup muffin tins, the kitchen scale, and glass containers with labels.",
    "details": [
-    "Rice: rinse 4 cups (740 g) organic jasmine rice in a fine strainer until the water runs mostly clear, about 1 minute.",
-    "In the 5-qt pot combine the rice, 5 cups bone broth, and ½ tsp salt. Bring to a boil over high (5–7 min), stir once, cover, turn to the lowest heat, and cook 15 min.",
-    "Turn off the heat and let it sit covered 10 min without lifting the lid. Makes about 2.2 kg cooked."
+    "Rice: rinse 2½ cups (460 g) organic jasmine rice in a fine strainer until the water runs mostly clear, about 1 minute.",
+    "In the pot combine the rice, 3 cups + 2 Tbsp bone broth, and ½ tsp salt. Bring to a boil over high (5 min), stir once, cover, turn to the lowest heat, and cook 15 min.",
+    "Turn off the heat and let it sit covered 10 min without lifting the lid. Makes about 1.35 kg cooked."
    ]
   },
   {
    "t": "11:10",
-   "title": "Season three pans of chicken (6¼ lb breasts)",
-   "step": "Trim the breasts and slice any thick ones in half horizontally so everything is about ¾ inch thick (even pieces cook evenly). Lay out on 3 parchment-lined pans in a single layer, not touching.",
+   "title": "Season two pans of chicken (3¼ lb breasts) + Chloe's wedges",
+   "step": "Trim the breasts and slice any thick ones in half horizontally so everything is about ¾ inch thick. Lay out in a single layer, not touching.",
    "details": [
-    "Pan A, garlic-ginger (Tue cashew chicken), 2 lb: 2 Tbsp coconut aminos, 3 garlic cloves (grated), 1 Tbsp grated fresh ginger, ½ tsp salt, light avocado-oil spray.",
-    "Pan B, lemon-oregano (Sat Greek bowls), 2¼ lb: zest of 1 lemon + 2 Tbsp lemon juice, 2 tsp dried oregano, 1 tsp garlic powder, 1 tsp salt, ½ tsp pepper, light spray.",
+    "Pan A, garlic-ginger (Tue car wraps + Wendy's bowl), 1¼ lb: 1 Tbsp + 1 tsp coconut aminos, 2 garlic cloves (grated), 2 tsp grated fresh ginger, ¼ tsp salt, light avocado-oil spray. Leave one end of the pan open for the wedges.",
+    "Wedges (Chloe's Mon lunch), on the open end of Pan A: cut 1 medium potato (~250 g) into 8 wedges, spray, and sprinkle with ¼ tsp salt.",
     "Pan C, plain lunch chicken (grown-up lunches + Chloe's Wed chicken and rice), 2 lb: 1 tsp salt, 1 tsp garlic powder, 1 tsp smoked paprika, ½ tsp pepper, light spray.",
-    "11:20: Pans A and B into the 425°F oven, 18–25 min, until 165°F in the thickest piece. Wash the board, knife, and your hands."
+    "11:20: both pans into the 425°F oven. Chicken 18–25 min, until 165°F in the thickest piece. Wedges 25–30 min, flipped at 15 min. Wash the board, knife, and your hands."
    ]
   },
   {
    "t": "11:20",
-   "title": "Chloe's nuggets, potato wedges, and honey mustard",
-   "step": "Nuggets go in the air fryer so the oven stays free.",
+   "title": "Honey mustard, then the cheeseburger beef (3 lb 96/4)",
+   "step": "Honey mustard is for dipping Chloe's store-bought nuggets. Brown the beef in a 12-inch stainless skillet over medium-high (do it in 2 batches, or all at once in a wide 5-qt pot).",
    "details": [
-    "Nuggets: cut ¾ lb chicken breast into ~20 one-inch pieces. Bowl 1: 1 egg beaten with 1 Tbsp water. Bowl 2: ¾ cup whole-wheat panko, ½ tsp garlic powder, ½ tsp smoked paprika, ½ tsp salt.",
-    "Dip each piece in egg, then press into the crumbs. Spray lightly. Air-fry at 400°F for 8–10 min in a single layer (2 batches), flipping halfway, until golden and 165°F inside.",
-    "Wedges: cut 1 medium potato (~250 g) into 8 wedges, spray, sprinkle with ¼ tsp salt, and set on a small parchment-lined pan (it goes in at 11:45).",
-    "Honey mustard: stir ½ cup Greek yogurt, 2 Tbsp Dijon, 1½ Tbsp honey, and a pinch of salt. Spoon 2 Tbsp into each of 2 steel dip cups (Mon and Thu lunches); the rest goes in a small jar. Fridge."
-   ]
-  },
-  {
-   "t": "11:45",
-   "title": "Swap pans; spread the rice to cool",
-   "step": "Check Pans A and B: 165°F means done. Pull them and let the chicken rest 10 min on the pans. Put Pan C and the wedges in at 425°F.",
-   "details": [
-    "Pan C: 18–25 min, to 165°F. Wedges: 25–30 min, flipping at 15 min, until browned and fork-tender.",
-    "Fluff the rice and spread it in a thin layer on a parchment-lined sheet pan to cool for 15–20 min (rice must be in the fridge within 1 hour)."
-   ]
-  },
-  {
-   "t": "11:50",
-   "title": "Cheeseburger beef (3 lb 96/4 ground beef)",
-   "step": "12-inch stainless skillet over medium-high (do it in 2 batches, or all at once in a wide 5-qt pot).",
-   "details": [
-    "Add ¼ cup bone broth and 3 lb extra-lean grass-fed ground beef. Break it up with a spatula. Season with 1½ tsp salt, 1 tsp garlic powder, ½ tsp smoked paprika, ½ tsp pepper.",
-    "Cook 10–12 min, stirring, until no pink remains and it reads 160°F.",
-    "Meanwhile, sprinkle 1 Tbsp unflavored grass-fed gelatin over ¼ cup cold bone broth and let it bloom 5 min. Stir it into the beef and simmer 1–2 min until glossy. Makes ~1,020 g cooked.",
+    "Honey mustard: stir ½ cup Greek yogurt, 2 Tbsp Dijon, 1½ Tbsp honey, and a pinch of salt. Spoon 2 Tbsp into each of 2 steel dip cups (Mon and Thu lunches); the rest goes in a small jar. Fridge.",
+    "Beef: add ¼ cup bone broth and 3 lb extra-lean grass-fed ground beef. Break it up and season with 1½ tsp salt, 1 tsp garlic powder, ½ tsp smoked paprika, ½ tsp pepper. Cook 10–12 min, stirring, until no pink remains and it reads 160°F.",
+    "Meanwhile, sprinkle 1 Tbsp unflavored grass-fed gelatin over ¼ cup cold bone broth and let it bloom 5 min. Stir it in and simmer 1–2 min until glossy. Makes ~1,020 g.",
     "Portion: Wed dinner 750 g in one glass container (fridge). Grown-up lunches: 2 small containers of ~135 g each (fridge, eat by Wed)."
    ]
   },
   {
-   "t": "12:10",
-   "title": "Cauliflower rice, then weigh out the rice and blends",
-   "step": "12-inch skillet, medium-high, in 2 batches (2–3 bags each).",
+   "t": "11:45",
+   "title": "Chicken out; spread the rice to cool",
+   "step": "At 165°F, move the chicken to a board to rest 10 min. Slide Pan A back in so the wedges can finish (another 5–10 min).",
    "details": [
-    "Per 12-oz bag: 2 Tbsp bone broth and ¼ tsp salt. Cook uncovered, stirring, 6–8 min (fresh) or 8–10 min (frozen) until tender and the liquid has cooked off. 5 bags make ~1.3 kg. Spread on a sheet pan to cool 10 min.",
+    "Fluff the rice and spread it in a thin layer on a parchment-lined sheet pan to cool for 15–20 min (rice must be in the fridge within 1 hour)."
+   ]
+  },
+  {
+   "t": "11:55",
+   "title": "Cauliflower rice, then weigh out the rice and blends",
+   "step": "12-inch skillet, medium-high, in 2 batches of 2 bags.",
+   "details": [
+    "Per 12-oz bag: 2 Tbsp bone broth and ¼ tsp salt. Cook uncovered, stirring, 6–8 min (fresh) or 8–10 min (frozen) until tender and the liquid has cooked off. 4 bags make ~1.05 kg. Spread on a sheet pan to cool 10 min.",
     "Weigh into labeled glass containers (half rice, half cauliflower rice by weight for each blend):",
-    "Tue blend: 650 g (325 g rice + 325 g cauli). Fridge.",
+    "Wendy's Tue bowl: 150 g blend (75 g + 75 g), weighed straight into her bowl container (assembled at 12:25).",
     "Wed blend: 650 g (325 g + 325 g). Fridge.",
     "Thu blend: 1,075 g (540 g + 535 g). Freezer; move to the fridge Wed night.",
-    "Sat plain bone broth rice: 650 g. Freezer; move to the fridge Fri night.",
-    "Chloe's Wed lunch rice: 120 g in a small container. Fridge.",
-    "Leftover rice (~190 g) and cauli (~100 g): one container for Mon rice bowls and lunches. Fridge."
+    "Chloe: Wed lunch rice 120 g, plus 40 g for the optional Tue thermal-jar dinner. Two small containers, fridge.",
+    "Leftover rice (~230 g) and cauli (~100 g): one container for Mon rice bowls and lunches. Fridge."
+   ]
+  },
+  {
+   "t": "12:10",
+   "title": "Thick cashew sauce, cashews, Wendy's veg, burger sauce",
+   "step": "Small saucepan for the sauce, then the skillet for the cashews and veg.",
+   "details": [
+    "Honey cashew sauce, a half batch made extra-thick so the wraps don't drip: whisk 6 Tbsp bone broth, 2½ Tbsp coconut aminos, 1½ Tbsp honey, 2 garlic cloves (minced), 1½ tsp grated ginger, and 1½ tsp rice vinegar. Simmer 2 min, whisk in 2 tsp arrowroot or cornstarch + 1 Tbsp cold water, and simmer 1 min until thick. Makes ~150 g.",
+    "Cashews: 2 Tbsp (15 g) unsalted cashews in a dry skillet over medium, 3 min, until golden. Small jar.",
+    "Wendy's veg: 1 bell pepper in strips + 1 small broccoli crown in florets (~300 g raw). Cook in 2 Tbsp broth, covered, 3 min, then uncovered 1–2 min until crisp-tender.",
+    "Burger sauce (Wed): stir ¾ cup Greek yogurt, 2 Tbsp finely chopped dill pickles + 1 Tbsp pickle brine, 1 Tbsp yellow mustard, 1 tsp honey, ½ tsp smoked paprika, ¼ tsp garlic powder, and a pinch of salt. Makes ~230 g. Jar, fridge."
    ]
   },
   {
    "t": "12:25",
-   "title": "Slice and portion the chicken, nuggets, and wedges",
-   "step": "Pan C comes out at about 12:05–12:10 and the wedges at 12:15. Once rested, slice or dice the chicken, then portion it.",
+   "title": "Slice and portion the chicken; assemble Wendy's bowl",
+   "step": "Slice or dice the rested chicken, then portion it.",
    "details": [
-    "Tue: all of Pan A, garlic-ginger, ~680 g sliced. One container, fridge.",
-    "Sat: all of Pan B, lemon-oregano, ~765 g sliced. One container, freezer; move to the fridge Thu night.",
+    "Pan A, garlic-ginger, ~425 g: 210 g for Tuesday's car wraps (Rory 140 g, Chloe 70 g) in one container, with 40 g of the thick sauce in a small jar alongside. Fridge.",
+    "Wendy's Tue bowl in one glass container: the 150 g blend, 120 g garlic-ginger chicken, 150 g of her veg, and 40 g cashew sauce spooned over the chicken. Put the cashews in a tiny jar on top. Label it 'Wendy · Tue · reheat 2½–3 min'. Fridge.",
+    "The leftover Pan A chicken (~95 g), leftover veg, and ~70 g sauce go to grown-up lunches and Rory's extra dip.",
     "Pan C, ~680 g: Chloe's Wed lunch 80 g diced (small container) plus 3 grown-up lunch containers of 200 g each. Fridge.",
-    "Nuggets: Mon lunch 7 nuggets (fridge). Thu lunch 6 nuggets (freezer; move to the fridge Wed night). The ~7 extras go in the freezer for another week.",
     "Wedges: Chloe's Mon lunch ~100 g (fridge); the rest are a snack."
    ]
   },
   {
    "t": "12:40",
-   "title": "Sauces and toasted cashews",
-   "step": "Small saucepan for the cashew sauce; dry skillet for the cashews.",
+   "title": "Oven down to 325°F; Rory's roast, no sear, all in the pot at once",
+   "step": "Turn the oven to 325°F and crack the door 2–3 min so it cools faster. Make the roast exactly as on the Sunday recipe page (5 lb, 1.5× Rory's recipe), in Rory's ceramic pot.",
    "details": [
-    "Honey cashew sauce (Tue): whisk ¾ cup bone broth, ⅓ cup coconut aminos, 3 Tbsp honey, 4 garlic cloves (minced), 1 Tbsp grated ginger, and 1 Tbsp rice vinegar. Simmer 3 min. Whisk in a slurry of 1 Tbsp arrowroot or cornstarch + 2 Tbsp cold water and simmer 1 min until glossy. Makes ~1⅓ cups (~300 g). Jar, fridge.",
-    "Cashews: ½ cup (70 g) unsalted cashews in a dry skillet over medium, 3–4 min, stirring, until golden. Cool, then store in a small jar at room temperature.",
-    "Burger sauce (Wed): stir ¾ cup Greek yogurt, 2 Tbsp finely chopped dill pickles + 1 Tbsp pickle brine, 1 Tbsp yellow mustard, 1 tsp honey, ½ tsp smoked paprika, ¼ tsp garlic powder, and a pinch of salt. Makes ~230 g. Jar, fridge."
+    "Prep: grate 1½ large apples, dice 1½ medium yellow onions, mince 6 garlic cloves, grate a 1½-inch piece of ginger.",
+    "Put the 5 lb chuck in the pot and season with 1½ tsp kosher salt + 1 tsp black pepper. No searing.",
+    "Add everything at once: the apple, onion, garlic, ginger, 3 Tbsp honey, 3 Tbsp apple cider vinegar, ¾ cup low-sodium tamari, 3 cups beef bone broth (with 2 Tbsp gelatin bloomed in ½ cup of it; house tweak), 1½ Tbsp toasted sesame oil, 1½ Tbsp tomato paste, and 1½ tsp white miso. Optional: 1 cinnamon stick + 1 star anise. Turn the roast to coat.",
+    "Cover tightly and get it into the 325°F oven by about 12:55 PM. Set timers for 3:55 PM (pull the cinnamon and star anise) and 4:55 PM (check for fork-tender)."
    ]
   },
   {
    "t": "1:00",
-   "title": "Oven down to 325°F; start Rory's apple-ginger chuck roast",
-   "step": "Turn the oven to 325°F and crack the door 2–3 min so it cools faster. Make the roast exactly as written on the Sunday recipe page (5 lb, 1.5× Rory's recipe), in Rory's ceramic pot.",
-   "details": [
-    "Prep: grate 1½ large apples, dice 1½ medium yellow onions, mince 6 garlic cloves, grate a 1½-inch piece of ginger.",
-    "Pat 5 lb chuck dry; season all sides with 1½ tsp kosher salt + 1 tsp black pepper. Sear (house tweak: avocado-oil spray) 4–5 min per side until well browned.",
-    "Add the apple, onion, garlic, ginger, 3 Tbsp honey, 3 Tbsp apple cider vinegar, ¾ cup low-sodium tamari, 3 cups beef bone broth (with 2 Tbsp gelatin bloomed in ½ cup of it; house tweak), 1½ Tbsp toasted sesame oil, and 1½ Tbsp tomato paste (or 1½ tsp white miso). Optional: 1 cinnamon stick + 1 star anise. Turn the roast to coat.",
-    "Cover tightly and get it into the 325°F oven by about 1:20 PM. Set timers for 4:20 PM (pull the cinnamon and star anise) and 5:20 PM (check for fork-tender)."
-   ]
-  },
-  {
-   "t": "1:25",
    "title": "Egg bites (24) bake alongside the roast at 325°F",
    "step": "Spray two 12-cup muffin tins well.",
    "details": [
     "Brown 2 packs (~24 oz) organic chicken breakfast sausage in the skillet, crumbled, until 165°F (if it's pre-cooked, just warm and chop). Wilt the 10 oz bag of baby spinach in 2 Tbsp broth for 2 min, squeeze dry, and chop.",
-    "Blend 18 eggs, 1½ cups low-fat cottage cheese, ½ tsp salt, and ¼ tsp pepper until smooth, about 30 seconds.",
+    "Blend 18 OrgaNICK eggs, 1½ cups low-fat cottage cheese, ½ tsp salt, and ¼ tsp pepper until smooth, about 30 seconds.",
     "Divide the sausage and spinach among the 24 cups, then pour the egg mixture about ¾ full (~⅓ cup each).",
     "Bake on the open rack next to the roast, 325°F, 25–30 min, until set in the center (160°F). Cool 10 min and unmold.",
     "12 go in a glass container in the fridge (Mon–Wed); 12 go in the freezer (Thu onward)."
    ]
   },
   {
-   "t": "1:35",
+   "t": "1:10",
    "title": "Ninja Creami pints (4)",
    "step": "Blend each base, pour into a Creami pint up to the max fill line, lid it, and freeze level for 24 hours.",
    "details": [
@@ -626,27 +576,26 @@
    ]
   },
   {
-   "t": "1:50",
-   "title": "Veggie and fruit prep for Mon–Wed",
-   "step": "Wash, dry, cut, and store in containers lined with a paper towel.",
+   "t": "1:25",
+   "title": "Veggie and fruit prep for Mon and Wed",
+   "step": "Wash, dry, cut, and store in containers lined with a paper towel. Cut Tuesday's car spears on Tuesday so they stay crisp.",
    "details": [
-    "Tue stir-fry veg: 3 bell peppers in ½-inch strips (~450 g) + 2 broccoli crowns in bite-size florets (~400 g). One container, fridge.",
     "Mon slaw: thinly shred ½ medium green cabbage (~500 g) and ¼ small red cabbage (~200 g), and coarsely grate 2 carrots (~150 g). One container, undressed. Dressing jar: ¼ cup lime juice (2–3 limes), 1½ Tbsp honey, ¾ tsp salt. Fridge.",
-    "Wed: wash, spin dry, and chop 2 romaine hearts (~300 g). Container with a paper towel, fridge. Leave tomatoes whole on the counter until Wed.",
+    "Wed: wash, spin dry, and chop 2 romaine hearts (~300 g). Container with a paper towel, fridge. Leave the tomatoes whole on the counter until Wed.",
     "Chloe: cut 1 mango into chunks (~150 g) for Mon lunch, in a small container in the fridge. Cut apples and kiwi the morning of so they stay fresh."
    ]
   },
   {
-   "t": "2:10",
+   "t": "1:40",
    "title": "Label, store, clean up",
-   "step": "Everything into the fridge or freezer per the labels. You're free until 4:20 PM.",
+   "step": "Everything into the fridge or freezer per the labels. You're free until 3:55 PM.",
    "details": [
-    "Fridge (Mon–Wed): Tue chicken, Tue/Wed blends, Wed beef, lunch chicken and beef, Chloe's Mon nuggets, wedges, mango and Wed chicken and rice, sauces, cut veg, slaw kit, 12 egg bites.",
-    "Freezer (Thu onward): Thu blend, Sat rice, Sat chicken, Thu nuggets, extra nuggets, 12 egg bites, 4 Creami pints."
+    "Fridge (Mon–Wed): Rory and Chloe's wrap chicken + sauce jar, Wendy's Tue bowl, Wed blend, Wed beef, lunch chicken and beef, Chloe's Mon wedges, mango and Wed chicken and rice, honey mustard cups, burger sauce, slaw kit, romaine, 12 egg bites.",
+    "Freezer (Thu onward): Thu blend, 12 egg bites, 4 Creami pints, and the Bell & Evans nugget bag."
    ]
   },
   {
-   "t": "4:20",
+   "t": "3:55",
    "title": "Pull the spices; start the potatoes",
    "step": "Remove the cinnamon stick and star anise from the roast if used (Rory's recipe: in for the first 3 hours only). Re-cover and return it to the oven.",
    "details": [
@@ -654,7 +603,7 @@
    ]
   },
   {
-   "t": "4:50",
+   "t": "4:25",
    "title": "Boil the potatoes; make the fennel-apple slaw",
    "step": "Bring the potatoes to a boil over high (~10 min), then simmer 12–15 min until a knife slides through with no resistance.",
    "details": [
@@ -663,7 +612,7 @@
    ]
   },
   {
-   "t": "5:20",
+   "t": "4:55",
    "title": "Finish the roast and the mash",
    "step": "The roast is ready when it shreds easily with two forks (about 200–205°F inside). If it resists, give it 30 more minutes.",
    "details": [
@@ -673,7 +622,7 @@
    ]
   },
   {
-   "t": "5:45",
+   "t": "5:15",
    "title": "Dinner, then set up Monday",
    "step": "Rory's plate: 190 g shredded beef with juices, 150 g mash, 150 g slaw (~580 cal, 55 g protein). Hot sauce on the side for Rory only.",
    "details": [
@@ -689,23 +638,24 @@
    "items": [
     "Organic grass-fed, grass-finished beef chuck roast: 5 lb, one roast or two ~2.5 lb (Sun Oct 11 apple-ginger roast for 5 + Mon Oct 12 tacos)",
     "Organic grass-fed beef chuck roast (grass-finished when possible): 4 lb (Sun Oct 18 honey-balsamic beef + leftovers)",
-    "Organic air-chilled chicken breasts: 7 lb (Tue cashew chicken, Sat Greek bowls, Chloe's nuggets and chicken & rice, lunches)",
+    "Organic air-chilled chicken breasts: 3.25 lb (Tue car wraps + Wendy's bowl, grown-up lunches, Chloe's Wed chicken & rice)",
     "Organic grass-fed extra-lean ground beef, 96/4 (grass-finished when possible): 3 lb (Wed cheeseburger bowls + lunches)",
     "Wild-caught salmon fillets: 2 lb (Thu)",
     "Organic grass-fed sirloin steaks (grass-finished when possible): 2.25 lb (Fri)",
     "Organic grass-fed beef hot dogs (grass-finished when possible): 1 pack (Chloe's Tue lunch)",
-    "Organic chicken breakfast sausage (air-chilled organic chicken): 2 packs, ~12 oz each (egg bites)"
+    "Organic chicken breakfast sausage (air-chilled organic chicken): 2 packs, ~12 oz each (egg bites)",
+    "Bell & Evans Organic Breaded Chicken Nuggets, air-chilled, 12 oz frozen: 1 bag (Chloe's Mon + Thu lunches). Whole Foods/Amazon; Sprouts backup: Perdue Simply Smart Organics GF Breast Nuggets 22 oz"
    ]
   },
   {
    "section": "Eggs & dairy",
    "items": [
-    "Our usual Sprouts eggs: 3 dozen (egg bites, fried-egg toppers, nugget coating)",
+    "OrgaNICK Pastures Corn & Soy Feed Free Regeneratively Farmed Pasture-Raised Organic Large Brown Eggs (12 ct): 3 dozen (egg bites, fried-egg toppers)",
     "Organic low-fat cottage cheese: 3 × 24 oz (egg bites, Creami)",
-    "Organic plain nonfat Greek yogurt: 4 × 32 oz (yogurt bowls, mashed potatoes, tzatziki, burger sauce, honey mustard, tacos, Creami)",
-    "Organic shredded cheddar: 8 oz",
+    "Organic plain nonfat Greek yogurt: 4 × 32 oz (yogurt bowls, mash, burger sauce, honey mustard, tacos, Creami)",
+    "Organic shredded cheddar: 8 oz (Wed bowls, Tue wraps)",
     "Organic Parmesan, wedge or grated: 1 (zucchini fries)",
-    "Organic milk: ½ gallon (Creami re-spins, mashed potatoes)"
+    "Organic milk: ½ gallon (Creami re-spins)"
    ]
   },
   {
@@ -715,20 +665,21 @@
     "Organic carrots: 2 lb (Mon slaw, Oct 18 peas and carrots, snacks)",
     "Organic fennel: 2 bulbs (Oct 11 fennel-apple slaw)",
     "Organic green cabbage: 1 medium + organic red cabbage: 1 small, or 2 bags organic coleslaw mix (Mon slaw)",
-    "Organic broccoli: 3 crowns (Tue cashew chicken)",
-    "Organic bell peppers (red/yellow/orange): 6 (Tue)",
-    "Organic riced cauliflower: 5 × 12 oz bags, fresh or frozen",
-    "Organic Persian cucumbers: 2 bags (Tue smashed cucumber salad)",
-    "Organic English cucumbers: 4 (Sat salad, tzatziki, Chloe's snacks)",
+    "Organic broccoli: 1 crown (Wendy's Tue bowl)",
+    "Organic bell peppers: 2 (Wendy's Tue bowl + Tue car spears)",
+    "Organic riced cauliflower: 4 × 12 oz bags, fresh or frozen",
+    "Organic Persian cucumbers: 1 bag (Tue car spears + snacks)",
+    "Organic English cucumber: 1 (Chloe's snacks)",
     "Organic zucchini: 6 medium (Wed zucchini fries)",
     "Organic romaine hearts: 2 packs (Wed bowls)",
     "Organic asparagus: 3 bunches (Thu)",
     "Organic green beans: 2.5 lb (Fri)",
-    "Organic tomatoes: 3 pints cherry + 4 Roma (Wed, Sat)",
-    "Organic red onion: 1 (Sat salad)",
+    "Organic Roma tomatoes: 4 (Wed bowls)",
     "Organic baby spinach: 10 oz (egg bites)",
-    "Organic yellow onions: 4 (1½ for the Oct 11 roast) · organic garlic: 3 heads · organic fresh ginger: 1 large knob, ~3 oz (roast, cashew sauce, chicken)",
-    "Organic fresh dill: 2 bunches (tzatziki, peas and carrots)",
+    "Organic yellow onions: 4 (1½ for the Oct 11 roast)",
+    "Organic garlic: 3 heads",
+    "Organic fresh ginger: 1 large knob, ~3 oz (roast, cashew sauce, chicken)",
+    "Organic fresh dill: 1 bunch (Oct 18 peas and carrots)",
     "Organic green onions: 1 bunch (Oct 11 roast garnish)",
     "Organic frozen peas: 1 × 16 oz bag (Sun Oct 18 peas and carrots)"
    ]
@@ -737,7 +688,7 @@
    "section": "Organic fruit",
    "items": [
     "Organic mangoes: 6 (Chloe's lunches, yogurt bowls, Creami)",
-    "Organic apples: 14 (incl. 2 for the Oct 11 roast, grated, and 2 for the fennel-apple slaw)",
+    "Organic apples: 14 (incl. 2 for the Oct 11 roast, 2 for the fennel-apple slaw, Chloe's Tue car dinner)",
     "Organic kiwis: 10",
     "Organic bananas: 2 bunches (ripe ones for Creami)",
     "Organic strawberries: 3 lb",
@@ -745,7 +696,8 @@
     "Organic raspberries: 2 pints",
     "Organic mandarins: 2 bags",
     "Organic frozen mango chunks: 1 bag (Creami backup)",
-    "Organic lemons: 8 · organic limes: 4 (1 lb bag)"
+    "Organic lemons: 6 (2 lb bag)",
+    "Organic limes: 4 (1 lb bag)"
    ]
   },
   {
@@ -754,17 +706,16 @@
     "Organic bone broth: 6 × 32 oz, at least 1 of them beef (3 cups for the Oct 11 roast; rice, sautéing, mash, cashew sauce)",
     "Organic avocado-oil spray: 2 cans (no bottled cooking oil needed)",
     "Organic corn tortillas: 2 packs, ~24 small (Mon Oct 12 tacos)",
-    "Organic unsalted cashews: 12 oz",
+    "Organic small whole-wheat tortillas: 1 pack (Tue car wraps + Chloe's Thu wrap)",
+    "Organic unsalted cashews: ¼ lb bulk (Wendy's Tue bowl)",
     "Organic coconut aminos: 1 bottle (cashew sauce, garlic-ginger chicken, Oct 18 beef)",
     "Organic low-sodium tamari or soy sauce: 1 bottle (¾ cup for the Oct 11 roast)",
-    "Organic tomato paste: 1 small can or tube (1½ Tbsp for the roast), or organic white miso",
+    "Organic tomato paste: 1 small can or tube (1½ Tbsp for the roast)",
+    "Organic white miso: 1 small tub (1½ tsp for the roast)",
     "Organic mild salsa: 2 jars (Mon tacos)",
     "Organic dill pickles: 1 jar",
-    "Organic whole-wheat or panko breadcrumbs: 1 container (nuggets)",
     "Organic whole-grain hot dog buns: 1 pack (Chloe's Tue lunch)",
-    "Organic small whole-wheat tortillas: 1 pack (Chloe's Thu wrap)",
-    "Organic granola: 2 bags",
-    "Organic apple cider vinegar (3 Tbsp for the roast, if out)"
+    "Organic granola: 2 bags"
    ]
   },
   {
@@ -773,11 +724,13 @@
     "Organic unflavored grass-fed gelatin: 1 canister (if running low)",
     "Organic jasmine rice: 3 lb (if running low)",
     "Organic honey: 1 jar (if running low)",
-    "Organic toasted sesame oil (1½ Tbsp for the roast), rice vinegar, and sesame seeds (if out)",
+    "Organic toasted sesame oil (1½ Tbsp for the roast; if out)",
+    "Organic rice vinegar and sesame seeds (if out)",
+    "Organic apple cider vinegar (3 Tbsp for the roast; if out)",
     "Optional for the roast: 1 organic cinnamon stick + 1 whole star anise (if out)",
     "Optional, only for Monday burritos: organic large flour tortillas, 1 pack",
     "Organic balsamic vinegar, Dijon and yellow mustard, cornstarch or arrowroot, and vanilla extract (if out)",
-    "Organic smoked paprika, dried oregano, and garlic powder (if low)",
+    "Organic smoked paprika and garlic powder (if low)",
     "For Rory only: organic chipotle in adobo or hot sauce (if out)"
    ]
   }
@@ -1153,20 +1106,42 @@
    "protein": 26.1,
    "carbs": 1.1,
    "fat": 10.4
+  },
+  "wwtort": {
+   "name": "Small whole-wheat tortillas (2, ~45 g each; varies by brand)",
+   "cal": 310,
+   "protein": 9.8,
+   "carbs": 46.0,
+   "fat": 8.6
+  },
+  "spears": {
+   "name": "Cucumber + bell pepper spears (raw)",
+   "cal": 18,
+   "protein": 0.8,
+   "carbs": 3.8,
+   "fat": 0.2
   }
  },
  "lunchIntro": "Each morning: fill the 12 oz thermal jar with boiling water for 5–10 min, then dump it. Heat the hot food to 165°F (steaming), pack it into the warmed jar, and close it. Cold food goes in the steel bento with an ice pack, and everything goes in the insulated bag.",
- "prepIntro": "Times assume an 11:00 AM start and dinner around 5:45 PM. About 3 hours hands-on late morning (everything for 5 people, Mon–Sat), then the roast braises on its own; about 45 minutes more at dinnertime. Oven order matters: the 425°F sheet-pan work happens first, then the oven drops to 325°F for Rory's roast and the egg bites.",
+ "prepIntro": "Times assume an 11:00 AM start and dinner around 5:15 PM (start at 11:30 for a 5:45 dinner). About 2¾ hours hands-on (everything for Mon–Fri; Saturday is our night out, so nothing is cooked for it), then the roast braises on its own; about 45 minutes more at dinnertime. Oven order matters: the 425°F sheet-pan work happens first, then the oven drops to 325°F for Rory's roast and the egg bites.",
  "prepSafety": [
-  "Chicken is done at 165°F in the thickest part; ground beef at 160°F; reheated leftovers to 165°F (steaming hot).",
+  "Chicken is done at 165°F in the thickest part; ground beef at 160°F; reheated leftovers to 165°F (steaming hot). The Bell & Evans nuggets are sold uncooked: cook them to 170°F per the bag.",
   "Cool fast: spread rice and cauliflower rice on sheet pans, and get everything into the fridge within 1–2 hours of cooking (rice within 1 hour).",
-  "Fridge = eaten Mon–Wed. Freezer = Thu onward (Thu cauliflower-rice blend, Sat rice, Sat chicken, Thu nuggets, half the egg bites).",
+  "Fridge = eaten Mon–Wed. Freezer = Thu onward (Thu cauliflower-rice blend and half the egg bites). The nuggets stay frozen in their bag until the morning you cook them.",
   "Reheat each portion only once; take out just what you need.",
   "Label every container with the dish, the day it's for, the total grams, and 'cooked 10/11'."
  ],
  "prepThaw": [
-  "Wed night: move Thu's rice blend, Chloe's Thu nuggets, and the frozen egg bites to the fridge.",
-  "Thu night: move Sat's lemon-oregano chicken to the fridge.",
-  "Fri night: move Sat's bone broth rice to the fridge."
- ]
+  "Wed night: move Thu's rice blend and the frozen egg bites to the fridge.",
+  "Saturday is our standing night out: nothing to thaw or prep.",
+  "Nuggets (Mon and Thu lunches): cook straight from frozen; no thawing."
+ ],
+ "groceryNote": "Check off anything we already have in Todoist > Home & Family > Thursday Order; only open items get ordered.",
+ "nuggets": {
+  "name": "Bell & Evans Organic Breaded Chicken Nuggets, 12 oz (frozen)",
+  "why": "Air-chilled, organic, 100% whole breast pieces (not formed), no fillers, gluten-free corn breading. Flash-fried only ~30 seconds in organic expeller-pressed soybean oil to set the breading. They're sold uncooked, so you cook them; you don't just reheat them.",
+  "where": "Whole Foods (Amazon): $8.99 on the listing Oct 6 (an $11.99 price also shows, likely the regular price)",
+  "url": "https://www.wholefoodsmarket.com/grocery/product/bell-evans-bell-evans-organic-chicken-nugget-12-oz-b07814by33",
+  "backup": "Sprouts backup: Perdue Simply Smart Organics Gluten-Free Breaded Chicken Breast Nuggets, 22 oz, $11.99 (fully cooked; not air-chilled) https://shop.sprouts.com/store/sprouts/products/17727210-perdue-s-breaded-chicken-breast-nuggets-gluten-free-1-38-lb"
+ }
 }

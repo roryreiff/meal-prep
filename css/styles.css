@@ -313,3 +313,5 @@ details.recipe[open] summary::before { content: "▾ "; }
 .prep-row input[type="checkbox"] { grid-row: 1 / span 2; grid-column: 1; }
 .prep-time { grid-column: 2; grid-row: 1; min-width: 0; font-size: 13px; }
 .prep-step { grid-column: 2; grid-row: 2; }
+.card.night-out { background: #F3EFEA; border-style: dashed; box-shadow: none; }
+.muted-pill { background: #ECE6DE; color: var(--muted); }

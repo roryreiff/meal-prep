@@ -20,7 +20,7 @@
     const titles = {
     menu: ["This week", null],
     grocery: ["Grocery list", "Sprouts · estimates labeled · check as you shop"],
-    prep: ["Sunday prep", "Sun Oct 11 · ~3 hrs hands-on + dinner · check off as you go"],
+    prep: ["Sunday prep", "Sun Oct 11 · ~2¾ hrs hands-on + dinner · check off as you go"],
     calc: ["Macro calculator", "Weigh · estimate · hit ~600 cal / 45g+ protein"],
     ratings: ["Ratings", "Thumbs + notes so favorites rotate back in"],
   };
@@ -145,6 +145,14 @@
     const ratings = ratingsState();
     const dinners = [...DATA.dinners].sort(byDayOrder)
       .map((d) => {
+        if (d.nightOut) {
+          return `
+        <article class="card night-out">
+          <div class="card-top"><span class="day-badge">${esc(d.day)} ${esc(d.date)}</span><span class="macros-pill muted-pill">No prep</span></div>
+          <h3 class="meal-name">${esc(d.name)} 🌙</h3>
+          <p class="meal-desc">${esc(d.desc || "")}</p>
+        </article>`;
+        }
         const r = ratings[mealKey(d)] || {};
         const thumb =
           r.vote === "up" ? " 👍" : r.vote === "down" ? " 👎" : "";
@@ -188,6 +196,7 @@
       <h2 class="section-title">Chloe's lunches (Mon–Thu)</h2>
       ${DATA.lunchIntro ? `<p class="meal-desc" style="margin:0 0 8px">${esc(DATA.lunchIntro)}</p>` : ""}
       <div class="chip-list">${chloe}</div>
+      ${DATA.nuggets ? `<div class="chip"><strong>Nugget pick</strong>${esc(DATA.nuggets.name)}: ${esc(DATA.nuggets.why)} <span class="chip-how">${esc(DATA.nuggets.where)}. <a href="${esc(DATA.nuggets.url)}" target="_blank" rel="noopener">Whole Foods listing</a></span></div>` : ""}
       <h2 class="section-title">Breakfasts</h2>
       <div class="chip-list">${breakfasts}</div>
       <h2 class="section-title">Grown-up lunches</h2>
@@ -252,6 +261,7 @@
         <button type="button" class="btn secondary" id="groc-checkall">Check all</button>
       </div>
       <div class="progress">${done} of ${total} checked · Sprouts (Whole Foods backup) · for ${DATA.headcount || DATA.household.length}</div>
+      ${DATA.groceryNote ? `<div class="banner">${esc(DATA.groceryNote)}</div>` : ""}
       ${costBanner}
       ${sections}
     `;
@@ -614,7 +624,7 @@
   function renderRatings() {
     const root = $("#view-ratings");
     const ratings = ratingsState();
-    const cards = [...DATA.dinners].sort(byDayOrder)
+    const cards = [...DATA.dinners].filter((d) => !d.nightOut).sort(byDayOrder)
       .map((d) => {
         const key = mealKey(d);
         const r = ratings[key] || {};
