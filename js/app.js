@@ -20,7 +20,7 @@
     const titles = {
     menu: ["This week", null],
     grocery: ["Grocery list", "Sprouts · estimates labeled · check as you shop"],
-    prep: ["Sunday prep", "Sun Oct 11 · ~2¾ hrs hands-on + dinner · check off as you go"],
+    prep: ["Sunday prep", "Sun Oct 11 · ~2½ hrs hands-on + dinner · check off as you go"],
     calc: ["Macro calculator", "Weigh · estimate · hit ~600 cal / 45g+ protein"],
     ratings: ["Ratings", "Thumbs + notes so favorites rotate back in"],
   };
@@ -149,7 +149,7 @@
           return `
         <article class="card night-out">
           <div class="card-top"><span class="day-badge">${esc(d.day)} ${esc(d.date)}</span><span class="macros-pill muted-pill">No prep</span></div>
-          <h3 class="meal-name">${esc(d.name)} 🌙</h3>
+          <h3 class="meal-name">${esc(d.name)} ${d.emoji || "🌙"}</h3>
           <p class="meal-desc">${esc(d.desc || "")}</p>
         </article>`;
         }

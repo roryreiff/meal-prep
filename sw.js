@@ -1,4 +1,4 @@
-const CACHE = "mealprep-v7";
+const CACHE = "mealprep-v8";
 
 self.addEventListener("install", (e) => {
   e.waitUntil(

@@ -11,22 +11,22 @@
   "calories": 600,
   "protein": 45
  },
- "notes": "Headcount 5 this week (Rory, Wendy, Chloe + 2 adult guests). Tue: car dinner for Rory and Chloe after dance, plus a single bowl for Wendy at home. Sat: our standing night out (no prep). Chloe's lunches are just for her. Everything mild; heat on the side for Rory. Quality: organic; beef grass-fed/finished; chicken air-chilled organic; seafood wild-caught; eggs OrgaNICK Corn & Soy Feed Free. Rice in bone broth; gelatin in beef. Low oil. Every recipe has full quantities: tap 'Recipe' on each dinner. Macros are estimates.",
+ "notes": "Headcount 5 this week (Rory, Wendy, Chloe + 2 adult guests). Tue Oct 13: everyone eats out (no prep). Sat: our standing night out (no prep). Chloe's lunches are just for her. Everything mild; heat on the side for Rory. Quality: organic; beef grass-fed/finished; chicken air-chilled organic; seafood wild-caught; eggs OrgaNICK Corn & Soy Feed Free. Rice in bone broth; gelatin in beef. Low oil. Every recipe has full quantities: tap 'Recipe' on each dinner. Macros are estimates.",
  "costEstimates": {
   "currency": "USD",
   "pricedOn": "2026-10-05",
   "label": "Estimated · Sprouts prices · excl. tax/delivery",
   "sections": {
-   "Meat & seafood": 310.27,
+   "Meat & seafood": 300.28,
    "Eggs & dairy": 106.85,
-   "Organic vegetables": 135.65,
-   "Organic fruit": 131.25,
-   "Pantry & house staples": 149.69,
-   "Pantry — if running low": 47.28
+   "Organic vegetables": 122.99,
+   "Organic fruit": 129.89,
+   "Pantry & house staples": 147.44,
+   "Pantry — if running low": 43.34
   },
-  "coreTotal": 833.71,
-  "withPantryLow": 880.99,
-  "note": "Estimates from Sprouts/Instacart prices found Oct 5–6, 2026 ET. Oct 6 update: Saturday is now a night out, Tuesday is a smaller car dinner, the nuggets are store-bought (Bell & Evans organic, $8.99 at Whole Foods), and the eggs are OrgaNICK Corn & Soy Feed Free (~$7.99/doz, estimated): −$73.61 vs Oct 5. Items not priced yet (tamari, tomato paste, white miso, green onions, garlic) are rough estimates of ~$15–25 and aren't in the totals. Excludes tax/delivery."
+  "coreTotal": 807.45,
+  "withPantryLow": 850.79,
+  "note": "Estimates from Sprouts/Instacart prices found Oct 5–6, 2026 ET. Oct 6 updates: Saturday is a night out, the nuggets are store-bought (Bell & Evans organic, $8.99 at Whole Foods), the eggs are OrgaNICK Corn & Soy Feed Free (~$7.99/doz, estimated), and this Tuesday everyone eats out (no Tuesday groceries): −$99.87 vs Oct 5. Items not priced yet (tamari, tomato paste, white miso, green onions, garlic) are rough estimates of ~$15–25 and aren't in the totals. Excludes tax/delivery."
  },
  "dinners": [
   {
@@ -181,56 +181,11 @@
   {
    "day": "Tue",
    "date": "Oct 13",
-   "name": "Car dinner after dance (Rory + Chloe) · Wendy's bowl at home",
-   "desc": "Rory and Chloe: toasted honey-garlic chicken wraps (garlic-ginger chicken, thick honey cashew sauce, cheddar, small whole-wheat tortillas), wrapped in parchment and foil to eat by hand in the car. Or Chloe's chicken and rice in her preheated 12 oz thermal jar. Wendy at home: her own honey cashew chicken bowl, packed Sunday; reheat 2½–3 min to 165°F.",
-   "side": "Cucumber and bell pepper spears (+ apple slices for Chloe): cut Tuesday, packed in a steel container with napkins.",
-   "cal": 610,
-   "protein": 56,
-   "plate": [
-    {
-     "id": "breast_c",
-     "g": 140
-    },
-    {
-     "id": "cashsauce",
-     "g": 25
-    },
-    {
-     "id": "cheddar",
-     "g": 10
-    },
-    {
-     "id": "wwtort",
-     "g": 90
-    },
-    {
-     "id": "spears",
-     "g": 150
-    }
-   ],
-   "recipe": {
-    "serves": "3: Rory and Chloe eat in the car on the way home from dance; Wendy eats at home. (The guests aren't part of Tuesday dinner; if they're home, pack 2 more bowls like Wendy's and add ¾ lb chicken to Sunday's Pan A.)",
-    "time": "15 min before you leave to pick up Chloe",
-    "ingredients": [
-     "210 g garlic-ginger chicken, sliced (from Sunday): 140 g for Rory, 70 g for Chloe",
-     "40 g extra-thick honey cashew sauce (jar from Sunday): 25 g for Rory, 15 g for Chloe",
-     "3 small organic whole-wheat tortillas (~45 g each): 2 for Rory, 1 for Chloe",
-     "20 g (¼ cup) shredded cheddar: 10 g each",
-     "Car sides: 3 Persian cucumbers + 1 bell pepper cut into spears (~250 g; Rory 150 g, Chloe ~100 g), and 1 small apple sliced for Chloe (squeeze of lemon)",
-     "Packing: parchment, foil, the insulated lunch bag, a steel container for the spears, 2 cloth napkins",
-     "Optional for Chloe instead of a wrap: her second LunchBots 12 oz thermal jar with 70 g chicken + the 40 g rice set aside Sunday",
-     "Wendy's bowl (assembled Sunday): 150 g bone broth + cauliflower rice blend, 120 g chicken, 150 g pepper + broccoli, 40 g cashew sauce, 12 g toasted cashews in a tiny jar"
-    ],
-    "steps": [
-     "In a stainless skillet over medium, toss the 210 g chicken with the 40 g thick sauce for 3–4 min, until it's 165°F and the sauce clings with no drips.",
-     "Warm the tortillas in a dry skillet, 20 sec per side. Rory: 2 wraps, each with 70 g chicken and 5 g cheddar. Chloe: 1 wrap with 70 g chicken and 10 g cheddar. Fold in the sides and roll tight.",
-     "Toast the wraps seam-side down in the dry skillet, 1–2 min per side, until golden and sealed so they hold together in the car.",
-     "Wrap each one in parchment, then foil, and twist the ends. Pack them in the insulated bag with the container of spears, Chloe's apple slices, and the napkins. Eat within 2 hours of packing.",
-     "Thermal-jar option for Chloe (best if pickup is more than 2 hours after you pack): fill the 12 oz jar with boiling water for 5–10 min and dump it. Heat 70 g chicken + 40 g rice with 1 Tbsp broth until steaming (165°F), pack it in, and close the lid. Bring a fork.",
-     "Wendy at home: microwave her bowl covered for 2½–3 min, stirring halfway (or heat in a skillet with 2 Tbsp broth for 5 min), to 165°F. Top with the cashews.",
-     "Rory: 2 wraps (90 g tortillas, 140 g chicken, 25 g sauce, 10 g cheddar) + 150 g cucumber and pepper spears ≈ 610 cal · 56 g protein. Chloe's carb is the tortilla, plus apple."
-    ]
-   }
+   "name": "Eating out",
+   "nightOut": true,
+   "emoji": "🍽️",
+   "desc": "This Tuesday everyone eats out, so there's no Tuesday dinner prep this week. Chloe's packed lunch that day is still on. (Our usual Tuesday is a car dinner for Rory and Chloe after dance plus Wendy's bowl at home; that format is in the guide for future weeks.)",
+   "plate": []
   },
   {
    "day": "Wed",
@@ -471,19 +426,19 @@
    "title": "Set up, then start the bone broth rice",
    "step": "Oven to 425°F with racks in the upper-middle and lower-middle. Line 2 half-sheet pans (18×13 in) with parchment. Pull out a 4-qt+ stainless pot, a 12-inch stainless skillet, two 12-cup muffin tins, the kitchen scale, and glass containers with labels.",
    "details": [
-    "Rice: rinse 2½ cups (460 g) organic jasmine rice in a fine strainer until the water runs mostly clear, about 1 minute.",
-    "In the pot combine the rice, 3 cups + 2 Tbsp bone broth, and ½ tsp salt. Bring to a boil over high (5 min), stir once, cover, turn to the lowest heat, and cook 15 min.",
-    "Turn off the heat and let it sit covered 10 min without lifting the lid. Makes about 1.35 kg cooked."
+    "Rice: rinse 2¼ cups (415 g) organic jasmine rice in a fine strainer until the water runs mostly clear, about 1 minute.",
+    "In the pot combine the rice, 2¾ cups + 1 Tbsp bone broth, and ½ tsp salt. Bring to a boil over high (5 min), stir once, cover, turn to the lowest heat, and cook 15 min.",
+    "Turn off the heat and let it sit covered 10 min without lifting the lid. Makes about 1.22 kg cooked."
    ]
   },
   {
    "t": "11:10",
-   "title": "Season two pans of chicken (3¼ lb breasts) + Chloe's wedges",
+   "title": "Season the lunch chicken (2 lb breasts) + Chloe's wedges",
    "step": "Trim the breasts and slice any thick ones in half horizontally so everything is about ¾ inch thick. Lay out in a single layer, not touching.",
    "details": [
-    "Pan A, garlic-ginger (Tue car wraps + Wendy's bowl), 1¼ lb: 1 Tbsp + 1 tsp coconut aminos, 2 garlic cloves (grated), 2 tsp grated fresh ginger, ¼ tsp salt, light avocado-oil spray. Leave one end of the pan open for the wedges.",
-    "Wedges (Chloe's Mon lunch), on the open end of Pan A: cut 1 medium potato (~250 g) into 8 wedges, spray, and sprinkle with ¼ tsp salt.",
-    "Pan C, plain lunch chicken (grown-up lunches + Chloe's Wed chicken and rice), 2 lb: 1 tsp salt, 1 tsp garlic powder, 1 tsp smoked paprika, ½ tsp pepper, light spray.",
+    "Pan A, plain lunch chicken (grown-up lunches + Chloe's Wed chicken and rice), 2 lb: 1 tsp salt, 1 tsp garlic powder, 1 tsp smoked paprika, ½ tsp pepper, light spray.",
+    "Pan B, wedges (Chloe's Mon lunch): cut 1 medium potato (~250 g) into 8 wedges, spray, and sprinkle with ¼ tsp salt.",
+    "No Tuesday chicken this week (everyone eats out Tue Oct 13).",
     "11:20: both pans into the 425°F oven. Chicken 18–25 min, until 165°F in the thickest piece. Wedges 25–30 min, flipped at 15 min. Wash the board, knife, and your hands."
    ]
   },
@@ -501,7 +456,7 @@
   {
    "t": "11:45",
    "title": "Chicken out; spread the rice to cool",
-   "step": "At 165°F, move the chicken to a board to rest 10 min. Slide Pan A back in so the wedges can finish (another 5–10 min).",
+   "step": "At 165°F, move the chicken to a board to rest 10 min. Leave Pan B in so the wedges can finish (another 5–10 min).",
    "details": [
     "Fluff the rice and spread it in a thin layer on a parchment-lined sheet pan to cool for 15–20 min (rice must be in the fridge within 1 hour)."
    ]
@@ -513,49 +468,42 @@
    "details": [
     "Per 12-oz bag: 2 Tbsp bone broth and ¼ tsp salt. Cook uncovered, stirring, 6–8 min (fresh) or 8–10 min (frozen) until tender and the liquid has cooked off. 4 bags make ~1.05 kg. Spread on a sheet pan to cool 10 min.",
     "Weigh into labeled glass containers (half rice, half cauliflower rice by weight for each blend):",
-    "Wendy's Tue bowl: 150 g blend (75 g + 75 g), weighed straight into her bowl container (assembled at 12:25).",
     "Wed blend: 650 g (325 g + 325 g). Fridge.",
     "Thu blend: 1,075 g (540 g + 535 g). Freezer; move to the fridge Wed night.",
-    "Chloe: Wed lunch rice 120 g, plus 40 g for the optional Tue thermal-jar dinner. Two small containers, fridge.",
-    "Leftover rice (~230 g) and cauli (~100 g): one container for Mon rice bowls and lunches. Fridge."
+    "Chloe: Wed lunch rice 120 g. Small container, fridge.",
+    "Leftover rice (~235 g) and cauli (~190 g): one container for Mon rice bowls and lunches. Fridge."
    ]
   },
   {
    "t": "12:10",
-   "title": "Thick cashew sauce, cashews, Wendy's veg, burger sauce",
-   "step": "Small saucepan for the sauce, then the skillet for the cashews and veg.",
+   "title": "Burger sauce (Wed)",
+   "step": "One bowl, 5 minutes.",
    "details": [
-    "Honey cashew sauce, a half batch made extra-thick so the wraps don't drip: whisk 6 Tbsp bone broth, 2½ Tbsp coconut aminos, 1½ Tbsp honey, 2 garlic cloves (minced), 1½ tsp grated ginger, and 1½ tsp rice vinegar. Simmer 2 min, whisk in 2 tsp arrowroot or cornstarch + 1 Tbsp cold water, and simmer 1 min until thick. Makes ~150 g.",
-    "Cashews: 2 Tbsp (15 g) unsalted cashews in a dry skillet over medium, 3 min, until golden. Small jar.",
-    "Wendy's veg: 1 bell pepper in strips + 1 small broccoli crown in florets (~300 g raw). Cook in 2 Tbsp broth, covered, 3 min, then uncovered 1–2 min until crisp-tender.",
-    "Burger sauce (Wed): stir ¾ cup Greek yogurt, 2 Tbsp finely chopped dill pickles + 1 Tbsp pickle brine, 1 Tbsp yellow mustard, 1 tsp honey, ½ tsp smoked paprika, ¼ tsp garlic powder, and a pinch of salt. Makes ~230 g. Jar, fridge."
+    "Burger sauce: stir ¾ cup Greek yogurt, 2 Tbsp finely chopped dill pickles + 1 Tbsp pickle brine, 1 Tbsp yellow mustard, 1 tsp honey, ½ tsp smoked paprika, ¼ tsp garlic powder, and a pinch of salt. Makes ~230 g. Jar, fridge."
    ]
   },
   {
-   "t": "12:25",
-   "title": "Slice and portion the chicken; assemble Wendy's bowl",
+   "t": "12:15",
+   "title": "Slice and portion the chicken and wedges",
    "step": "Slice or dice the rested chicken, then portion it.",
    "details": [
-    "Pan A, garlic-ginger, ~425 g: 210 g for Tuesday's car wraps (Rory 140 g, Chloe 70 g) in one container, with 40 g of the thick sauce in a small jar alongside. Fridge.",
-    "Wendy's Tue bowl in one glass container: the 150 g blend, 120 g garlic-ginger chicken, 150 g of her veg, and 40 g cashew sauce spooned over the chicken. Put the cashews in a tiny jar on top. Label it 'Wendy · Tue · reheat 2½–3 min'. Fridge.",
-    "The leftover Pan A chicken (~95 g), leftover veg, and ~70 g sauce go to grown-up lunches and Rory's extra dip.",
-    "Pan C, ~680 g: Chloe's Wed lunch 80 g diced (small container) plus 3 grown-up lunch containers of 200 g each. Fridge.",
+    "Pan A, ~680 g: Chloe's Wed lunch 80 g diced (small container) plus 3 grown-up lunch containers of 200 g each. Fridge.",
     "Wedges: Chloe's Mon lunch ~100 g (fridge); the rest are a snack."
    ]
   },
   {
-   "t": "12:40",
+   "t": "12:25",
    "title": "Oven down to 325°F; Rory's roast, no sear, all in the pot at once",
    "step": "Turn the oven to 325°F and crack the door 2–3 min so it cools faster. Make the roast exactly as on the Sunday recipe page (5 lb, 1.5× Rory's recipe), in Rory's ceramic pot.",
    "details": [
     "Prep: grate 1½ large apples, dice 1½ medium yellow onions, mince 6 garlic cloves, grate a 1½-inch piece of ginger.",
     "Put the 5 lb chuck in the pot and season with 1½ tsp kosher salt + 1 tsp black pepper. No searing.",
     "Add everything at once: the apple, onion, garlic, ginger, 3 Tbsp honey, 3 Tbsp apple cider vinegar, ¾ cup low-sodium tamari, 3 cups beef bone broth (with 2 Tbsp gelatin bloomed in ½ cup of it; house tweak), 1½ Tbsp toasted sesame oil, 1½ Tbsp tomato paste, and 1½ tsp white miso. Optional: 1 cinnamon stick + 1 star anise. Turn the roast to coat.",
-    "Cover tightly and get it into the 325°F oven by about 12:55 PM. Set timers for 3:55 PM (pull the cinnamon and star anise) and 4:55 PM (check for fork-tender)."
+    "Cover tightly and get it into the 325°F oven by about 12:40 PM. Set timers for 3:40 PM (pull the cinnamon and star anise) and 4:40 PM (check for fork-tender)."
    ]
   },
   {
-   "t": "1:00",
+   "t": "12:45",
    "title": "Egg bites (24) bake alongside the roast at 325°F",
    "step": "Spray two 12-cup muffin tins well.",
    "details": [
@@ -567,7 +515,7 @@
    ]
   },
   {
-   "t": "1:10",
+   "t": "12:55",
    "title": "Ninja Creami pints (4)",
    "step": "Blend each base, pour into a Creami pint up to the max fill line, lid it, and freeze level for 24 hours.",
    "details": [
@@ -576,9 +524,9 @@
    ]
   },
   {
-   "t": "1:25",
+   "t": "1:10",
    "title": "Veggie and fruit prep for Mon and Wed",
-   "step": "Wash, dry, cut, and store in containers lined with a paper towel. Cut Tuesday's car spears on Tuesday so they stay crisp.",
+   "step": "Wash, dry, cut, and store in containers lined with a paper towel.",
    "details": [
     "Mon slaw: thinly shred ½ medium green cabbage (~500 g) and ¼ small red cabbage (~200 g), and coarsely grate 2 carrots (~150 g). One container, undressed. Dressing jar: ¼ cup lime juice (2–3 limes), 1½ Tbsp honey, ¾ tsp salt. Fridge.",
     "Wed: wash, spin dry, and chop 2 romaine hearts (~300 g). Container with a paper towel, fridge. Leave the tomatoes whole on the counter until Wed.",
@@ -586,16 +534,16 @@
    ]
   },
   {
-   "t": "1:40",
+   "t": "1:25",
    "title": "Label, store, clean up",
-   "step": "Everything into the fridge or freezer per the labels. You're free until 3:55 PM.",
+   "step": "Everything into the fridge or freezer per the labels. You're free until 3:40 PM.",
    "details": [
-    "Fridge (Mon–Wed): Rory and Chloe's wrap chicken + sauce jar, Wendy's Tue bowl, Wed blend, Wed beef, lunch chicken and beef, Chloe's Mon wedges, mango and Wed chicken and rice, honey mustard cups, burger sauce, slaw kit, romaine, 12 egg bites.",
+    "Fridge (Mon–Wed): Wed blend, Wed beef, lunch chicken and beef, Chloe's Mon wedges, mango and Wed chicken and rice, honey mustard cups, burger sauce, slaw kit, romaine, 12 egg bites.",
     "Freezer (Thu onward): Thu blend, 12 egg bites, 4 Creami pints, and the Bell & Evans nugget bag."
    ]
   },
   {
-   "t": "3:55",
+   "t": "3:40",
    "title": "Pull the spices; start the potatoes",
    "step": "Remove the cinnamon stick and star anise from the roast if used (Rory's recipe: in for the first 3 hours only). Re-cover and return it to the oven.",
    "details": [
@@ -603,7 +551,7 @@
    ]
   },
   {
-   "t": "4:25",
+   "t": "4:10",
    "title": "Boil the potatoes; make the fennel-apple slaw",
    "step": "Bring the potatoes to a boil over high (~10 min), then simmer 12–15 min until a knife slides through with no resistance.",
    "details": [
@@ -612,7 +560,7 @@
    ]
   },
   {
-   "t": "4:55",
+   "t": "4:40",
    "title": "Finish the roast and the mash",
    "step": "The roast is ready when it shreds easily with two forks (about 200–205°F inside). If it resists, give it 30 more minutes.",
    "details": [
@@ -622,7 +570,7 @@
    ]
   },
   {
-   "t": "5:15",
+   "t": "5:00",
    "title": "Dinner, then set up Monday",
    "step": "Rory's plate: 190 g shredded beef with juices, 150 g mash, 150 g slaw (~580 cal, 55 g protein). Hot sauce on the side for Rory only.",
    "details": [
@@ -638,7 +586,7 @@
    "items": [
     "Organic grass-fed, grass-finished beef chuck roast: 5 lb, one roast or two ~2.5 lb (Sun Oct 11 apple-ginger roast for 5 + Mon Oct 12 tacos)",
     "Organic grass-fed beef chuck roast (grass-finished when possible): 4 lb (Sun Oct 18 honey-balsamic beef + leftovers)",
-    "Organic air-chilled chicken breasts: 3.25 lb (Tue car wraps + Wendy's bowl, grown-up lunches, Chloe's Wed chicken & rice)",
+    "Organic air-chilled chicken breasts: 2 lb (grown-up lunches, Chloe's Wed chicken & rice)",
     "Organic grass-fed extra-lean ground beef, 96/4 (grass-finished when possible): 3 lb (Wed cheeseburger bowls + lunches)",
     "Wild-caught salmon fillets: 2 lb (Thu)",
     "Organic grass-fed sirloin steaks (grass-finished when possible): 2.25 lb (Fri)",
@@ -653,7 +601,7 @@
     "OrgaNICK Pastures Corn & Soy Feed Free Regeneratively Farmed Pasture-Raised Organic Large Brown Eggs (12 ct): 3 dozen (egg bites, fried-egg toppers)",
     "Organic low-fat cottage cheese: 3 × 24 oz (egg bites, Creami)",
     "Organic plain nonfat Greek yogurt: 4 × 32 oz (yogurt bowls, mash, burger sauce, honey mustard, tacos, Creami)",
-    "Organic shredded cheddar: 8 oz (Wed bowls, Tue wraps)",
+    "Organic shredded cheddar: 8 oz (Wed bowls, Mon tacos optional)",
     "Organic Parmesan, wedge or grated: 1 (zucchini fries)",
     "Organic milk: ½ gallon (Creami re-spins)"
    ]
@@ -665,10 +613,7 @@
     "Organic carrots: 2 lb (Mon slaw, Oct 18 peas and carrots, snacks)",
     "Organic fennel: 2 bulbs (Oct 11 fennel-apple slaw)",
     "Organic green cabbage: 1 medium + organic red cabbage: 1 small, or 2 bags organic coleslaw mix (Mon slaw)",
-    "Organic broccoli: 1 crown (Wendy's Tue bowl)",
-    "Organic bell peppers: 2 (Wendy's Tue bowl + Tue car spears)",
     "Organic riced cauliflower: 4 × 12 oz bags, fresh or frozen",
-    "Organic Persian cucumbers: 1 bag (Tue car spears + snacks)",
     "Organic English cucumber: 1 (Chloe's snacks)",
     "Organic zucchini: 6 medium (Wed zucchini fries)",
     "Organic romaine hearts: 2 packs (Wed bowls)",
@@ -678,7 +623,7 @@
     "Organic baby spinach: 10 oz (egg bites)",
     "Organic yellow onions: 4 (1½ for the Oct 11 roast)",
     "Organic garlic: 3 heads",
-    "Organic fresh ginger: 1 large knob, ~3 oz (roast, cashew sauce, chicken)",
+    "Organic fresh ginger: 1 large knob, ~3 oz (Oct 11 roast)",
     "Organic fresh dill: 1 bunch (Oct 18 peas and carrots)",
     "Organic green onions: 1 bunch (Oct 11 roast garnish)",
     "Organic frozen peas: 1 × 16 oz bag (Sun Oct 18 peas and carrots)"
@@ -688,7 +633,7 @@
    "section": "Organic fruit",
    "items": [
     "Organic mangoes: 6 (Chloe's lunches, yogurt bowls, Creami)",
-    "Organic apples: 14 (incl. 2 for the Oct 11 roast, 2 for the fennel-apple slaw, Chloe's Tue car dinner)",
+    "Organic apples: 13 (incl. 2 for the Oct 11 roast, 2 for the fennel-apple slaw)",
     "Organic kiwis: 10",
     "Organic bananas: 2 bunches (ripe ones for Creami)",
     "Organic strawberries: 3 lb",
@@ -703,12 +648,11 @@
   {
    "section": "Pantry & house staples",
    "items": [
-    "Organic bone broth: 6 × 32 oz, at least 1 of them beef (3 cups for the Oct 11 roast; rice, sautéing, mash, cashew sauce)",
+    "Organic bone broth: 6 × 32 oz, at least 1 of them beef (3 cups for the Oct 11 roast; rice, sautéing, mash)",
     "Organic avocado-oil spray: 2 cans (no bottled cooking oil needed)",
     "Organic corn tortillas: 2 packs, ~24 small (Mon Oct 12 tacos)",
-    "Organic small whole-wheat tortillas: 1 pack (Tue car wraps + Chloe's Thu wrap)",
-    "Organic unsalted cashews: ¼ lb bulk (Wendy's Tue bowl)",
-    "Organic coconut aminos: 1 bottle (cashew sauce, garlic-ginger chicken, Oct 18 beef)",
+    "Organic small whole-wheat tortillas: 1 pack (Chloe's Thu wrap)",
+    "Organic coconut aminos: 1 bottle (Oct 18 beef)",
     "Organic low-sodium tamari or soy sauce: 1 bottle (¾ cup for the Oct 11 roast)",
     "Organic tomato paste: 1 small can or tube (1½ Tbsp for the roast)",
     "Organic white miso: 1 small tub (1½ tsp for the roast)",
@@ -725,11 +669,11 @@
     "Organic jasmine rice: 3 lb (if running low)",
     "Organic honey: 1 jar (if running low)",
     "Organic toasted sesame oil (1½ Tbsp for the roast; if out)",
-    "Organic rice vinegar and sesame seeds (if out)",
+    "Organic sesame seeds (roast garnish; if out)",
     "Organic apple cider vinegar (3 Tbsp for the roast; if out)",
     "Optional for the roast: 1 organic cinnamon stick + 1 whole star anise (if out)",
     "Optional, only for Monday burritos: organic large flour tortillas, 1 pack",
-    "Organic balsamic vinegar, Dijon and yellow mustard, cornstarch or arrowroot, and vanilla extract (if out)",
+    "Organic balsamic vinegar, Dijon and yellow mustard, and vanilla extract (if out)",
     "Organic smoked paprika and garlic powder (if low)",
     "For Rory only: organic chipotle in adobo or hot sauce (if out)"
    ]
@@ -1123,7 +1067,7 @@
   }
  },
  "lunchIntro": "Each morning: fill the 12 oz thermal jar with boiling water for 5–10 min, then dump it. Heat the hot food to 165°F (steaming), pack it into the warmed jar, and close it. Cold food goes in the steel bento with an ice pack, and everything goes in the insulated bag.",
- "prepIntro": "Times assume an 11:00 AM start and dinner around 5:15 PM (start at 11:30 for a 5:45 dinner). About 2¾ hours hands-on (everything for Mon–Fri; Saturday is our night out, so nothing is cooked for it), then the roast braises on its own; about 45 minutes more at dinnertime. Oven order matters: the 425°F sheet-pan work happens first, then the oven drops to 325°F for Rory's roast and the egg bites.",
+ "prepIntro": "Times assume an 11:00 AM start and dinner around 5:00 PM (start at 11:45 for a 5:45 dinner). About 2½ hours hands-on (everything for Mon, Wed–Fri; this Tuesday everyone eats out and Saturday is our night out, so nothing is cooked for either), then the roast braises on its own; about 45 minutes more at dinnertime. Oven order matters: the 425°F sheet-pan work happens first, then the oven drops to 325°F for Rory's roast and the egg bites.",
  "prepSafety": [
   "Chicken is done at 165°F in the thickest part; ground beef at 160°F; reheated leftovers to 165°F (steaming hot). The Bell & Evans nuggets are sold uncooked: cook them to 170°F per the bag.",
   "Cool fast: spread rice and cauliflower rice on sheet pans, and get everything into the fridge within 1–2 hours of cooking (rice within 1 hour).",
@@ -1133,6 +1077,7 @@
  ],
  "prepThaw": [
   "Wed night: move Thu's rice blend and the frozen egg bites to the fridge.",
+  "Tue Oct 13: everyone eats out this week, so there's no Tuesday dinner to prep or thaw.",
   "Saturday is our standing night out: nothing to thaw or prep.",
   "Nuggets (Mon and Thu lunches): cook straight from frozen; no thawing."
  ],
