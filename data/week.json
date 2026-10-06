@@ -17,16 +17,16 @@
   "pricedOn": "2026-10-05",
   "label": "Estimated · Sprouts prices · excl. tax/delivery",
   "sections": {
-   "Meat & seafood": 300.28,
+   "Meat & seafood": 311.27,
    "Eggs & dairy": 106.85,
    "Organic vegetables": 122.99,
    "Organic fruit": 129.89,
-   "Pantry & house staples": 147.44,
+   "Pantry & house staples": 150.64,
    "Pantry — if running low": 43.34
   },
-  "coreTotal": 807.45,
-  "withPantryLow": 850.79,
-  "note": "Estimates from Sprouts/Instacart prices found Oct 5–6, 2026 ET. Oct 6 updates: Saturday is a night out, the nuggets are store-bought (Bell & Evans organic, $8.99 at Whole Foods), the eggs are OrgaNICK Corn & Soy Feed Free (~$7.99/doz, estimated), and this Tuesday everyone eats out (no Tuesday groceries): −$99.87 vs Oct 5. Items not priced yet (tamari, tomato paste, white miso, green onions, garlic) are rough estimates of ~$15–25 and aren't in the totals. Excludes tax/delivery."
+  "coreTotal": 821.64,
+  "withPantryLow": 864.98,
+  "note": "Estimates from Sprouts/Instacart prices found Oct 5–6, 2026 ET. Oct 6 updates: Saturday is a night out, the nuggets are store-bought (Bell & Evans organic, $8.99 at Whole Foods), the eggs are OrgaNICK Corn & Soy Feed Free (~$7.99/doz, estimated), this Tuesday everyone eats out (no Tuesday groceries), and Chloe's Thursday lunch is now mini beef meatballs with orzo: −$85.68 vs Oct 5. Items not priced yet (tamari, tomato paste, white miso, green onions, garlic) are rough estimates of ~$15–25 and aren't in the totals. Excludes tax/delivery."
  },
  "dinners": [
   {
@@ -401,8 +401,8 @@
   {
    "day": "Thu",
    "date": "Oct 15",
-   "items": "4 Bell & Evans organic chicken nuggets + 1 small whole-wheat tortilla + 1 Tbsp honey mustard (wrap), ½ mango and ½ apple, sliced",
-   "how": "Air-fry the nuggets from frozen at 400°F for 10–12 min, shaking halfway, until 170°F (follow the bag), and pack them hot in the warmed jar. The tortilla, a little lettuce, and the dip cup go in the bento so she can wrap it at lunch."
+   "items": "5 mini grass-fed beef meatballs + 100 g orzo in ¼ cup mild marinara (hot), 1 tsp parmesan on top, ½ mango and ½ apple, sliced",
+   "how": "The meatball-orzo container moved to the fridge Wed night. Preheat the 12 oz jar with boiling water for 5–10 min. Put the meatballs, orzo, and sauce in a heatproof bowl set over a pot of simmering water, cover, and stir every 2–3 min for 8–10 min, until 165°F (add 1 Tbsp water if it's thick). Dump the jar water, pack it hot, sprinkle on the parmesan, and close. Mango and apple (tossed in a little lemon water) go in the bento with an ice pack. Carb: the orzo, plus fruit."
   }
  ],
  "breakfasts": [
@@ -445,9 +445,9 @@
   {
    "t": "11:20",
    "title": "Honey mustard, then the cheeseburger beef (3 lb 96/4)",
-   "step": "Honey mustard is for dipping Chloe's store-bought nuggets. Brown the beef in a 12-inch stainless skillet over medium-high (do it in 2 batches, or all at once in a wide 5-qt pot).",
+   "step": "Honey mustard is for dipping Chloe's Monday nuggets. Brown the beef in a 12-inch stainless skillet over medium-high (do it in 2 batches, or all at once in a wide 5-qt pot).",
    "details": [
-    "Honey mustard: stir ½ cup Greek yogurt, 2 Tbsp Dijon, 1½ Tbsp honey, and a pinch of salt. Spoon 2 Tbsp into each of 2 steel dip cups (Mon and Thu lunches); the rest goes in a small jar. Fridge.",
+    "Honey mustard: stir ¼ cup Greek yogurt, 1 Tbsp Dijon, 2 tsp honey, and a pinch of salt. Spoon 2 Tbsp into a steel dip cup (Mon lunch); the rest goes in a small jar. Fridge.",
     "Beef: add ¼ cup bone broth and 3 lb extra-lean grass-fed ground beef. Break it up and season with 1½ tsp salt, 1 tsp garlic powder, ½ tsp smoked paprika, ½ tsp pepper. Cook 10–12 min, stirring, until no pink remains and it reads 160°F.",
     "Meanwhile, sprinkle 1 Tbsp unflavored grass-fed gelatin over ¼ cup cold bone broth and let it bloom 5 min. Stir it in and simmer 1–2 min until glossy. Makes ~1,020 g.",
     "Portion: Wed dinner 750 g in one glass container (fridge). Grown-up lunches: 2 small containers of ~135 g each (fridge, eat by Wed)."
@@ -525,6 +525,19 @@
   },
   {
    "t": "1:10",
+   "title": "Chloe's mini beef meatballs + orzo (Thu lunch + freezer extras)",
+   "step": "Air fryer at 380°F (the oven is busy with the roast). Mild and simple: no pepper, no spice, no added oil.",
+   "details": [
+    "Sprinkle 1 tsp unflavored grass-fed gelatin over 2 Tbsp bone broth, bloom 5 min, then microwave 10 sec until liquid.",
+    "In a bowl whisk 1 egg, the gelatin broth, ¼ cup (25 g) grated parmesan, ½ tsp salt, ¼ tsp garlic powder, and ½ tsp honey. Add 1 lb grass-fed ground beef and mix gently by hand just until combined.",
+    "Roll into 1-inch balls (a level Tbsp, ~15 g) with wet hands: about 32. Air-fry on parchment liners in 2 batches, 8–10 min, shaking once, until browned and 160°F in the center.",
+    "Meanwhile boil ½ cup (90 g) organic orzo or mini shells in salted water 8–9 min until just tender; drain, don't rinse (~200 g cooked).",
+    "Portion 2 containers, each 100 g orzo + 5 meatballs + ¼ cup (60 g) mild marinara, stirred: one labeled 'Chloe · Thu', one for a future lunch. Cool 15 min, then freeze.",
+    "The other ~22 meatballs: cool, freeze 1 hour on a parchment-lined plate, then bag and label ('mini beef meatballs 10/11, use by Jan'). 5 per future lunch. Rest of the marinara: fridge 5 days, or freeze in ¼-cup portions."
+   ]
+  },
+  {
+   "t": "1:30",
    "title": "Veggie and fruit prep for Mon and Wed",
    "step": "Wash, dry, cut, and store in containers lined with a paper towel.",
    "details": [
@@ -534,12 +547,12 @@
    ]
   },
   {
-   "t": "1:25",
+   "t": "1:45",
    "title": "Label, store, clean up",
    "step": "Everything into the fridge or freezer per the labels. You're free until 3:40 PM.",
    "details": [
     "Fridge (Mon–Wed): Wed blend, Wed beef, lunch chicken and beef, Chloe's Mon wedges, mango and Wed chicken and rice, honey mustard cups, burger sauce, slaw kit, romaine, 12 egg bites.",
-    "Freezer (Thu onward): Thu blend, 12 egg bites, 4 Creami pints, and the Bell & Evans nugget bag."
+    "Freezer (Thu onward): Thu blend, Chloe's 2 meatball-orzo containers (Thu + a future lunch), the bag of extra meatballs, 12 egg bites, 4 Creami pints, and the Bell & Evans nugget bag."
    ]
   },
   {
@@ -588,21 +601,22 @@
     "Organic grass-fed beef chuck roast (grass-finished when possible): 4 lb (Sun Oct 18 honey-balsamic beef + leftovers)",
     "Organic air-chilled chicken breasts: 2 lb (grown-up lunches, Chloe's Wed chicken & rice)",
     "Organic grass-fed extra-lean ground beef, 96/4 (grass-finished when possible): 3 lb (Wed cheeseburger bowls + lunches)",
+    "Organic grass-fed ground beef, 90–93% lean: 1 lb (Chloe's mini meatballs: Thu lunch + freezer extras)",
     "Wild-caught salmon fillets: 2 lb (Thu)",
     "Organic grass-fed sirloin steaks (grass-finished when possible): 2.25 lb (Fri)",
     "Organic grass-fed beef hot dogs (grass-finished when possible): 1 pack (Chloe's Tue lunch)",
     "Organic chicken breakfast sausage (air-chilled organic chicken): 2 packs, ~12 oz each (egg bites)",
-    "Bell & Evans Organic Breaded Chicken Nuggets, air-chilled, 12 oz frozen: 1 bag (Chloe's Mon + Thu lunches). Whole Foods/Amazon; Sprouts backup: Perdue Simply Smart Organics GF Breast Nuggets 22 oz"
+    "Bell & Evans Organic Breaded Chicken Nuggets, air-chilled, 12 oz frozen: 1 bag (Chloe's Mon lunch; the rest stay frozen for future lunches). Whole Foods/Amazon; Sprouts backup: Perdue Simply Smart Organics GF Breast Nuggets 22 oz"
    ]
   },
   {
    "section": "Eggs & dairy",
    "items": [
-    "OrgaNICK Pastures Corn & Soy Feed Free Regeneratively Farmed Pasture-Raised Organic Large Brown Eggs (12 ct): 3 dozen (egg bites, fried-egg toppers)",
+    "OrgaNICK Pastures Corn & Soy Feed Free Regeneratively Farmed Pasture-Raised Organic Large Brown Eggs (12 ct): 3 dozen (egg bites, fried-egg toppers, 1 for Chloe's meatballs)",
     "Organic low-fat cottage cheese: 3 × 24 oz (egg bites, Creami)",
     "Organic plain nonfat Greek yogurt: 4 × 32 oz (yogurt bowls, mash, burger sauce, honey mustard, tacos, Creami)",
     "Organic shredded cheddar: 8 oz (Wed bowls, Mon tacos optional)",
-    "Organic Parmesan, wedge or grated: 1 (zucchini fries)",
+    "Organic Parmesan, wedge or grated: 1 (zucchini fries, Chloe's meatballs)",
     "Organic milk: ½ gallon (Creami re-spins)"
    ]
   },
@@ -651,7 +665,8 @@
     "Organic bone broth: 6 × 32 oz, at least 1 of them beef (3 cups for the Oct 11 roast; rice, sautéing, mash)",
     "Organic avocado-oil spray: 2 cans (no bottled cooking oil needed)",
     "Organic corn tortillas: 2 packs, ~24 small (Mon Oct 12 tacos)",
-    "Organic small whole-wheat tortillas: 1 pack (Chloe's Thu wrap)",
+    "Organic orzo (DeLallo, 16 oz) or mini shells: 1 box (Chloe's Thu meatball lunch; the rest is pantry)",
+    "Organic mild marinara (Sprouts Organic Marinara, 25 oz): 1 jar (Chloe's meatball lunches; freeze the rest in ¼-cup portions)",
     "Organic coconut aminos: 1 bottle (Oct 18 beef)",
     "Organic low-sodium tamari or soy sauce: 1 bottle (¾ cup for the Oct 11 roast)",
     "Organic tomato paste: 1 small can or tube (1½ Tbsp for the roast)",
@@ -1067,19 +1082,19 @@
   }
  },
  "lunchIntro": "Each morning: fill the 12 oz thermal jar with boiling water for 5–10 min, then dump it. Heat the hot food to 165°F (steaming), pack it into the warmed jar, and close it. Cold food goes in the steel bento with an ice pack, and everything goes in the insulated bag.",
- "prepIntro": "Times assume an 11:00 AM start and dinner around 5:00 PM (start at 11:45 for a 5:45 dinner). About 2½ hours hands-on (everything for Mon, Wed–Fri; this Tuesday everyone eats out and Saturday is our night out, so nothing is cooked for either), then the roast braises on its own; about 45 minutes more at dinnertime. Oven order matters: the 425°F sheet-pan work happens first, then the oven drops to 325°F for Rory's roast and the egg bites.",
+ "prepIntro": "Times assume an 11:00 AM start and dinner around 5:00 PM (start at 11:45 for a 5:45 dinner). About 2¾ hours hands-on (everything for Mon, Wed–Fri; this Tuesday everyone eats out and Saturday is our night out, so nothing is cooked for either), then the roast braises on its own; about 45 minutes more at dinnertime. Oven order matters: the 425°F sheet-pan work happens first, then the oven drops to 325°F for Rory's roast and the egg bites.",
  "prepSafety": [
   "Chicken is done at 165°F in the thickest part; ground beef at 160°F; reheated leftovers to 165°F (steaming hot). The Bell & Evans nuggets are sold uncooked: cook them to 170°F per the bag.",
   "Cool fast: spread rice and cauliflower rice on sheet pans, and get everything into the fridge within 1–2 hours of cooking (rice within 1 hour).",
-  "Fridge = eaten Mon–Wed. Freezer = Thu onward (Thu cauliflower-rice blend and half the egg bites). The nuggets stay frozen in their bag until the morning you cook them.",
+  "Fridge = eaten Mon–Wed. Freezer = Thu onward (Thu cauliflower-rice blend, Chloe's Thu meatball-orzo jar portion, extra meatballs, and half the egg bites). The nuggets stay frozen in their bag until the morning you cook them.",
   "Reheat each portion only once; take out just what you need.",
   "Label every container with the dish, the day it's for, the total grams, and 'cooked 10/11'."
  ],
  "prepThaw": [
-  "Wed night: move Thu's rice blend and the frozen egg bites to the fridge.",
+  "Wed night: move Thu's rice blend, Chloe's Thu meatball-orzo container, and the frozen egg bites to the fridge.",
   "Tue Oct 13: everyone eats out this week, so there's no Tuesday dinner to prep or thaw.",
   "Saturday is our standing night out: nothing to thaw or prep.",
-  "Nuggets (Mon and Thu lunches): cook straight from frozen; no thawing."
+  "Nuggets (Mon lunch): cook straight from frozen; no thawing. Extra meatballs stay frozen for future lunches (use within 3 months)."
  ],
  "groceryNote": "Check off anything we already have in Todoist > Home & Family > Thursday Order; only open items get ordered.",
  "nuggets": {
