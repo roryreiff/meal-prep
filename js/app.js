@@ -20,7 +20,7 @@
     const titles = {
     menu: ["This week", null],
     grocery: ["Grocery list", "Sprouts · estimates labeled · check as you shop"],
-    prep: ["Sunday prep", "Sun Oct 11 · ~2¾ hrs hands-on + dinner · check off as you go"],
+    prep: ["Sunday prep", "Sun Oct 11 · ~3½ hrs hands-on + dinner · check off as you go"],
     calc: ["Macro calculator", "Weigh · estimate · hit ~600 cal / 45g+ protein"],
     ratings: ["Ratings", "Thumbs + notes so favorites rotate back in"],
   };

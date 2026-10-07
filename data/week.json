@@ -14,19 +14,19 @@
  "notes": "Headcount 5 this week (Rory, Wendy, Chloe + 2 adult guests). Tue Oct 13: everyone eats out (no prep). Sat: our standing night out (no prep). Chloe's lunches are just for her. Everything mild; heat on the side for Rory. Quality: organic; beef grass-fed/finished; chicken air-chilled organic; seafood wild-caught; eggs OrgaNICK Corn & Soy Feed Free. Rice in bone broth; gelatin in beef. Low oil. Every recipe has full quantities: tap 'Recipe' on each dinner. Macros are estimates.",
  "costEstimates": {
   "currency": "USD",
-  "pricedOn": "2026-10-05",
+  "pricedOn": "2026-10-07",
   "label": "Estimated · Sprouts prices · excl. tax/delivery",
   "sections": {
-   "Meat & seafood": 311.27,
-   "Eggs & dairy": 106.85,
-   "Organic vegetables": 122.99,
+   "Meat & seafood": 327.25,
+   "Eggs & dairy": 143.3,
+   "Organic vegetables": 124.98,
    "Organic fruit": 129.89,
-   "Pantry & house staples": 150.64,
+   "Pantry & house staples": 227.61,
    "Pantry — if running low": 43.34
   },
-  "coreTotal": 821.64,
-  "withPantryLow": 864.98,
-  "note": "Estimates from Sprouts/Instacart prices found Oct 5–6, 2026 ET. Oct 6 updates: Saturday is a night out, the nuggets are store-bought (Bell & Evans organic, $8.99 at Whole Foods), the eggs are OrgaNICK Corn & Soy Feed Free (~$7.99/doz, estimated), this Tuesday everyone eats out (no Tuesday groceries), and Chloe's Thursday lunch is now mini beef meatballs with orzo: −$85.68 vs Oct 5. Items not priced yet (tamari, tomato paste, white miso, green onions, garlic) are rough estimates of ~$15–25 and aren't in the totals. Excludes tax/delivery."
+  "coreTotal": 953.03,
+  "withPantryLow": 996.37,
+  "note": "Estimates from Sprouts/Instacart prices found Oct 5–6, 2026 ET. Oct 6 updates: Saturday is a night out, the nuggets are store-bought (Bell & Evans organic, $8.99 at Whole Foods), the eggs are OrgaNICK Corn & Soy Feed Free (~$7.99/doz, estimated), this Tuesday everyone eats out (no Tuesday groceries), and Chloe's Thursday lunch is now mini beef meatballs with orzo (−$85.68 vs Oct 5). Oct 7: everything-bagel bodega buns (16) added, +$131.39, of which $59.99 is a tub of grass-fed whey that lasts many batches (skip if we have some). Items not priced yet (tamari, tomato paste, white miso, green onions, garlic) are rough estimates of ~$15–25 and aren't in the totals. Excludes tax/delivery."
  },
  "dinners": [
   {
@@ -407,6 +407,7 @@
  ],
  "breakfasts": [
   "Egg bites (24, made Sunday): 18 OrgaNICK Pastures Corn & Soy Feed Free eggs, 1½ cups low-fat cottage cheese, 2 packs (~24 oz) chicken breakfast sausage (browned), 10 oz baby spinach (wilted and squeezed), ½ tsp salt, ¼ tsp pepper; 325°F for 25–30 min. 12 in the fridge, 12 in the freezer. Reheat: microwave 45–60 sec from the fridge or 90 sec from frozen, or air-fry at 350°F for 5 min (8 min from frozen). 2–3 per adult.",
+  "Everything-bagel bodega buns (16, made Sunday): double batch of the high-protein bacon-egg-cheese buns (Greek yogurt + whey dough, soft-scrambled egg, turkey bacon and cheddar puck), egg-washed and topped with 1 tsp everything bagel seasoning each. ~382 cal · 30 g protein · 33 g carbs · 13.5 g fat per bun. 8 fridge (Mon–Wed), 8 freezer (Thu on). Reheat in the air fryer at 350°F: 6–8 min from the fridge, 14–16 min from frozen (foil tent first 8 min), to 165°F. Breakfast for Rory: 1 bun + 170 g Greek yogurt + ½ cup berries (~535 cal · 47 g P); big day: 2 buns (~765 cal · 60 g P). Snack: 1 bun. Chloe: 1 bun with fruit.",
   "Greek yogurt bowls (assemble each morning): Per bowl: ¾ cup (170 g) Greek yogurt, ½ cup berries, ½ kiwi (diced), ¼ cup granola, and a drizzle of honey if you like. Chloe gets the fruit on the side."
  ],
  "lunches": "Grown-up lunches from leftover chicken and beef bowls (scaled for 5)",
@@ -537,7 +538,18 @@
    ]
   },
   {
-   "t": "1:30",
+   "t": "1:35",
+   "title": "Bodega buns, part 1: bacon, egg pucks, dough (double batch = 16, everything-bagel)",
+   "step": "Air fryer is free once the meatballs are out; the oven stays at 325°F for the roast and egg bites, so the buns cook in the air fryer.",
+   "details": [
+    "Bacon: air-fry 16 slices organic uncured turkey bacon at 375°F in 2 batches of 8, 6–8 min each, flipping once, until crisp. Chop.",
+    "Egg pucks: whisk 16 OrgaNICK eggs and 360 g (1½ cups) organic liquid egg whites. No salt (the everything seasoning brings it). Spray the 12-inch skillet and cook on medium-low in 2 batches, stirring slowly, until barely set and still glossy, ~4 min each. Fold in the bacon, 224 g (2 cups) shredded sharp cheddar, and 2 Tbsp chopped chives.",
+    "Divide into 16 mounds (~75 g each) on 2 parchment-lined trays, press into 3-inch discs, and chill 20 min (fridge or freezer) until firm.",
+    "Dough: whisk 600 g (5 cups, spooned and leveled) organic all-purpose flour, 2 Tbsp (24 g) aluminum-free baking powder, 1 tsp (6 g) fine sea salt (halved from 2 tsp for the salty topping), and 60 g (2 scoops) unflavored grass-fed whey. Add 800 g (3½ cups) plain nonfat Greek yogurt and 2 tsp honey; stir, then knead 1–2 min until smooth and slightly tacky (add 1 Tbsp flour at a time if sticky). Cover with a towel."
+   ]
+  },
+  {
+   "t": "1:55",
    "title": "Veggie and fruit prep for Mon and Wed",
    "step": "Wash, dry, cut, and store in containers lined with a paper towel.",
    "details": [
@@ -547,12 +559,33 @@
    ]
   },
   {
-   "t": "1:45",
-   "title": "Label, store, clean up",
-   "step": "Everything into the fridge or freezer per the labels. You're free until 3:40 PM.",
+   "t": "2:10",
+   "title": "Bodega buns, part 2: wrap, top, air-fry (4 batches of 4)",
+   "step": "Divide the dough into 16 pieces (~92 g each). Work while each batch cooks.",
    "details": [
-    "Fridge (Mon–Wed): Wed blend, Wed beef, lunch chicken and beef, Chloe's Mon wedges, mango and Wed chicken and rice, honey mustard cups, burger sauce, slaw kit, romaine, 12 egg bites.",
-    "Freezer (Thu onward): Thu blend, Chloe's 2 meatball-orzo containers (Thu + a future lunch), the bag of extra meatballs, 12 egg bites, 4 Creami pints, and the Bell & Evans nugget bag."
+    "On a floured board roll each piece into a 5-inch circle, set a chilled puck in the center, pull the edges up, and pinch firmly to seal. Seam-side down on parchment.",
+    "Egg wash: beat 2 eggs with 2 Tbsp water and brush the tops. Sprinkle each with 1 tsp organic everything bagel seasoning (16 tsp ≈ 5⅓ Tbsp, ~45 g total) and press lightly so it sticks. No extra salt or cheese on top.",
+    "Air-fry 4 at a time on parchment at 330°F for 12–14 min, until deep golden and 165°F in the center (the bottoms sound hollow). Batches at ~2:15, 2:30, 2:45, 3:00. Cool on a rack.",
+    "Macros per bun: ~382 cal · 30 g protein · 33 g carbs · 13.5 g fat."
+   ]
+  },
+  {
+   "t": "2:25",
+   "title": "Label, store, clean up",
+   "step": "While the bun batches run, everything else goes into the fridge or freezer per the labels. Buns get stored at 3:15; then you're free until 3:40 PM.",
+   "details": [
+    "Fridge (Mon–Wed): Wed blend, Wed beef, lunch chicken and beef, Chloe's Mon wedges, mango and Wed chicken and rice, honey mustard cups, burger sauce, slaw kit, romaine, 12 egg bites, 8 bodega buns (after cooling, 3:15).",
+    "Freezer (Thu onward): Thu blend, Chloe's 2 meatball-orzo containers (Thu + a future lunch), the bag of extra meatballs, 12 egg bites, 4 Creami pints, the Bell & Evans nugget bag, and 8 bodega buns (after cooling, 3:15)."
+   ]
+  },
+  {
+   "t": "3:15",
+   "title": "Cool and store the buns",
+   "step": "Cool completely (at least 30 min) before packing; never seal a warm bun. Don't leave them out more than 2 hours.",
+   "details": [
+    "Fridge (Mon–Wed): 8 buns in a glass or steel container (good 4 days).",
+    "Freezer (Thu onward): 8 buns, frozen 1 hour on a tray, then in a steel/glass container or foil, labeled 'everything bodega buns 10/11' (good 2 months).",
+    "Reheat in the air fryer at 350°F: 6–8 min from the fridge, 14–16 min from frozen (foil tent for the first 8 min), to 165°F. Wed night, move the Thu–Fri buns to the fridge."
    ]
   },
   {
@@ -606,18 +639,20 @@
     "Organic grass-fed sirloin steaks (grass-finished when possible): 2.25 lb (Fri)",
     "Organic grass-fed beef hot dogs (grass-finished when possible): 1 pack (Chloe's Tue lunch)",
     "Organic chicken breakfast sausage (air-chilled organic chicken): 2 packs, ~12 oz each (egg bites)",
-    "Bell & Evans Organic Breaded Chicken Nuggets, air-chilled, 12 oz frozen: 1 bag (Chloe's Mon lunch; the rest stay frozen for future lunches). Whole Foods/Amazon; Sprouts backup: Perdue Simply Smart Organics GF Breast Nuggets 22 oz"
+    "Bell & Evans Organic Breaded Chicken Nuggets, air-chilled, 12 oz frozen: 1 bag (Chloe's Mon lunch; the rest stay frozen for future lunches). Whole Foods/Amazon; Sprouts backup: Perdue Simply Smart Organics GF Breast Nuggets 22 oz",
+    "Organic uncured turkey bacon (Sprouts Organic, 8 oz): 2 packs (16 slices for the bodega buns)"
    ]
   },
   {
    "section": "Eggs & dairy",
    "items": [
-    "OrgaNICK Pastures Corn & Soy Feed Free Regeneratively Farmed Pasture-Raised Organic Large Brown Eggs (12 ct): 3 dozen (egg bites, fried-egg toppers, 1 for Chloe's meatballs)",
+    "OrgaNICK Pastures Corn & Soy Feed Free Regeneratively Farmed Pasture-Raised Organic Large Brown Eggs (12 ct): 5 dozen (egg bites, fried-egg toppers, 1 for Chloe's meatballs, 18 for the bodega buns)",
     "Organic low-fat cottage cheese: 3 × 24 oz (egg bites, Creami)",
-    "Organic plain nonfat Greek yogurt: 4 × 32 oz (yogurt bowls, mash, burger sauce, honey mustard, tacos, Creami)",
-    "Organic shredded cheddar: 8 oz (Wed bowls, Mon tacos optional)",
+    "Organic plain nonfat Greek yogurt: 5 × 32 oz (yogurt bowls, mash, burger sauce, honey mustard, tacos, Creami, 800 g for the bodega bun dough)",
+    "Organic shredded cheddar: 3 × 6 oz (Wed bowls, Mon tacos optional, 224 g for the bodega buns)",
     "Organic Parmesan, wedge or grated: 1 (zucchini fries, Chloe's meatballs)",
-    "Organic milk: ½ gallon (Creami re-spins)"
+    "Organic milk: ½ gallon (Creami re-spins)",
+    "Organic liquid egg whites (Sprouts Organic 100%, 16 oz): 1 (bodega buns, 360 g)"
    ]
   },
   {
@@ -640,7 +675,8 @@
     "Organic fresh ginger: 1 large knob, ~3 oz (Oct 11 roast)",
     "Organic fresh dill: 1 bunch (Oct 18 peas and carrots)",
     "Organic green onions: 1 bunch (Oct 11 roast garnish)",
-    "Organic frozen peas: 1 × 16 oz bag (Sun Oct 18 peas and carrots)"
+    "Organic frozen peas: 1 × 16 oz bag (Sun Oct 18 peas and carrots)",
+    "Organic fresh chives: 1 package (bodega buns)"
    ]
   },
   {
@@ -674,7 +710,10 @@
     "Organic mild salsa: 2 jars (Mon tacos)",
     "Organic dill pickles: 1 jar",
     "Organic whole-grain hot dog buns: 1 pack (Chloe's Tue lunch)",
-    "Organic granola: 2 bags"
+    "Organic granola: 2 bags",
+    "Organic all-purpose flour (Bob's Red Mill Organic, 5 lb): 1 bag (bodega buns, 600 g; rest is pantry)",
+    "Unflavored grass-fed whey protein (Truvani Organic, 18 oz): 1 (bodega buns, 60 g; skip if we have unflavored whey)",
+    "Organic everything bagel seasoning (Simply Organic Everything Blend, 3.49 oz): 1 jar (bodega bun tops, ~16 tsp)"
    ]
   },
   {
@@ -690,7 +729,8 @@
     "Optional, only for Monday burritos: organic large flour tortillas, 1 pack",
     "Organic balsamic vinegar, Dijon and yellow mustard, and vanilla extract (if out)",
     "Organic smoked paprika and garlic powder (if low)",
-    "For Rory only: organic chipotle in adobo or hot sauce (if out)"
+    "For Rory only: organic chipotle in adobo or hot sauce (if out)",
+    "Aluminum-free baking powder: 1 can, if low (bodega buns, 2 Tbsp)"
    ]
   }
  ],
@@ -1082,7 +1122,7 @@
   }
  },
  "lunchIntro": "Each morning: fill the 12 oz thermal jar with boiling water for 5–10 min, then dump it. Heat the hot food to 165°F (steaming), pack it into the warmed jar, and close it. Cold food goes in the steel bento with an ice pack, and everything goes in the insulated bag.",
- "prepIntro": "Times assume an 11:00 AM start and dinner around 5:00 PM (start at 11:45 for a 5:45 dinner). About 2¾ hours hands-on (everything for Mon, Wed–Fri; this Tuesday everyone eats out and Saturday is our night out, so nothing is cooked for either), then the roast braises on its own; about 45 minutes more at dinnertime. Oven order matters: the 425°F sheet-pan work happens first, then the oven drops to 325°F for Rory's roast and the egg bites.",
+ "prepIntro": "Times assume an 11:00 AM start and dinner around 5:00 PM (start at 11:45 for a 5:45 dinner). About 3½ hours hands-on (incl. ~40 min of bodega-bun air-fryer batches) (everything for Mon, Wed–Fri; this Tuesday everyone eats out and Saturday is our night out, so nothing is cooked for either), then the roast braises on its own; about 45 minutes more at dinnertime. Oven order matters: the 425°F sheet-pan work happens first, then the oven drops to 325°F for Rory's roast and the egg bites.",
  "prepSafety": [
   "Chicken is done at 165°F in the thickest part; ground beef at 160°F; reheated leftovers to 165°F (steaming hot). The Bell & Evans nuggets are sold uncooked: cook them to 170°F per the bag.",
   "Cool fast: spread rice and cauliflower rice on sheet pans, and get everything into the fridge within 1–2 hours of cooking (rice within 1 hour).",
@@ -1091,7 +1131,7 @@
   "Label every container with the dish, the day it's for, the total grams, and 'cooked 10/11'."
  ],
  "prepThaw": [
-  "Wed night: move Thu's rice blend, Chloe's Thu meatball-orzo container, and the frozen egg bites to the fridge.",
+  "Wed night: move Thu's rice blend, Chloe's Thu meatball-orzo container, the frozen egg bites, and the frozen bodega buns (or pull 1–2 at a time and reheat from frozen) to the fridge.",
   "Tue Oct 13: everyone eats out this week, so there's no Tuesday dinner to prep or thaw.",
   "Saturday is our standing night out: nothing to thaw or prep.",
   "Nuggets (Mon lunch): cook straight from frozen; no thawing. Extra meatballs stay frozen for future lunches (use within 3 months)."
