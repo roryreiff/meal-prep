@@ -21,12 +21,12 @@
    "Eggs & dairy": 161.58,
    "Organic vegetables": 124.98,
    "Organic fruit": 129.89,
-   "Pantry & house staples": 227.61,
+   "Pantry & house staples": 222.61,
    "Pantry — if running low": 43.34
   },
-  "coreTotal": 971.31,
-  "withPantryLow": 1014.65,
-  "note": "Estimates from Sprouts/Instacart prices found Oct 5–6, 2026 ET. Oct 6 updates: Saturday is a night out, the nuggets are store-bought (Bell & Evans organic, $8.99 at Whole Foods), the eggs are OrgaNICK Corn & Soy Feed Free (~$7.99/doz, estimated), this Tuesday everyone eats out (no Tuesday groceries), and Chloe's Thursday lunch is now mini beef meatballs with orzo (−$85.68 vs Oct 5). Oct 7: everything-bagel bodega buns (16) added, +$131.39, of which $59.99 is a tub of grass-fed whey that lasts many batches (skip if we have some). Items not priced yet (tamari, tomato paste, white miso, green onions, garlic) are rough estimates of ~$15–25 and aren't in the totals. Excludes tax/delivery. Oct 8: yogurt switched to Stonyfield Organic 100% Grassfed Greek (whole milk, 7 × 24 oz at $8.49), +$4.48. Oct 8: dairy organic + grass-fed when possible (Grassmilk cheddar and milk, Organic Valley parmesan), +$13.80."
+  "coreTotal": 966.31,
+  "withPantryLow": 1009.65,
+  "note": "Estimates from Sprouts/Instacart prices found Oct 5–6, 2026 ET. Oct 6 updates: Saturday is a night out, the nuggets are store-bought (Bell & Evans organic, $8.99 at Whole Foods), the eggs are OrgaNICK Corn & Soy Feed Free (~$7.99/doz, estimated), this Tuesday everyone eats out (no Tuesday groceries), and Chloe's Thursday lunch is now mini beef meatballs with orzo (−$85.68 vs Oct 5). Oct 7: everything-bagel bodega buns (16) added, +$131.39, of which $59.99 is a tub of grass-fed whey that lasts many batches (skip if we have some). Items not priced yet (tamari, tomato paste, white miso, green onions, garlic) are rough estimates of ~$15–25 and aren't in the totals. Excludes tax/delivery. Oct 8: yogurt switched to Stonyfield Organic 100% Grassfed Greek (whole milk, 7 × 24 oz at $8.49), +$4.48. Oct 8: dairy organic + grass-fed when possible (Grassmilk cheddar and milk, Organic Valley parmesan), +$13.80. Oct 8: Truvani whey → Equip Prime Protein unflavored beef isolate ($54.99 at Sprouts), −$5.00."
  },
  "dinners": [
   {
@@ -407,7 +407,7 @@
  ],
  "breakfasts": [
   "Egg bites (24, made Sunday): 18 OrgaNICK Pastures Corn & Soy Feed Free eggs, 1½ cups low-fat cottage cheese, 2 packs (~24 oz) chicken breakfast sausage (browned), 10 oz baby spinach (wilted and squeezed), ½ tsp salt, ¼ tsp pepper; 325°F for 25–30 min. 12 in the fridge, 12 in the freezer. Reheat: microwave 45–60 sec from the fridge or 90 sec from frozen, or air-fry at 350°F for 5 min (8 min from frozen). 2–3 per adult.",
-  "Everything-bagel bodega buns (16, made Sunday): double batch of the high-protein bacon-egg-cheese buns (Greek yogurt + whey dough, soft-scrambled egg, turkey bacon and cheddar puck), egg-washed and topped with 1 tsp everything bagel seasoning each. ~397 cal · 30 g protein · 33 g carbs · 15 g fat (with grass-fed whole-milk Greek yogurt) per bun. 8 fridge (Mon–Wed), 8 freezer (Thu on). Reheat in the air fryer at 350°F: 6–8 min from the fridge, 14–16 min from frozen (foil tent first 8 min), to 165°F. Breakfast for Rory: 1 bun + 170 g Greek yogurt + ½ cup berries (~605 cal · 46 g P; the whole-milk yogurt adds ~50 cal); big day: 2 buns (~795 cal · 60 g P). Snack: 1 bun. Chloe: 1 bun with fruit.",
+  "Everything-bagel bodega buns (16, made Sunday): double batch of the high-protein bacon-egg-cheese buns (Greek yogurt + grass-fed beef protein isolate dough, soft-scrambled egg, turkey bacon and cheddar puck), egg-washed and topped with 1 tsp everything bagel seasoning each. ~400 cal · 30 g protein · 33 g carbs · 15 g fat (grass-fed whole-milk Greek yogurt + Equip beef isolate) per bun. 8 fridge (Mon–Wed), 8 freezer (Thu on). Reheat in the air fryer at 350°F: 6–8 min from the fridge, 14–16 min from frozen (foil tent first 8 min), to 165°F. Breakfast for Rory: 1 bun + 170 g Greek yogurt + ½ cup berries (~610 cal · 47 g P; the whole-milk yogurt adds ~50 cal); big day: 2 buns (~800 cal · 61 g P). Snack: 1 bun. Chloe: 1 bun with fruit.",
   "Greek yogurt bowls (assemble each morning): Per bowl: ¾ cup (170 g) grass-fed whole-milk Greek yogurt, ½ cup berries, ½ kiwi (diced), ¼ cup granola, and a drizzle of honey if you like. Yogurt alone: 150 cal · 16 g protein · 6 g fat per ¾ cup (was 100 cal · 17.5 g · 0.7 g with nonfat). Chloe gets the fruit on the side."
  ],
  "lunches": "Grown-up lunches from leftover chicken and beef bowls (scaled for 5)",
@@ -545,7 +545,7 @@
     "Bacon: air-fry 16 slices organic uncured turkey bacon at 375°F in 2 batches of 8, 6–8 min each, flipping once, until crisp. Chop.",
     "Egg pucks: whisk 16 OrgaNICK eggs and 360 g (1½ cups) organic liquid egg whites. No salt (the everything seasoning brings it). Spray the 12-inch skillet and cook on medium-low in 2 batches, stirring slowly, until barely set and still glossy, ~4 min each. Fold in the bacon, 224 g (2 cups) shredded sharp cheddar, and 2 Tbsp chopped chives.",
     "Divide into 16 mounds (~75 g each) on 2 parchment-lined trays, press into 3-inch discs, and chill 20 min (fridge or freezer) until firm.",
-    "Dough: whisk 600 g (5 cups, spooned and leveled) organic all-purpose flour, 2 Tbsp (24 g) aluminum-free baking powder, 1 tsp (6 g) fine sea salt (halved from 2 tsp for the salty topping), and 60 g (2 scoops) unflavored grass-fed whey. Add 800 g (3½ cups) plain organic 100% grass-fed Greek yogurt (whole milk) and 2 tsp honey; stir, then knead 1–2 min until smooth and slightly tacky (add 1 Tbsp flour at a time if sticky). Cover with a towel."
+    "Dough: whisk 600 g (5 cups, spooned and leveled) organic all-purpose flour, 2 Tbsp (24 g) aluminum-free baking powder, 1 tsp (6 g) fine sea salt (halved from 2 tsp for the salty topping), and 60 g (about 3 scoops) Equip Prime Protein unflavored grass-fed beef protein isolate. Add 800 g (3½ cups) plain organic 100% grass-fed Greek yogurt (whole milk) and 2 tsp honey; stir, then knead 1–2 min until smooth and slightly tacky (add 1 Tbsp flour at a time if sticky; beef isolate absorbs more liquid than whey, so if the dough is stiff or cracks, knead in 1–2 Tbsp extra Greek yogurt). Cover with a towel."
    ]
   },
   {
@@ -566,7 +566,7 @@
     "On a floured board roll each piece into a 5-inch circle, set a chilled puck in the center, pull the edges up, and pinch firmly to seal. Seam-side down on parchment.",
     "Egg wash: beat 2 eggs with 2 Tbsp water and brush the tops. Sprinkle each with 1 tsp organic everything bagel seasoning (16 tsp ≈ 5⅓ Tbsp, ~45 g total) and press lightly so it sticks. No extra salt or cheese on top.",
     "Air-fry 4 at a time on parchment at 330°F for 12–14 min, until deep golden and 165°F in the center (the bottoms sound hollow). Batches at ~2:15, 2:30, 2:45, 3:00. Cool on a rack.",
-    "Macros per bun: ~397 cal · 30 g protein · 33 g carbs · 15 g fat (with grass-fed whole-milk Greek yogurt)."
+    "Macros per bun: ~400 cal · 30 g protein · 33 g carbs · 15 g fat (grass-fed whole-milk Greek yogurt + Equip beef isolate)."
    ]
   },
   {
@@ -712,7 +712,7 @@
     "Organic whole-grain hot dog buns: 1 pack (Chloe's Tue lunch)",
     "Organic granola: 2 bags",
     "Organic all-purpose flour (Bob's Red Mill Organic, 5 lb): 1 bag (bodega buns, 600 g; rest is pantry)",
-    "Unflavored grass-fed whey protein (Truvani Organic, 18 oz): 1 (bodega buns, 60 g; skip if we have unflavored whey)",
+    "Equip Foods Prime Protein, UNFLAVORED grass-fed beef protein isolate (Sprouts, 14.9 oz, ~20 scoops): 1 (bodega buns, 60 g per double batch; rest is pantry)",
     "Organic everything bagel seasoning (Simply Organic Everything Blend, 3.49 oz): 1 jar (bodega bun tops, ~16 tsp)"
    ]
   },
