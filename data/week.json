@@ -11,22 +11,22 @@
   "calories": 600,
   "protein": 45
  },
- "notes": "Headcount 5 this week (Rory, Wendy, Chloe + 2 adult guests). Tue Oct 13: everyone eats out (no prep). Sat: our standing night out (no prep). Chloe's lunches are just for her. Everything mild; heat on the side for Rory. Quality: organic; beef grass-fed/finished; chicken air-chilled organic; seafood wild-caught; eggs OrgaNICK Corn & Soy Feed Free; yogurt organic AND 100% grass-fed (Stonyfield Grassfed Greek, whole milk: +~50 cal per ¾ cup vs nonfat). Rice in bone broth; gelatin in beef. Low oil. Every recipe has full quantities: tap 'Recipe' on each dinner. Macros are estimates.",
+ "notes": "Headcount 5 this week (Rory, Wendy, Chloe + 2 adult guests). Tue Oct 13: everyone eats out (no prep). Sat: our standing night out (no prep). Chloe's lunches are just for her. Everything mild; heat on the side for Rory. Quality: organic; beef grass-fed/finished; chicken air-chilled organic; seafood wild-caught; eggs OrgaNICK Corn & Soy Feed Free; dairy organic and grass-fed when possible (Stonyfield Grassfed Greek yogurt, whole milk: +~50 cal per ¾ cup vs nonfat; Organic Valley Grassmilk milk and cheddar; cottage cheese and parmesan organic only). Rice in bone broth; gelatin in beef. Low oil. Every recipe has full quantities: tap 'Recipe' on each dinner. Macros are estimates.",
  "costEstimates": {
   "currency": "USD",
   "pricedOn": "2026-10-08",
   "label": "Estimated · Sprouts prices · excl. tax/delivery",
   "sections": {
    "Meat & seafood": 327.25,
-   "Eggs & dairy": 147.78,
+   "Eggs & dairy": 161.58,
    "Organic vegetables": 124.98,
    "Organic fruit": 129.89,
    "Pantry & house staples": 227.61,
    "Pantry — if running low": 43.34
   },
-  "coreTotal": 957.51,
-  "withPantryLow": 1000.85,
-  "note": "Estimates from Sprouts/Instacart prices found Oct 5–6, 2026 ET. Oct 6 updates: Saturday is a night out, the nuggets are store-bought (Bell & Evans organic, $8.99 at Whole Foods), the eggs are OrgaNICK Corn & Soy Feed Free (~$7.99/doz, estimated), this Tuesday everyone eats out (no Tuesday groceries), and Chloe's Thursday lunch is now mini beef meatballs with orzo (−$85.68 vs Oct 5). Oct 7: everything-bagel bodega buns (16) added, +$131.39, of which $59.99 is a tub of grass-fed whey that lasts many batches (skip if we have some). Items not priced yet (tamari, tomato paste, white miso, green onions, garlic) are rough estimates of ~$15–25 and aren't in the totals. Excludes tax/delivery. Oct 8: yogurt switched to Stonyfield Organic 100% Grassfed Greek (whole milk, 7 × 24 oz at $8.49), +$4.48."
+  "coreTotal": 971.31,
+  "withPantryLow": 1014.65,
+  "note": "Estimates from Sprouts/Instacart prices found Oct 5–6, 2026 ET. Oct 6 updates: Saturday is a night out, the nuggets are store-bought (Bell & Evans organic, $8.99 at Whole Foods), the eggs are OrgaNICK Corn & Soy Feed Free (~$7.99/doz, estimated), this Tuesday everyone eats out (no Tuesday groceries), and Chloe's Thursday lunch is now mini beef meatballs with orzo (−$85.68 vs Oct 5). Oct 7: everything-bagel bodega buns (16) added, +$131.39, of which $59.99 is a tub of grass-fed whey that lasts many batches (skip if we have some). Items not priced yet (tamari, tomato paste, white miso, green onions, garlic) are rough estimates of ~$15–25 and aren't in the totals. Excludes tax/delivery. Oct 8: yogurt switched to Stonyfield Organic 100% Grassfed Greek (whole milk, 7 × 24 oz at $8.49), +$4.48. Oct 8: dairy organic + grass-fed when possible (Grassmilk cheddar and milk, Organic Valley parmesan), +$13.80."
  },
  "dinners": [
   {
@@ -647,11 +647,11 @@
    "section": "Eggs & dairy",
    "items": [
     "OrgaNICK Pastures Corn & Soy Feed Free Regeneratively Farmed Pasture-Raised Organic Large Brown Eggs (12 ct): 5 dozen (egg bites, fried-egg toppers, 1 for Chloe's meatballs, 18 for the bodega buns)",
-    "Organic low-fat cottage cheese: 3 × 24 oz (egg bites, Creami)",
+    "Sprouts Organic Low Fat Cottage Cheese, 16 oz: 5 tubs (egg bites, Creami). Organic; no organic grass-fed cottage cheese is reasonably available at Sprouts or Whole Foods, so this stays organic only",
     "Organic plain organic 100% grass-fed Greek yogurt (whole milk): 5 × 32 oz (yogurt bowls, mash, burger sauce, honey mustard, tacos, Creami, 800 g for the bodega bun dough)",
-    "Organic shredded cheddar: 3 × 6 oz (Wed bowls, Mon tacos optional, 224 g for the bodega buns)",
-    "Organic Parmesan, wedge or grated: 1 (zucchini fries, Chloe's meatballs)",
-    "Organic milk: ½ gallon (Creami re-spins)",
+    "Organic Valley Grassmilk Raw Sharp Cheddar (organic, 100% grass-fed), 8 oz block: 2 blocks; grate it yourself (Wed bowls, Mon tacos optional, 224 g for the bodega buns). Aged raw-milk cheese; if you'd rather have pasteurized for Chloe, swap back to Sprouts Organic shredded cheddar",
+    "Organic Valley Organic Grated Parmesan, 4 oz: 1 (zucchini fries, Chloe's meatballs). Organic and pasture-raised; no organic grass-fed parmesan at Sprouts or Whole Foods",
+    "Organic Valley Organic Grassmilk Whole Milk (100% grass-fed, ultra-pasteurized), 59 fl oz: 1 (Creami bases and re-spins)",
     "Organic liquid egg whites (Sprouts Organic 100%, 16 oz): 1 (bodega buns, 360 g)"
    ]
   },
@@ -981,11 +981,11 @@
    "fat": 2.8
   },
   "cheddar": {
-   "name": "Shredded cheddar",
-   "cal": 404,
-   "protein": 22.9,
-   "carbs": 3.1,
-   "fat": 33.0
+   "name": "Grass-fed cheddar (Organic Valley Grassmilk)",
+   "cal": 393,
+   "protein": 21.4,
+   "carbs": 3.6,
+   "fat": 32.1
   },
   "cashsauce": {
    "name": "Honey cashew sauce",
