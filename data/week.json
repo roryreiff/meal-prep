@@ -11,22 +11,22 @@
   "calories": 600,
   "protein": 45
  },
- "notes": "Headcount 5 this week (Rory, Wendy, Chloe + 2 adult guests). Tue Oct 13: everyone eats out (no prep). Sat: our standing night out (no prep). Chloe's lunches are just for her. Everything mild; heat on the side for Rory. Quality: organic; beef grass-fed/finished; chicken air-chilled organic; seafood wild-caught; eggs OrgaNICK Corn & Soy Feed Free. Rice in bone broth; gelatin in beef. Low oil. Every recipe has full quantities: tap 'Recipe' on each dinner. Macros are estimates.",
+ "notes": "Headcount 5 this week (Rory, Wendy, Chloe + 2 adult guests). Tue Oct 13: everyone eats out (no prep). Sat: our standing night out (no prep). Chloe's lunches are just for her. Everything mild; heat on the side for Rory. Quality: organic; beef grass-fed/finished; chicken air-chilled organic; seafood wild-caught; eggs OrgaNICK Corn & Soy Feed Free; yogurt organic AND 100% grass-fed (Stonyfield Grassfed Greek, whole milk: +~50 cal per ¾ cup vs nonfat). Rice in bone broth; gelatin in beef. Low oil. Every recipe has full quantities: tap 'Recipe' on each dinner. Macros are estimates.",
  "costEstimates": {
   "currency": "USD",
-  "pricedOn": "2026-10-07",
+  "pricedOn": "2026-10-08",
   "label": "Estimated · Sprouts prices · excl. tax/delivery",
   "sections": {
    "Meat & seafood": 327.25,
-   "Eggs & dairy": 143.3,
+   "Eggs & dairy": 147.78,
    "Organic vegetables": 124.98,
    "Organic fruit": 129.89,
    "Pantry & house staples": 227.61,
    "Pantry — if running low": 43.34
   },
-  "coreTotal": 953.03,
-  "withPantryLow": 996.37,
-  "note": "Estimates from Sprouts/Instacart prices found Oct 5–6, 2026 ET. Oct 6 updates: Saturday is a night out, the nuggets are store-bought (Bell & Evans organic, $8.99 at Whole Foods), the eggs are OrgaNICK Corn & Soy Feed Free (~$7.99/doz, estimated), this Tuesday everyone eats out (no Tuesday groceries), and Chloe's Thursday lunch is now mini beef meatballs with orzo (−$85.68 vs Oct 5). Oct 7: everything-bagel bodega buns (16) added, +$131.39, of which $59.99 is a tub of grass-fed whey that lasts many batches (skip if we have some). Items not priced yet (tamari, tomato paste, white miso, green onions, garlic) are rough estimates of ~$15–25 and aren't in the totals. Excludes tax/delivery."
+  "coreTotal": 957.51,
+  "withPantryLow": 1000.85,
+  "note": "Estimates from Sprouts/Instacart prices found Oct 5–6, 2026 ET. Oct 6 updates: Saturday is a night out, the nuggets are store-bought (Bell & Evans organic, $8.99 at Whole Foods), the eggs are OrgaNICK Corn & Soy Feed Free (~$7.99/doz, estimated), this Tuesday everyone eats out (no Tuesday groceries), and Chloe's Thursday lunch is now mini beef meatballs with orzo (−$85.68 vs Oct 5). Oct 7: everything-bagel bodega buns (16) added, +$131.39, of which $59.99 is a tub of grass-fed whey that lasts many batches (skip if we have some). Items not priced yet (tamari, tomato paste, white miso, green onions, garlic) are rough estimates of ~$15–25 and aren't in the totals. Excludes tax/delivery. Oct 8: yogurt switched to Stonyfield Organic 100% Grassfed Greek (whole milk, 7 × 24 oz at $8.49), +$4.48."
  },
  "dinners": [
   {
@@ -35,7 +35,7 @@
    "name": "Rory's Mild Apple-Ginger Braised Chuck Roast",
    "desc": "Rory's recipe as written (1.5× for 5 lb grass-fed, grass-finished chuck): grated apple, onion, garlic, ginger, honey, cider vinegar, low-sodium tamari, beef broth, sesame oil, and tomato paste, braised covered 4 hr at 325°F in his ceramic pot, then shredded in the juices. Served with broth-and-yogurt mashed potatoes. Leftovers become Monday's tacos.",
    "side": "Shaved fennel-apple slaw: fennel, apple, lemon juice, a drizzle of honey, a pinch of salt. Thinly slice and toss, 10 min.",
-   "cal": 580,
+   "cal": 585,
    "protein": 55,
    "anchor": true,
    "firstCook": true,
@@ -89,7 +89,7 @@
     ],
     "rump": "Rump works too (from Rory's notes): it's leaner, so use the same 325°F covered braise but plan on 4–4½ hours, then check and give it another 30 min if it doesn't pull apart. If the pot looks dry at the 3-hour mark, add ½ cup more broth. Slice against the grain if it resists shredding, and let it rest in the sauce 10–15 min.",
     "leftovers": "Monday: ~750 g shredded beef plus 1 cup of the juices go into one glass container in the fridge (keeps 3–4 days). Monday's tacos, or burritos using Rory's burrito build, are always mild, with heat on the side for Rory.",
-    "rory": "Rory's plate: 190 g shredded beef with juices + 150 g mash + 150 g fennel-apple slaw ≈ 580 cal · 55 g protein (about 600 with a spoonful of extra juices and the garnish)."
+    "rory": "Rory's plate: 190 g shredded beef with juices + 150 g mash + 150 g fennel-apple slaw ≈ 585 cal · 55 g protein (about 600 with a spoonful of extra juices and the garnish)."
    },
    "sideRecipes": [
     {
@@ -99,7 +99,7 @@
       "3 lb Yukon Gold potatoes, peeled, in 1½-inch chunks",
       "1 Tbsp salt (for the cooking water)",
       "¾ cup bone broth, warmed",
-      "¾ cup plain nonfat Greek yogurt, room temperature",
+      "¾ cup plain organic 100% grass-fed Greek yogurt (whole milk), room temperature",
       "½ tsp salt and ¼ tsp black pepper"
      ],
      "steps": [
@@ -136,7 +136,7 @@
    "name": "Shredded roast tacos",
    "desc": "Sunday's apple-ginger shredded chuck on corn tortillas with mild salsa and Greek yogurt (or burritos using Rory's build, or bone broth rice bowls with a fried egg). Mild; heat on the side for Rory.",
    "side": "Honey-lime cabbage slaw: green + red cabbage, shredded carrot, lime, a little honey, salt. Shredded Sunday; toss with the dressing 10 min before dinner.",
-   "cal": 600,
+   "cal": 615,
    "protein": 54,
    "plate": [
     {
@@ -162,7 +162,7 @@
     "ingredients": [
      "~750 g apple-ginger shredded beef + 1 cup juices (from Sunday)",
      "14–16 small organic corn tortillas",
-     "1 cup (230 g) plain nonfat Greek yogurt",
+     "1 cup (230 g) plain organic 100% grass-fed Greek yogurt (whole milk)",
      "1 cup mild salsa",
      "Honey-lime slaw kit from Sunday (~850 g shredded cabbage and carrot + dressing jar: ¼ cup lime juice, 1½ Tbsp honey, ¾ tsp salt)",
      "Optional: lime wedges, shredded cheddar",
@@ -172,7 +172,7 @@
      "10 min before dinner, pour the dressing over the slaw and toss.",
      "Reheat the beef in a covered saucepan over medium-low with its juices for 8–10 min, stirring once or twice, until steaming and 165°F.",
      "Warm the tortillas in a dry stainless skillet over medium-high, 30–45 sec per side, and stack them in a clean towel.",
-     "Build: a smear of yogurt, ~55 g beef per taco, slaw, then salsa. Rory: 160 g beef across 3 tortillas, 50 g yogurt, and 200 g slaw on the side (~600 cal · 54 g protein).",
+     "Build: a smear of yogurt, ~55 g beef per taco, slaw, then salsa. Rory: 160 g beef across 3 tortillas, 50 g yogurt, and 200 g slaw on the side (~615 cal · 54 g protein).",
      "Bowl version: 120 g bone broth rice + beef + slaw, with a fried egg if you like (spray, 3 min).",
      "Burrito option (Rory's burrito build, all mild): warm large flour tortillas, then layer a thin smear of yogurt with a squeeze of lime, warm rice, a generous pile of beef with extra sauce, melty cheese, and a cool crunch (slaw, lettuce, cucumber, or thin apple). Roll tight, seam-side down, and toast in a dry skillet until golden. For the drizzle, stir a little braising liquid into yogurt with lime. Heat goes on the side for Rory."
     ]
@@ -193,7 +193,7 @@
    "name": "Cheeseburger bowls",
    "desc": "Extra-lean grass-fed beef (with gelatin), bone broth + cauliflower rice, romaine, tomato, pickles, cheddar, Greek yogurt burger sauce; fried egg optional (+~80 cal, 6g protein)",
    "side": "Air-fryer zucchini fries with parmesan — zucchini spears, avocado-oil spray, garlic powder, grated parmesan. 400°F for 10 min.",
-   "cal": 580,
+   "cal": 590,
    "protein": 64,
    "plate": [
     {
@@ -338,7 +338,7 @@
    "name": "Honey-balsamic shredded beef",
    "desc": "Slow-cook anchor: grass-fed chuck, bone broth, gelatin; broth-and-Greek-yogurt mashed potatoes",
    "side": "Honey-dill peas and carrots — frozen peas, diced carrots, broth, a touch of honey, fresh dill. Simmer 6 min.",
-   "cal": 600,
+   "cal": 605,
    "protein": 56,
    "anchor": true,
    "plate": [
@@ -407,8 +407,8 @@
  ],
  "breakfasts": [
   "Egg bites (24, made Sunday): 18 OrgaNICK Pastures Corn & Soy Feed Free eggs, 1½ cups low-fat cottage cheese, 2 packs (~24 oz) chicken breakfast sausage (browned), 10 oz baby spinach (wilted and squeezed), ½ tsp salt, ¼ tsp pepper; 325°F for 25–30 min. 12 in the fridge, 12 in the freezer. Reheat: microwave 45–60 sec from the fridge or 90 sec from frozen, or air-fry at 350°F for 5 min (8 min from frozen). 2–3 per adult.",
-  "Everything-bagel bodega buns (16, made Sunday): double batch of the high-protein bacon-egg-cheese buns (Greek yogurt + whey dough, soft-scrambled egg, turkey bacon and cheddar puck), egg-washed and topped with 1 tsp everything bagel seasoning each. ~382 cal · 30 g protein · 33 g carbs · 13.5 g fat per bun. 8 fridge (Mon–Wed), 8 freezer (Thu on). Reheat in the air fryer at 350°F: 6–8 min from the fridge, 14–16 min from frozen (foil tent first 8 min), to 165°F. Breakfast for Rory: 1 bun + 170 g Greek yogurt + ½ cup berries (~535 cal · 47 g P); big day: 2 buns (~765 cal · 60 g P). Snack: 1 bun. Chloe: 1 bun with fruit.",
-  "Greek yogurt bowls (assemble each morning): Per bowl: ¾ cup (170 g) Greek yogurt, ½ cup berries, ½ kiwi (diced), ¼ cup granola, and a drizzle of honey if you like. Chloe gets the fruit on the side."
+  "Everything-bagel bodega buns (16, made Sunday): double batch of the high-protein bacon-egg-cheese buns (Greek yogurt + whey dough, soft-scrambled egg, turkey bacon and cheddar puck), egg-washed and topped with 1 tsp everything bagel seasoning each. ~397 cal · 30 g protein · 33 g carbs · 15 g fat (with grass-fed whole-milk Greek yogurt) per bun. 8 fridge (Mon–Wed), 8 freezer (Thu on). Reheat in the air fryer at 350°F: 6–8 min from the fridge, 14–16 min from frozen (foil tent first 8 min), to 165°F. Breakfast for Rory: 1 bun + 170 g Greek yogurt + ½ cup berries (~605 cal · 46 g P; the whole-milk yogurt adds ~50 cal); big day: 2 buns (~795 cal · 60 g P). Snack: 1 bun. Chloe: 1 bun with fruit.",
+  "Greek yogurt bowls (assemble each morning): Per bowl: ¾ cup (170 g) grass-fed whole-milk Greek yogurt, ½ cup berries, ½ kiwi (diced), ¼ cup granola, and a drizzle of honey if you like. Yogurt alone: 150 cal · 16 g protein · 6 g fat per ¾ cup (was 100 cal · 17.5 g · 0.7 g with nonfat). Chloe gets the fruit on the side."
  ],
  "lunches": "Grown-up lunches from leftover chicken and beef bowls (scaled for 5)",
  "creami": [
@@ -545,7 +545,7 @@
     "Bacon: air-fry 16 slices organic uncured turkey bacon at 375°F in 2 batches of 8, 6–8 min each, flipping once, until crisp. Chop.",
     "Egg pucks: whisk 16 OrgaNICK eggs and 360 g (1½ cups) organic liquid egg whites. No salt (the everything seasoning brings it). Spray the 12-inch skillet and cook on medium-low in 2 batches, stirring slowly, until barely set and still glossy, ~4 min each. Fold in the bacon, 224 g (2 cups) shredded sharp cheddar, and 2 Tbsp chopped chives.",
     "Divide into 16 mounds (~75 g each) on 2 parchment-lined trays, press into 3-inch discs, and chill 20 min (fridge or freezer) until firm.",
-    "Dough: whisk 600 g (5 cups, spooned and leveled) organic all-purpose flour, 2 Tbsp (24 g) aluminum-free baking powder, 1 tsp (6 g) fine sea salt (halved from 2 tsp for the salty topping), and 60 g (2 scoops) unflavored grass-fed whey. Add 800 g (3½ cups) plain nonfat Greek yogurt and 2 tsp honey; stir, then knead 1–2 min until smooth and slightly tacky (add 1 Tbsp flour at a time if sticky). Cover with a towel."
+    "Dough: whisk 600 g (5 cups, spooned and leveled) organic all-purpose flour, 2 Tbsp (24 g) aluminum-free baking powder, 1 tsp (6 g) fine sea salt (halved from 2 tsp for the salty topping), and 60 g (2 scoops) unflavored grass-fed whey. Add 800 g (3½ cups) plain organic 100% grass-fed Greek yogurt (whole milk) and 2 tsp honey; stir, then knead 1–2 min until smooth and slightly tacky (add 1 Tbsp flour at a time if sticky). Cover with a towel."
    ]
   },
   {
@@ -566,7 +566,7 @@
     "On a floured board roll each piece into a 5-inch circle, set a chilled puck in the center, pull the edges up, and pinch firmly to seal. Seam-side down on parchment.",
     "Egg wash: beat 2 eggs with 2 Tbsp water and brush the tops. Sprinkle each with 1 tsp organic everything bagel seasoning (16 tsp ≈ 5⅓ Tbsp, ~45 g total) and press lightly so it sticks. No extra salt or cheese on top.",
     "Air-fry 4 at a time on parchment at 330°F for 12–14 min, until deep golden and 165°F in the center (the bottoms sound hollow). Batches at ~2:15, 2:30, 2:45, 3:00. Cool on a rack.",
-    "Macros per bun: ~382 cal · 30 g protein · 33 g carbs · 13.5 g fat."
+    "Macros per bun: ~397 cal · 30 g protein · 33 g carbs · 15 g fat (with grass-fed whole-milk Greek yogurt)."
    ]
   },
   {
@@ -618,7 +618,7 @@
   {
    "t": "5:00",
    "title": "Dinner, then set up Monday",
-   "step": "Rory's plate: 190 g shredded beef with juices, 150 g mash, 150 g slaw (~580 cal, 55 g protein). Hot sauce on the side for Rory only.",
+   "step": "Rory's plate: 190 g shredded beef with juices, 150 g mash, 150 g slaw (~585 cal, 55 g protein). Hot sauce on the side for Rory only.",
    "details": [
     "Within 2 hours of dinner: weigh ~750 g shredded beef and add 1 cup of the juices to a glass container for Monday's tacos. Fridge.",
     "Extra juices go in a jar in the fridge (great over rice or mash). Leftover mash goes in a container for grown-up lunches (fridge, Mon–Tue)."
@@ -648,7 +648,7 @@
    "items": [
     "OrgaNICK Pastures Corn & Soy Feed Free Regeneratively Farmed Pasture-Raised Organic Large Brown Eggs (12 ct): 5 dozen (egg bites, fried-egg toppers, 1 for Chloe's meatballs, 18 for the bodega buns)",
     "Organic low-fat cottage cheese: 3 × 24 oz (egg bites, Creami)",
-    "Organic plain nonfat Greek yogurt: 5 × 32 oz (yogurt bowls, mash, burger sauce, honey mustard, tacos, Creami, 800 g for the bodega bun dough)",
+    "Organic plain organic 100% grass-fed Greek yogurt (whole milk): 5 × 32 oz (yogurt bowls, mash, burger sauce, honey mustard, tacos, Creami, 800 g for the bodega bun dough)",
     "Organic shredded cheddar: 3 × 6 oz (Wed bowls, Mon tacos optional, 224 g for the bodega buns)",
     "Organic Parmesan, wedge or grated: 1 (zucchini fries, Chloe's meatballs)",
     "Organic milk: ½ gallon (Creami re-spins)",
@@ -856,10 +856,10 @@
   },
   "mash": {
    "name": "Mashed potatoes (broth + Greek yogurt)",
-   "cal": 85,
-   "protein": 2.8,
+   "cal": 88,
+   "protein": 2.7,
    "carbs": 16.5,
-   "fat": 0.8
+   "fat": 1.1
   },
   "broccoli": {
    "name": "Broccoli, roasted (spray)",
@@ -960,11 +960,11 @@
    "fat": 2.9
   },
   "yogurt": {
-   "name": "Plain nonfat Greek yogurt",
-   "cal": 59,
-   "protein": 10.3,
-   "carbs": 3.6,
-   "fat": 0.4
+   "name": "Grass-fed whole-milk Greek yogurt (Stonyfield)",
+   "cal": 88,
+   "protein": 9.4,
+   "carbs": 4.1,
+   "fat": 3.5
   },
   "tzatziki": {
    "name": "Greek yogurt tzatziki",
@@ -975,10 +975,10 @@
   },
   "burgersauce": {
    "name": "Greek yogurt burger sauce",
-   "cal": 65,
-   "protein": 7.5,
-   "carbs": 6.5,
-   "fat": 0.5
+   "cal": 87,
+   "protein": 6.8,
+   "carbs": 6.9,
+   "fat": 2.8
   },
   "cheddar": {
    "name": "Shredded cheddar",
