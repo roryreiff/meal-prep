@@ -8,7 +8,7 @@
 
   const DAY_ORDER = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
   function byDayOrder(a, b) {
-    // First-cook night (Sun Oct 11) stays pinned at the top; then Mon→Sun.
+    // First-cook night (Sun Oct 18) stays pinned at the top; then Mon→Sun.
     const aFirst = a.firstCook ? 0 : 1;
     const bFirst = b.firstCook ? 0 : 1;
     if (aFirst !== bFirst) return aFirst - bFirst;
@@ -20,7 +20,7 @@
     const titles = {
     menu: ["This week", null],
     grocery: ["Grocery list", "Sprouts · estimates labeled · check as you shop"],
-    prep: ["Sunday prep", "Sun Oct 11 · ~3½ hrs hands-on + dinner · check off as you go"],
+    prep: ["Sunday prep", "Sun Oct 18 · ~3 hrs hands-on + dinner · check off as you go"],
     calc: ["Macro calculator", "Weigh · estimate · hit ~600 cal / 45g+ protein"],
     ratings: ["Ratings", "Thumbs + notes so favorites rotate back in"],
   };
