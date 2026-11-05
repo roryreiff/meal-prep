@@ -1,206 +1,209 @@
 {
- "weekLabel": "Sun Nov 1 cook · Mon Nov 2 – Sun Nov 8",
- "headcount": 4,
+ "weekLabel": "Sun Nov 8 cook · Mon Nov 9 – Sun Nov 15",
+ "headcount": 3,
  "household": [
   "Rory",
   "Wendy",
-  "Chloe",
-  "+ 1 adult guest (through Nov 8)"
+  "Chloe"
  ],
  "targets": {
   "calories": 600,
   "protein": 45
  },
- "notes": "Headcount 4 (Rory, Wendy, Chloe + 1 adult guest through Nov 8; no guest Tuesday). Tue Nov 3 = car dinner after dance + Wendy's bowl; Sat Nov 7 = night out. Mild for Chloe, heat on the side for Rory. Quality: organic; beef grass-fed/finished; chicken organic AND air-chilled only (Whole Foods this week, since Sprouts listings don't say air-chilled); seafood wild-caught; eggs OrgaNICK Corn & Soy Feed Free; yogurt Kalona grass-fed whole milk. Rice in bone broth; gelatin in beef. Low oil. Named low-cal sides. Macros are estimates.",
+ "notes": "Back to 3 (Rory, Wendy, Chloe). Tue Nov 10 = car dinner after dance + Wendy's bowl; Sat Nov 14 = night out. Mild for Chloe and Wendy, heat on the side for Rory. Quality: organic; beef grass-fed/finished; chicken organic AND air-chilled only (Whole Foods); seafood wild-caught; eggs OrgaNICK Corn & Soy Feed Free; yogurt Maple Hill grass-fed Greek (Publix). Rice in bone broth; gelatin in beef. Low oil. Named low-cal sides. Macros are estimates.",
  "costEstimates": {
   "currency": "USD",
-  "pricedOn": "2026-10-29",
-  "label": "Estimated · Sprouts prices · excl. tax/delivery",
+  "pricedOn": "2026-11-05",
+  "label": "Estimated · excl. tax/delivery",
   "sections": {
-   "Meat & seafood": 203.48,
-   "Eggs & dairy": 75.49,
-   "Organic vegetables": 82.68,
-   "Organic fruit": 62.73,
-   "Pantry & house staples": 59.74
+   "Meat & seafood": 158.73,
+   "Eggs & dairy": 113.44,
+   "Organic vegetables": 57.46,
+   "Organic fruit": 56.54,
+   "Pantry & house staples": 78.71
   },
-  "coreTotal": 484.12,
-  "withPantryLow": 484.12,
-  "note": "Sprouts $423.19 + Whole Foods $60.93 (air-chilled chicken + Bell & Evans nuggets). Unit prices from Oct 8–22 Sprouts lookups plus Oct 29 checks (WF air-chilled thighs $7.99/lb, Hero tortillas $8.29); items marked est are estimates. Unpriced: Noble isolate (check-off)."
+  "coreTotal": 464.88,
+  "withPantryLow": 464.88,
+  "note": "Whole Foods (Amazon) $70.91 + Sprouts $319.87 + Publix (Instacart) $74.10. Unit prices from Oct 8–29 Sprouts/WF lookups and a Nov 5 Publix check (Maple Hill $7.41/16 oz); items marked est are estimates. Unpriced: Noble isolate, cacao nibs (check-off)."
  },
  "dinners": [
   {
    "day": "Sun",
-   "date": "Nov 1",
-   "name": "Cheeseburger bowls (grass-fed beef + 80/20 cauliflower rice)",
-   "desc": "Rotation favorite (~60 g protein, under 600 cal, huge plate). Grass-fed 93% beef browned with gelatin and onion, over an 80/20 cauliflower-and-bone-broth-rice blend, with romaine, tomato, pickles, a little Grassmilk cheddar and a Kalona burger sauce. Cooked fresh at the end of the batch cook; no leftovers by design. Chloe's: beef, plain rice, cheddar, cucumber.",
-   "side": "Romaine, tomato + dill pickle 'burger salad' built into the bowl",
+   "date": "Nov 8",
+   "name": "Rory's Mild Apple-Ginger Braised Chuck Roast",
+   "desc": "The household favorite, Rory's original method: no sear, miso + tomato paste, gelatin in the broth, 325°F covered 4 hours, shredded into its juices. Served with bone broth rice and honey-ginger glazed carrots. Makes Chloe's Monday lunch and Wednesday's roast-beef rice bowls.",
+   "side": "Honey-ginger broth-glazed carrots",
    "anchor": true,
    "firstCook": true,
    "plate": [
     {
-     "id": "gbeef93",
+     "id": "agchuck",
      "g": 170
-    },
-    {
-     "id": "blend80",
-     "g": 250
-    },
-    {
-     "id": "burgerveg",
-     "g": 100
-    },
-    {
-     "id": "burgersauce_k",
-     "g": 30
-    },
-    {
-     "id": "cheddar",
-     "g": 15
-    }
-   ],
-   "recipe": {
-    "serves": "4 (cooked beef: Rory 170 g · guest 170 · Wendy 140 · Chloe 70; ~100 g spare)",
-    "time": "30 min, fresh-cooked at 4:55 PM",
-    "ingredients": [
-     "2 lb (907 g) organic grass-fed 93% lean ground beef (fridge, from Saturday's delivery)",
-     "1 tsp (3 g) gelatin bloomed in 3 Tbsp (45 g) bone broth",
-     "½ yellow or red onion, finely diced (~80 g)",
-     "1¼ tsp kosher salt, ½ tsp pepper, 1 tsp garlic powder, ½ tsp onion powder, ½ tsp smoked paprika, 1 Tbsp (15 g) organic ketchup, 1 tsp (5 g) yellow mustard",
-     "Rice blend (~700 g): 2 × 12 oz bags organic frozen riced cauliflower (680 g) + 140 g bone broth rice (from today's batch), ½ tsp salt. Plus 100 g plain bone broth rice for Chloe.",
-     "Burger salad (~400 g): 1 romaine heart chopped (~200 g), 2 Roma tomatoes diced (~200 g), 40 g organic dill pickle chips chopped",
-     "Kalona burger sauce (~150 g): 90 g Kalona whole-milk yogurt, 25 g organic ketchup, 20 g chopped dill pickles + 1 tsp brine, 10 g yellow mustard, ¼ tsp garlic powder, pinch of smoked paprika and salt",
-     "60 g Organic Valley Grassmilk cheddar, finely shredded (Rory 15 g)",
-     "Rory only: hot sauce on the side"
-    ],
-    "steps": [
-     "4:55: bloom the gelatin in the broth 5 min. Stir the sauce together; chop the salad.",
-     "5:00: 12-in stainless skillet over medium-high, spray once. Add the onion 2 min, then the beef; break it up and leave it 3–4 min to brown. Stir, season, add the ketchup, mustard and bloomed gelatin; cook 2–3 min until glossy and 160°F with no pink. No added oil; spoon off any fat if there is any.",
-     "5:05 (same time): riced cauliflower in a 10-in skillet or wide pan, dry over medium-high 7–8 min, stirring, until the water is gone. Fold in the 140 g bone broth rice and ½ tsp salt; 2 min more to steaming.",
-     "Build bowls: blend, beef, salad, cheddar, sauce. Chloe: 70 g beef, 100 g plain rice, cheddar, cucumber sticks.",
-     "Rory: 170 g beef, 250 g blend, 100 g salad, 30 g sauce, 15 g cheddar ≈ 551 cal / 58 g P."
-    ],
-    "leftovers": "No planned leftovers (by design). Spare ~100 g beef → the next day's lunch, fridge, eat by Tue."
-   },
-   "sideRecipes": [
-    {
-     "title": "Lemon-oregano chicken breasts (Sunday, for the 'fire' lunches + Tue car dinner)",
-     "serves": "3 lb raw → ~1,020 g cooked: 3 × 200 g lunches + 370 g for Tuesday (Rory 160 · Wendy 150 · Chloe 60) + ~50 g spare",
-     "time": "10 min + ~50 min air fryer (3 batches)",
-     "ingredients": [
-      "3 lb (1.36 kg) organic AIR-CHILLED boneless skinless chicken breasts, thick ends pounded to ¾ in",
-      "Zest of 1 lemon + 30 g lemon juice",
-      "2 g (1 tsp) dried oregano, 4 g (1½ tsp) garlic powder, 2 g (1 tsp) smoked paprika",
-      "9 g (1½ tsp) kosher salt, ½ tsp pepper, avocado-oil spray"
-     ],
-     "steps": [
-      "Toss the chicken with the lemon, spices and salt; spray lightly.",
-      "Air-fry at 380°F 14–18 min per batch (don't stack), flipping halfway, to 165°F. Rest 5 min, slice.",
-      "Portion (fridge): 3 lunch containers × 200 g, 1 Tuesday container of 370 g."
-     ]
-    },
-    {
-     "title": "Rory's 'fire' lunch boxes ×3 (Mon–Wed) + aji verde + peas and carrots (Sunday)",
-     "serves": "3 grown-up lunches + Wendy's Tue bowl + Chloe's Tue fried rice",
-     "time": "15 min",
-     "ingredients": [
-      "600 g lemon-oregano chicken (above), 360 g bone broth rice (today's batch)",
-      "Peas and carrots (~460 g cooked): 2 × 16 oz bags organic frozen peas and carrots (use ~480 g; rest stays frozen), 2 Tbsp bone broth, ¼ tsp salt, ½ tsp honey, squeeze of lemon",
-      "Aji verde (~250 g): 170 g Kalona whole-milk yogurt, 30 g cilantro (stems ok), 15 g grated parmesan, 15 g lime juice, 1 garlic clove, 3 g salt; blend smooth. Rory's spicy jar: blend ⅓ of it with ½ jalapeño if you have one."
-     ],
-     "steps": [
-      "Peas and carrots: covered 10-in pan with the broth over medium 5–6 min until hot; season with salt, honey, lemon. Cool 10 min.",
-      "Blend the aji verde 30 s; pour into 4 small lidded steel cups (40 g each) + 1 jar for Tuesday (~70 g).",
-      "Each lunch container: 200 g chicken + 120 g rice + 100 g peas and carrots; aji verde cup on top (fridge, Mon–Wed). Reheat 2–2½ min covered to 165°F, then add the aji verde cold.",
-      "Set aside 100 g peas and carrots for Wendy's Tue bowl and 40 g for Chloe's Tue fried rice.",
-      "Per lunch ≈ 580 cal · 72 g P · 47 g C · 10 g F (Rory's 'fire' numbers)."
-     ]
-    },
-    {
-     "title": "Chloe's Monday jar: frozen mini meatballs + orzo (Sunday, 12 min)",
-     "serves": "1 lunch",
-     "time": "12 min",
-     "ingredients": [
-      "5 frozen mini grass-fed beef meatballs (from the Oct 25 batch; ~22 are left in the freezer)",
-      "45 g dry orzo (on hand) → ~100 g cooked",
-      "¼ cup mild organic marinara (on hand), 1 tsp grated parmesan"
-     ],
-     "steps": [
-      "Cook the orzo 8–9 min in salted water; drain.",
-      "Container: 5 meatballs (straight from the freezer; they thaw overnight in the fridge), 100 g orzo, ¼ cup marinara (fridge).",
-      "Mon morning: heat covered in a small saucepan with 1 Tbsp water 6–8 min, stirring, to 165°F. Pack hot in the preheated jar, parmesan on top."
-     ]
-    },
-    {
-     "title": "Optional: homemade protein bars ×6 (only if you didn't make them this week)",
-     "serves": "6 bars (~65 g each) · ≈ 200 cal · 20 g P each (estimates)",
-     "time": "15 min hands-on + 1 hr chill",
-     "ingredients": [
-      "120 g Noble vanilla beef isolate",
-      "60 g organic creamy almond butter (bought last week)",
-      "30 g organic almond flour (on hand)",
-      "30 g organic maple syrup",
-      "20 g organic mini dark chocolate chips (10 g in, 10 g on top)",
-      "40–60 g Grassmilk whole milk, 10 g at a time",
-      "2 g vanilla, pinch of salt"
-     ],
-     "steps": [
-      "Line an 8×4-in loaf pan with parchment.",
-      "Stir the almond butter, maple, vanilla and 40 g milk smooth; add the isolate, almond flour and salt; knead, adding milk 10 g at a time until it holds like play-dough.",
-      "Fold in 10 g chips, press firmly into the pan, press the other 10 g on top.",
-      "Chill 1 hr, cut 6 bars. Fridge 7 days or freezer 2 months."
-     ]
-    }
-   ],
-   "cal": 551,
-   "protein": 58
-  },
-  {
-   "day": "Mon",
-   "date": "Nov 2",
-   "name": "Miso-honey-ginger wild salmon",
-   "desc": "Wild sockeye with a mild white-miso, honey and ginger glaze, roasted at 425°F and flashed under the broiler. Bone broth rice from Sunday, sesame-garlic asparagus. Chili crisp on the side for Rory.",
-   "side": "Sesame-garlic roasted asparagus",
-   "plate": [
-    {
-     "id": "salmon_mh",
-     "g": 190
     },
     {
      "id": "bbrice",
      "g": 120
     },
     {
-     "id": "sesasp",
+     "id": "hgcarrots",
      "g": 150
     }
    ],
    "recipe": {
-    "serves": "4 (raw: Rory ~230 g · guest ~220 · Wendy ~200 · Chloe ~90)",
-    "time": "25 min, fresh-cooked",
+    "serves": "3 tonight (cooked beef: Rory 170 g · Wendy 140 · Chloe 70) + 360 g for Wed bowls + 70 g for Chloe's Mon lunch",
+    "time": "15 min prep · 4 hr covered at 325°F · in the oven by 12:45 PM · dinner ~5:15",
     "ingredients": [
-     "1.75 lb (800 g) wild-caught sockeye, cut in 4 portions (frozen on delivery; fridge Sunday morning)",
-     "Glaze (~65 g): 20 g white miso, 15 g honey, 10 g coconut aminos, 5 g fresh ginger grated, 1 garlic clove grated, 5 g lime juice",
-     "Sesame-garlic asparagus (~500 g cooked; Rory 150 · guest 150 · Wendy 120 · Chloe 50): 2 lb (2 bunches) asparagus, woody ends snapped; spray, ½ tsp salt, 1 garlic clove grated, 1 tsp (5 g) toasted sesame oil tossed on after roasting, 3 g toasted sesame seeds",
-     "420 g bone broth rice (fridge, Sunday) + 2 Tbsp broth",
-     "Rory only: chili crisp or sriracha on the side"
+     "3 lb (1.36 kg) grass-fed chuck roast (fridge, from Saturday's delivery)",
+     "1 apple, grated (~180 g)",
+     "1 medium yellow onion, diced (~150 g)",
+     "4 garlic cloves, minced",
+     "10 g fresh ginger, grated (1-in piece)",
+     "42 g (2 Tbsp) honey",
+     "30 g (2 Tbsp) apple cider vinegar",
+     "120 g (½ cup) low-sodium tamari",
+     "480 g (2 cups) organic bone broth, the only other liquid. Bloom 10 g (1½ Tbsp) gelatin in 60 g of this measured broth.",
+     "14 g (1 Tbsp) toasted sesame oil",
+     "16 g (1 Tbsp) tomato paste + 6 g (1 tsp) white miso whisked into a little of the broth",
+     "1¼ tsp kosher salt, ¾ tsp pepper. No oil, no sear.",
+     "Optional: 1 cinnamon stick + 1 star anise for the first 3 hours; sliced green onion + sesame seeds to finish",
+     "340 g bone broth rice (from today's batch): Rory 120 · Wendy 120 · Chloe 100"
     ],
     "steps": [
-     "5:00: oven to 425°F, racks upper-middle and lower-middle; 2 parchment-lined half-sheet pans. Whisk the glaze.",
-     "Asparagus on pan B: spray, salt, garlic; in at 5:05 on the lower rack, 12–14 min until tender-crisp, shaking once. Toss with the sesame oil and seeds.",
-     "Pat the salmon dry, skin-side down on pan A (sprayed), salt lightly, brush on ⅔ of the glaze.",
-     "5:10: salmon on the upper rack 9–11 min, then broil 1–2 min (watch it) until the glaze bubbles and the thickest part is 145°F / flakes. Pull Chloe's piece 2 min early. Brush on the rest of the glaze.",
+     "12:15 PM: oven to 325°F, rack low enough for the covered ceramic pot (5–6 qt Dutch oven works too).",
+     "Pat the roast dry, season all sides with salt and pepper. No sear: straight into the pot.",
+     "Add the apple, onion, garlic, ginger, honey, vinegar, tamari, broth with the bloomed gelatin, sesame oil, tomato paste and miso. Turn the roast to coat. Add cinnamon/star anise if using.",
+     "By 12:45: lid on tight, braise 4 hours undisturbed. Pull the cinnamon/star anise at 3:45.",
+     "4:45: done when it shreds easily with two forks (~200–205°F inside). If it resists, 20–30 min more.",
+     "4:50: shred in the pot and toss through the juices. If the sauce is thin, simmer uncovered on the stove 5–8 min to reduce.",
+     "Before plating, pack: Wed container 360 g beef + ½ cup juices (fridge, eat by Wed) and Chloe's Mon container 70 g beef + 1 Tbsp juices + 100 g rice (fridge).",
+     "Rory: 170 g beef with juices, 120 g rice, 150 g carrots ≈ 585 cal / 52 g P."
+    ],
+    "scale": "His original is written for a 3–4 lb roast, so 3 lb is 1× with the original liquid amounts.",
+    "leftovers": "360 g beef → Wed bowls (fridge). 70 g → Chloe's Mon lunch (fridge). Nothing else planned."
+   },
+   "sideRecipes": [
+    {
+     "title": "Honey-ginger broth-glazed carrots",
+     "serves": "~420 g cooked (Rory 150 · Wendy 120 · Chloe 60; rest for snacks)",
+     "time": "15 min, start 4:55",
+     "ingredients": [
+      "500 g organic carrots (from the 2 lb bag), peeled, cut in ¼-in coins",
+      "100 g bone broth",
+      "8 g honey",
+      "5 g fresh ginger, grated",
+      "¼ tsp kosher salt, squeeze of lemon"
+     ],
+     "steps": [
+      "10-in skillet with a lid: carrots + broth + ginger, covered over medium-high 7–8 min until just tender.",
+      "Uncover, add the honey and salt, cook 3–4 min more, tossing, until the liquid is a glaze. Lemon to finish."
+     ]
+    },
+    {
+     "title": "Lemon-oregano chicken breasts (Sunday: 9 lunches + Tue car dinner)",
+     "serves": "6 lb raw → ~2,020 g cooked: Rory 5 × 200 g · Wendy 4 × 150 g · Tue 370 g (Rory 160 · Wendy 150 · Chloe 60) · ~50 g spare",
+     "time": "15 min + ~80 min air fryer (4 batches, mostly hands-off)",
+     "ingredients": [
+      "6 lb (2.72 kg) organic AIR-CHILLED boneless skinless chicken breasts, thick ends pounded to ¾ in",
+      "Zest of 2 lemons + 60 g lemon juice",
+      "4 g (2 tsp) dried oregano, 8 g (1 Tbsp) garlic powder, 4 g (2 tsp) smoked paprika",
+      "18 g (1 Tbsp) kosher salt, 1 tsp pepper, avocado-oil spray"
+     ],
+     "steps": [
+      "Toss the chicken with the lemon, spices and salt in a big bowl; spray lightly.",
+      "Air-fry about 1½ lb per batch at 380°F 16–18 min (single layer, don't stack), flipping halfway, to 165°F. Batches at ~1:00, 1:20, 1:40, 2:00.",
+      "Rest 5 min, slice, and weigh into the containers in the 2:25 step."
+     ]
+    },
+    {
+     "title": "'Fire' lunch boxes: Rory ×5 (Mon–Fri) + Wendy ×4 (Mon–Thu), peas and carrots, aji verde",
+     "serves": "9 lunches + Wendy's Tue bowl + Chloe's Tue fried rice",
+     "time": "25 min",
+     "ingredients": [
+      "Chicken from above: Rory 5 × 200 g, Wendy 4 × 150 g",
+      "Bone broth rice (today's batch): 9 × 120 g = 1,080 g",
+      "Peas and carrots (~1,300 g cooked): 3 × 16 oz bags organic frozen peas and carrots, 90 g bone broth, ¾ tsp salt, 1½ tsp honey, juice of ½ lemon. Rory 150 g per box, Wendy 100 g per box, + 100 g Wendy Tue, + 40 g Chloe Tue.",
+      "Aji verde, Sunday batch (~305 g, for Mon–Wed): 220 g Maple Hill Greek yogurt, 40 g cilantro (stems ok), 20 g grated parmesan, 20 g lime juice, 1 large garlic clove, 4 g salt. Blend smooth.",
+      "Aji verde, Wed-night mini batch (~118 g, for Thu–Fri): 85 g Maple Hill, 15 g cilantro, 8 g parmesan, 8 g lime juice, ½ garlic clove, 1.5 g salt. Rory's heat: blend a little jalapeño or hot sauce into his cups only."
+     ],
+     "steps": [
+      "Peas and carrots in 2 batches: 12-in pan, covered, with 45 g broth each, medium heat 6–7 min until hot; season with salt, honey and lemon. Spread on a plate to cool 10 min.",
+      "Blend the Sunday aji verde 30 s. Portion 6 lidded steel cups × 40 g (Rory + Wendy Mon–Wed) and a Tue jar of 70 g (Rory 30 · Wendy 40). Fridge.",
+      "Rory's boxes (×5): 200 g chicken + 120 g rice + 150 g peas and carrots. Wendy's boxes (×4): 150 g chicken + 120 g rice + 100 g peas and carrots.",
+      "FRIDGE: Rory Mon/Tue/Wed + Wendy Mon/Tue/Wed. FREEZER: Rory Thu + Fri, Wendy Thu (move to the fridge the night before).",
+      "Reheat: lid cracked, microwave 2½–3 min (from fridge) to 165°F, stirring once; add the aji verde cold after.",
+      "Rory's box ≈ 623 cal · 77 g P · 52 g C · 10 g F with 40 g aji verde. Wendy's ≈ 497 cal · 61 g P."
+     ]
+    },
+    {
+     "title": "Chloe's Thursday jar: frozen mini meatballs + orzo (Sunday, 12 min, frozen)",
+     "serves": "1 lunch",
+     "time": "12 min",
+     "ingredients": [
+      "5 frozen mini grass-fed beef meatballs (from the Oct 25 batch; ~17 left in the freezer)",
+      "45 g dry orzo (on hand) → ~100 g cooked",
+      "¼ cup (60 g) mild organic marinara (on hand), 1 tsp grated parmesan"
+     ],
+     "steps": [
+      "Cook the orzo 8–9 min in salted water; drain and cool.",
+      "Container: 5 meatballs + 100 g orzo + 60 g marinara. FREEZER (Thu is frozen-on-Sunday). Move to the fridge Wed night.",
+      "Thu morning: heat covered in a small saucepan with 1 Tbsp water 6–8 min, stirring, to 165°F. Pack hot in the preheated jar, parmesan on top."
+     ]
+    }
+   ],
+   "cal": 585,
+   "protein": 52
+  },
+  {
+   "day": "Mon",
+   "date": "Nov 9",
+   "name": "Chermoula wild salmon + lemon-garlic asparagus",
+   "desc": "Wild sockeye brushed with a mild herb-lemon-cumin chermoula (made Sunday) and roasted at 425°F, with Sunday's bone broth rice and lemon-garlic roasted asparagus. Red pepper flakes or Aleppo stirred into Rory's chermoula only.",
+   "side": "Lemon-garlic roasted asparagus",
+   "plate": [
+    {
+     "id": "salmon_ch",
+     "g": 190
+    },
+    {
+     "id": "chermoula",
+     "g": 15
+    },
+    {
+     "id": "bbrice",
+     "g": 120
+    },
+    {
+     "id": "laspar",
+     "g": 150
+    }
+   ],
+   "recipe": {
+    "serves": "3 (raw salmon: Rory ~240 g · Wendy ~200 · Chloe ~100)",
+    "time": "25 min, fresh-cooked",
+    "ingredients": [
+     "1.25 lb (567 g) wild-caught sockeye, cut in 3 portions (frozen on delivery; fridge Sunday morning)",
+     "Chermoula (~100 g, made Sunday, fridge): 20 g cilantro + 15 g parsley chopped fine, 1 garlic clove grated, 3 g (1 tsp) cumin, 2 g (1 tsp) smoked paprika, zest of ½ lemon + 20 g lemon juice, 14 g (1 Tbsp) extra-virgin olive oil, 15 g water, 2 g salt. Half brushes the fish; half is the table sauce (Rory 15 g).",
+     "Lemon-garlic asparagus (~330 g cooked; Rory 150 · Wendy 120 · Chloe 50): 1.5 lb asparagus (2 bunches, use most), woody ends snapped; spray, ½ tsp salt, 1 garlic clove grated, zest of ½ lemon + squeeze",
+     "330 g bone broth rice (fridge, Sunday): Rory 120 · Wendy 110 · Chloe 100, + 2 Tbsp broth",
+     "Rory only: Aleppo or red pepper flakes in his chermoula"
+    ],
+    "steps": [
+     "5:00: oven to 425°F, racks upper-middle and lower-middle; 2 parchment-lined half-sheet pans.",
+     "Asparagus on pan B with spray, salt and garlic; in at 5:05 on the lower rack, 12–14 min, shaking once. Zest and lemon after.",
+     "Pat the salmon dry, skin-side down on sprayed pan A, salt lightly, brush with half the chermoula.",
+     "5:10: salmon on the upper rack 10–12 min until the thickest part is 145°F and flakes. Pull Chloe's piece 2 min early.",
      "Rice: covered with 2 Tbsp broth, microwave 2–3 min to steaming.",
-     "Rory: 190 g cooked salmon, 120 g rice, 150 g asparagus ≈ 574 cal / 58 g P."
+     "Rory: 190 g cooked salmon, 15 g chermoula, 120 g rice, 150 g asparagus ≈ 569 cal / 59 g P."
     ]
    },
-   "cal": 574,
-   "protein": 58
+   "cal": 569,
+   "protein": 59
   },
   {
    "day": "Tue",
-   "date": "Nov 3",
+   "date": "Nov 10",
    "name": "Car dinner after dance (Rory + Chloe) · Wendy's 'fire' bowl at home",
-   "desc": "Lemon-oregano chicken wraps on Hero tortillas with aji verde and hummus, plus cucumber and pepper spears, eaten in the car. Wendy gets the 'fire' bowl at home: chicken, bone broth rice, peas and carrots, aji verde. No guests Tuesday.",
+   "desc": "Lemon-oregano chicken wraps on Hero tortillas with hummus and aji verde, plus cucumber and pepper spears, eaten in the car. Wendy gets the 'fire' bowl at home. Dessert in the car: a small cup of Maple Hill with honey, since the Creami doesn't travel.",
    "side": "Cucumber + red bell pepper spears (+ apple slices for Chloe)",
    "plate": [
     {
@@ -216,7 +219,7 @@
      "g": 30
     },
     {
-     "id": "ajiverde_k",
+     "id": "ajiverde_mh",
      "g": 30
     },
     {
@@ -231,120 +234,125 @@
      "370 g lemon-oregano chicken, sliced (fridge, Sunday): Rory 160 g, Wendy 150 g, Chloe 60 g",
      "3 Hero flour tortillas (44 g each): 2 Rory, 1 Chloe",
      "Cedar's organic hummus: 30 g Rory, 15 g Chloe",
-     "Aji verde (Sunday jar): 30 g Rory (from his spicy jar), 40 g Wendy; none for Chloe",
-     "Spears: 1 English cucumber + 1 red bell pepper cut in sticks (~350 g; Rory 150 g, Chloe 100 g, a few into the wraps); 1 small apple sliced for Chloe",
+     "Aji verde (Sunday Tue jar): 30 g Rory, 40 g Wendy; none for Chloe",
+     "Spears: 1 English cucumber + 1 red bell pepper in sticks (~350 g; Rory 150 g, Chloe 100 g, a few into the wraps); 1 small apple sliced for Chloe",
      "Wendy's bowl: 150 g chicken + 120 g bone broth rice + 100 g peas and carrots (all from Sunday) + 40 g aji verde + lemon wedge",
-     "Packing: parchment, foil, insulated bag, napkins; Rory's hot sauce packet"
+     "Car dessert: 100 g Maple Hill + 10 g honey in a small lidded steel cup (Rory; Chloe gets a smaller one if she wants)",
+     "Packing: parchment, foil, insulated bag with an ice pack for the yogurt, napkins; Rory's hot sauce packet"
     ],
     "steps": [
      "Warm Rory's and Chloe's chicken in a stainless skillet with 1 Tbsp broth 3–4 min to 165°F.",
      "Warm the tortillas 15–20 s per side in a dry skillet. Spread hummus, add chicken, a few cucumber sticks and Rory's aji verde. Fold the sides and roll tight.",
      "Toast seam-side down 1–2 min per side until sealed. Wrap in parchment, then foil. Eat within 2 hours.",
      "Wendy: microwave her chicken + rice + peas and carrots covered 2–2½ min to 165°F; add the aji verde and lemon.",
-     "Rory: 2 wraps (88 g tortillas, 160 g chicken, 30 g hummus, 30 g aji verde) + 150 g spears ≈ 538 cal / 68 g P."
+     "Rory: 2 wraps (88 g tortillas, 160 g chicken, 30 g hummus, 30 g aji verde) + 150 g spears ≈ 545 cal / 70 g P."
     ]
    },
-   "cal": 538,
-   "protein": 68
+   "cal": 545,
+   "protein": 70
   },
   {
    "day": "Wed",
-   "date": "Nov 4",
-   "name": "Grass-fed beef & broccoli",
-   "desc": "Thin-sliced grass-fed sirloin seared hard in batches, glossy tamari-honey-ginger sauce thickened with gelatin and bone broth (no cornstarch, 1 tsp sesame oil), broth-steamed broccoli, Sunday's bone broth rice. Mild for Chloe; chili crisp on the side for Rory. Makes Thursday's lunches.",
-   "side": "Broth-steamed broccoli (in the dish)",
+   "date": "Nov 11",
+   "name": "Apple-ginger beef rice bowls with a fried egg",
+   "desc": "Sunday's shredded chuck re-crisped in a hot skillet with its juices, over bone broth rice, a fried OrgaNICK egg on top (house favorite), and smashed cucumber salad. 20 minutes, all from the fridge. Chili crisp on the side for Rory.",
+   "side": "Smashed cucumber salad (coconut aminos, lime, garlic, sesame seeds)",
    "plate": [
     {
-     "id": "beefbroc",
-     "g": 170
-    },
-    {
-     "id": "broc_st",
+     "id": "agchuck",
      "g": 150
     },
     {
      "id": "bbrice",
-     "g": 130
-    }
-   ],
-   "recipe": {
-    "serves": "4 + 3 Thu lunches (100 g beef each) + Chloe's Thu jar (60 g)",
-    "time": "35 min, fresh-cooked",
-    "ingredients": [
-     "2.5 lb (1.13 kg) grass-fed top sirloin (frozen on delivery; fridge Mon night), sliced ¼ in thick against the grain (easiest when still slightly firm)",
-     "½ tsp kosher salt + 1 Tbsp (15 g) tamari to toss the beef",
-     "Sauce: 180 g bone broth with 2 tsp (6 g) gelatin bloomed in it, 45 g low-sodium tamari, 20 g honey, 15 g fresh ginger grated, 4 garlic cloves grated, 10 g lime juice, 5 g (1 tsp) toasted sesame oil",
-     "Broccoli: 2.5 lb crowns cut in florets (~850 g), 120 g bone broth, ¼ tsp salt",
-     "450 g bone broth rice (fridge, Sunday) + 2 Tbsp broth; sliced green onion + sesame seeds to finish",
-     "Rory only: chili crisp on the side"
-    ],
-    "steps": [
-     "5:00: toss the beef with the salt and 1 Tbsp tamari. Bloom the gelatin in the broth 5 min, then whisk in the rest of the sauce.",
-     "5:05: broccoli in a 12-in stainless skillet with the 120 g broth, covered, high heat 4–5 min until bright green and just tender. Salt; tip into a bowl.",
-     "5:12: wipe the pan, high heat 2 min, spray. Sear the beef in 3 batches in one layer, 60–90 s per side until browned; out to a plate.",
-     "5:22: pour the sauce in and boil 3–4 min, stirring, until it coats a spoon (the gelatin and honey make it glossy). Return the beef and its juices 1 min to 145°F, then fold in the broccoli.",
-     "Rice: covered with 2 Tbsp broth, microwave 2–3 min to steaming.",
-     "Before serving, pack Thursday: 3 lunch containers × (100 g beef + 100 g broccoli) and Chloe's 60 g beef + 40 g broccoli (fridge). Rice for those is the Thu rice from the freezer.",
-     "Rory: 170 g beef with sauce, 150 g broccoli, 130 g rice ≈ 577 cal / 58 g P."
-    ]
-   },
-   "cal": 577,
-   "protein": 58
-  },
-  {
-   "day": "Thu",
-   "date": "Nov 5",
-   "name": "Greek lemon-garlic chicken thighs + strained-yogurt tzatziki",
-   "desc": "Air-chilled organic thighs marinated in lemon, garlic, oregano and a spoon of yogurt (no oil), roasted together on ONE pan so the juices pool. Sweet potato wedges on two pans, a tzatziki made with strained Kalona yogurt, and a cucumber-tomato-red onion salad. Makes Friday's lunches.",
-   "side": "Roasted sweet potato wedges + cucumber-tomato-red onion salad",
-   "plate": [
-    {
-     "id": "gthigh",
-     "g": 170
+     "g": 120
     },
     {
-     "id": "sweetpot_w",
-     "g": 180
-    },
-    {
-     "id": "tzatziki_k",
+     "id": "egg_fr",
      "g": 50
     },
     {
-     "id": "greeksalad",
+     "id": "smashcuke",
      "g": 120
     }
    ],
    "recipe": {
-    "serves": "4 + 3 Fri lunches (180 g chicken + 120 g sweet potato each)",
-    "time": "Marinate ≥2 hr (Wed night ok) · ~40 min at 425°F",
+    "serves": "3 (beef: Rory 150 g · Wendy 140 · Chloe 70)",
+    "time": "20 min, reheat + assemble",
     "ingredients": [
-     "3.5 lb (1.59 kg) organic AIR-CHILLED boneless skinless chicken thighs (frozen on delivery; fridge Tue night)",
-     "Marinade: zest of 1 lemon + 45 g lemon juice, 6 garlic cloves grated, 3 g (1½ tsp) dried oregano, 2 g (1 tsp) smoked paprika, 10 g (1¾ tsp) kosher salt, ½ tsp pepper, 15 g Kalona yogurt. No oil.",
-     "Sweet potatoes: 3 lb (1.36 kg) in 1-in wedges (skin on), split across TWO parchment-lined pans, spray, 1 tsp salt, ½ tsp smoked paprika, ½ tsp garlic powder",
-     "Tzatziki (~250 g): 300 g Kalona yogurt strained 1–2 hr in a paper-towel-lined sieve (→ ~170 g), ½ English cucumber grated, salted ¼ tsp and squeezed dry (~80 g), 1 garlic clove grated, 8 g fresh dill chopped, 10 g lemon juice, pinch of salt",
-     "Cucumber-tomato-red onion salad (~500 g; Rory 120 · guest 120 · Wendy 100 · Chloe 50 cucumber only): 1 English cucumber diced, 300 g Roma tomatoes diced, ¼ red onion sliced paper-thin and rinsed, 10 g lemon juice, 5 g red wine vinegar, ½ tsp dried oregano, ¼ tsp salt. No oil.",
-     "Rory only: Aleppo pepper or hot sauce on the side"
+     "360 g shredded apple-ginger chuck + ½ cup juices (fridge, from Sunday)",
+     "330 g bone broth rice (fridge, Sunday): Rory 120 · Wendy 110 · Chloe 100, + 2 Tbsp broth",
+     "3 OrgaNICK Corn & Soy Feed Free eggs, avocado-oil spray, pinch of salt",
+     "Smashed cucumber salad (~280 g; Rory 120 · Wendy 100 · Chloe 50 plain): 1 English cucumber smashed and cut in 1-in pieces, salted ½ tsp 10 min and drained; 10 g coconut aminos, 10 g lime juice, 3 g honey, 1 small garlic clove grated, 2 g toasted sesame seeds",
+     "2 green onions sliced, sesame seeds to finish; Rory only: chili crisp"
     ],
     "steps": [
-     "Wed night or Thu morning: toss the thighs with the marinade in a glass container (fridge, 2–24 hr). Thu morning: set the yogurt to strain in the fridge.",
-     "4:30: oven to 425°F, racks upper-middle and lower-middle. Sweet potato wedges onto 2 parchment-lined pans (~680 g each), spray and season.",
-     "4:40: sweet potatoes in on the lower rack (side by side); thighs flat and snug on ONE sprayed, parchment-lined half-sheet pan on the upper rack.",
-     "Roast 30–35 min: thighs to 175°F; sweet potatoes until browned at the edges and soft inside, shaking at 15 and 25 min.",
-     "While it roasts: make the tzatziki and the salad (salad last, so it stays crisp).",
-     "5:15: thighs to a board. Pour the pan juices into a small skillet and boil 2–3 min until syrupy; spoon it over the chicken.",
-     "Pack Friday: 3 lunch containers × (180 g chicken + 120 g sweet potato) + 40 g tzatziki cups (fridge).",
-     "Rory: 170 g chicken, 180 g sweet potato, 50 g tzatziki, 120 g salad ≈ 537 cal / 49 g P."
+     "5:00: smash, salt and drain the cucumber; set Chloe's plain pieces aside; dress the rest.",
+     "5:10: 12-in stainless skillet over medium-high, spray. Beef in an even layer with half the juices; leave it 3–4 min until the edges crisp, toss, add the rest of the juices; 2 min more to 165°F.",
+     "Rice: covered with 2 Tbsp broth, microwave 2–3 min to steaming.",
+     "5:18: wipe the pan, spray, fry the eggs over medium 2–3 min (lid on 30 s for set whites, runny yolk).",
+     "Bowls: rice, beef, egg, green onion, sesame; cucumbers on the side.",
+     "Rory: 150 g beef, 120 g rice, 1 egg, 120 g cucumbers ≈ 584 cal / 53 g P.",
+     "Tonight: blend the Thu–Fri aji verde mini batch; move Rory's Thu box, Wendy's Thu box, Thu rice and Chloe's Thu jar to the fridge."
     ]
    },
-   "cal": 537,
-   "protein": 49
+   "cal": 584,
+   "protein": 53
+  },
+  {
+   "day": "Thu",
+   "date": "Nov 12",
+   "name": "Honey cashew chicken (air-chilled thighs) with broccoli + snap peas",
+   "desc": "Rory's healthy cashew chicken: air-chilled thighs seared hard, glossy tamari-honey-ginger glaze reduced from bone broth (1 tsp sesame oil, no deep-fry, no cornstarch), broth-steamed broccoli and snap peas, toasted cashews on top, over bone broth rice. Mild; chili crisp on the side for Rory. Makes Wendy's Friday lunch.",
+   "side": "Broth-steamed broccoli + sugar snap peas (in the dish)",
+   "plate": [
+    {
+     "id": "cashchick",
+     "g": 180
+    },
+    {
+     "id": "cashews",
+     "g": 10
+    },
+    {
+     "id": "brocsnap",
+     "g": 150
+    },
+    {
+     "id": "bbrice",
+     "g": 90
+    }
+   ],
+   "recipe": {
+    "serves": "3 + Wendy's Fri lunch (cooked chicken: Rory 180 g · Wendy 140 · Chloe 70 · Wendy Fri 150)",
+    "time": "35 min, fresh-cooked",
+    "ingredients": [
+     "1.75 lb (795 g) organic AIR-CHILLED boneless skinless chicken thighs, trimmed, in 1-in pieces (frozen on delivery; fridge Tue night)",
+     "½ tsp kosher salt + 1 Tbsp (15 g) tamari to toss",
+     "Glaze: 150 g bone broth, 40 g low-sodium tamari, 25 g honey, 3 garlic cloves grated, 10 g fresh ginger grated, 10 g lime juice, 5 g (1 tsp) toasted sesame oil",
+     "Veg: 1 lb broccoli crowns in florets (~400 g) + 8 oz sugar snap peas, strings pulled; 100 g bone broth, pinch of salt",
+     "40 g organic dry-roasted unsalted cashews (Rory 10 · Wendy 10 · Chloe 8 · Wendy Fri 8)",
+     "380 g bone broth rice (frozen Sunday; fridge Wed night): Rory 90 · Wendy 90 · Chloe 80 · Wendy Fri 120",
+     "2 green onions sliced; Rory only: chili crisp"
+    ],
+    "steps": [
+     "5:00: toss the chicken with the salt and tamari. Whisk the glaze.",
+     "5:05: toast the cashews in a dry 12-in stainless skillet over medium 3 min until golden; out to a plate.",
+     "5:08: same pan, veg + 100 g broth, covered, high heat 4 min until bright green and crisp-tender; tip into a bowl.",
+     "5:13: wipe the pan, high heat 2 min, spray. Sear the chicken in 2 batches in one layer, 5–6 min per batch, turning once, until browned and 175°F; out to a plate.",
+     "5:27: glaze into the pan, boil 3–4 min, stirring, until it coats a spoon. Chicken and juices back in 1 min to coat; fold in the veg.",
+     "Rice: covered with 2 Tbsp broth, microwave 3 min to steaming.",
+     "Pack Wendy's Fri lunch first: 150 g chicken + 100 g veg + 120 g rice + 8 g cashews (fridge, eat Fri).",
+     "Rory: 180 g chicken in glaze, 10 g cashews, 150 g veg, 90 g rice ≈ 592 cal / 53 g P."
+    ]
+   },
+   "cal": 592,
+   "protein": 53
   },
   {
    "day": "Fri",
-   "date": "Nov 6",
+   "date": "Nov 13",
    "name": "Steak night: seared grass-fed sirloin + chimichurri",
-   "desc": "Rotation winner ('absolute banger'): hard-seared grass-fed top sirloin, low-oil chimichurri (red pepper flakes only in Rory's), oven-roasted Yukon potatoes at 425°F (oven, not air fryer), lemon-garlic green beans. Same as last week.",
+   "desc": "Rotation winner ('absolute banger'): hard-seared grass-fed top sirloin, low-oil chimichurri (red pepper flakes only in Rory's), oven-roasted Yukon potatoes at 425°F on two pans (oven, not air fryer), lemon-garlic green beans.",
    "side": "Oven-roasted Yukon potatoes + lemon-garlic green beans",
    "plate": [
     {
@@ -365,22 +373,22 @@
     }
    ],
    "recipe": {
-    "serves": "4 (raw: Rory ~225 g · guest ~225 · Wendy ~200 · Chloe ~100)",
+    "serves": "3 (raw: Rory ~225 g · Wendy ~200 · Chloe ~100)",
     "time": "40 min, fresh-cooked",
     "ingredients": [
-     "2 lb (907 g) grass-fed top sirloin, ~1 in thick (frozen on delivery; fridge Wed night)",
-     "1¼ tsp kosher salt, ¾ tsp pepper, ½ tsp garlic powder, avocado-oil spray",
-     "Chimichurri (~150 g): 40 g flat-leaf parsley chopped fine, 3 garlic cloves minced, 1 tsp dried oregano, 30 g red wine vinegar, 15 g lemon juice, 27 g (2 Tbsp) extra-virgin olive oil, 30 g water, ½ tsp kosher salt, ¼ tsp pepper. Rory's portion: + ¼–½ tsp red pepper flakes. Make Thu night or Fri; rest 15 min+.",
-     "Potatoes: 800 g Yukon Golds in 1-in chunks, split across 2 parchment-lined half-sheet pans, spray, 1 tsp salt, ½ tsp garlic powder, ½ tsp smoked paprika",
-     "Lemon-garlic green beans (~300 g cooked; Rory 150 · guest ~100 · Wendy ~100 · Chloe ~50): 340 g green beans trimmed, ½ cup (120 g) bone broth, 3 garlic cloves sliced, zest of 1 lemon + 1 tsp juice, ⅓ tsp salt"
+     "1.5 lb (680 g) grass-fed top sirloin, ~1 in thick (frozen on delivery; fridge Wed night)",
+     "1 tsp kosher salt, ½ tsp pepper, ½ tsp garlic powder, avocado-oil spray",
+     "Chimichurri (~100 g): 30 g flat-leaf parsley chopped fine, 2 garlic cloves minced, ¾ tsp dried oregano, 20 g red wine vinegar, 10 g lemon juice, 18 g (4 tsp) extra-virgin olive oil, 20 g water, ⅓ tsp kosher salt, pinch of pepper. Rory's portion: + ¼ tsp red pepper flakes. Make Thu night or Fri; rest 15 min+.",
+     "Potatoes: 650 g Yukon Golds in 1-in chunks, split across 2 parchment-lined half-sheet pans, spray, ¾ tsp salt, ½ tsp garlic powder, ½ tsp smoked paprika (Rory 180 · Wendy 150 · Chloe 80 cooked)",
+     "Lemon-garlic green beans (~300 g cooked; Rory 150 · Wendy 100 · Chloe 50): 340 g green beans trimmed, 120 g bone broth, 3 garlic cloves sliced, zest of 1 lemon + 1 tsp juice, ⅓ tsp salt"
     ],
     "steps": [
-     "4:45: salt the steaks; leave on the counter 30–40 min. Oven to 425°F.",
-     "5:00: potatoes in (both pans, upper-middle + lower-middle), 30–35 min, shaking at 15 and 25 min, swapping racks once, until deep golden.",
-     "5:20: green beans in a wide lidded pan with the broth and garlic: covered 6–7 min, uncover and cook off the liquid 1–2 min; zest, juice, salt.",
-     "5:20: 12-in stainless skillet over medium-high 3 min, spray, sear the steaks 4–5 min per side (2 at a time) to 130–135°F for medium-rare (USDA: 145°F). Chloe's piece to 145°F if she prefers. Rest 5–10 min, slice against the grain.",
-     "Spoon chimichurri over the sliced steak (Rory's from his spicy jar).",
-     "Rory: 170 g cooked sirloin, 180 g potatoes, 150 g green beans, 25 g chimichurri ≈ 585 cal / 59 g P."
+     "4:45: salt the steaks; counter 30–40 min. Oven to 425°F.",
+     "5:00: potatoes in (both pans, upper-middle + lower-middle), 30–35 min, shaking at 15 and 25 min and swapping racks once, until deep golden.",
+     "5:20: green beans in a wide lidded pan with the broth and garlic: covered 6–7 min, then uncover and cook off the liquid 1–2 min; zest, juice, salt.",
+     "5:20: 12-in stainless skillet over medium-high 3 min, spray, sear the steaks 4–5 min per side to 130–135°F for medium-rare (USDA: 145°F; Chloe's piece to 145°F if she prefers). Rest 5–10 min, slice against the grain.",
+     "Spoon chimichurri over the sliced steak (Rory's from his spicy portion).",
+     "Rory: 170 g cooked sirloin, 180 g potatoes, 150 g green beans, 25 g chimichurri ≈ 584 cal / 59 g P."
     ]
    },
    "cal": 583,
@@ -388,7 +396,7 @@
   },
   {
    "day": "Sat",
-   "date": "Nov 7",
+   "date": "Nov 14",
    "name": "Night out",
    "nightOut": true,
    "desc": "Saturday is our standing night out. No prep, nothing bought for it.",
@@ -396,231 +404,242 @@
   },
   {
    "day": "Sun",
-   "date": "Nov 8",
+   "date": "Nov 15",
    "name": "Next Sunday's batch cook (planned next Thursday)",
    "nightOut": true,
    "emoji": "—",
-   "desc": "Sun Nov 8's cook gets planned (and shopped) with next Thursday's list. The guest is still here Nov 8; from Mon Nov 9 we're back to 3.",
+   "desc": "Sun Nov 15's cook gets planned and shopped with next Thursday's list.",
    "plate": []
   }
  ],
  "chloeLunches": [
   {
    "day": "Mon",
-   "date": "Nov 2",
-   "items": "5 mini grass-fed beef meatballs + 100 g orzo in ¼ cup mild marinara, 1 tsp parmesan (container made Sunday, fridge); 1 small apple sliced + 1 kiwi",
-   "how": "Heat covered in a small saucepan with 1 Tbsp water 6–8 min, stirring, to 165°F. Pack hot in the preheated jar; parmesan on top. Fruit in the bento with an ice pack."
+   "date": "Nov 9",
+   "items": "Mild apple-ginger beef + rice: 70 g shredded roast + 1 Tbsp juices over 100 g bone broth rice (container packed Sunday, fridge); 1 small apple sliced + 1 kiwi",
+   "how": "Heat covered in a small saucepan with 1 Tbsp water 4–5 min, stirring, to 165°F. Pack hot in the preheated jar. Fruit in the bento with an ice pack."
   },
   {
    "day": "Tue",
-   "date": "Nov 3",
+   "date": "Nov 10",
    "items": "Mild veggie egg fried rice: 100 g bone broth rice + 2 OrgaNICK eggs + 40 g peas and carrots (all from Sunday), 1 tsp coconut aminos, ½ tsp sesame oil; 1 mandarin + 4 strawberries",
    "how": "Spray a 10-in pan, scramble the eggs soft and set aside; add the rice, peas and carrots and 1 Tbsp broth, 3–4 min until steaming; fold in the eggs, aminos and sesame oil (165°F). Pack hot."
   },
   {
    "day": "Wed",
-   "date": "Nov 4",
+   "date": "Nov 11",
    "items": "4–5 Bell & Evans organic nuggets + ~100 g potato wedges, 2 Tbsp honey mustard (1 Tbsp honey + 1 Tbsp Dijon) in a steel dip cup, ½ mango in chunks",
    "how": "Cut 1 Yukon potato (~180 g) into 8 wedges, spray, pinch of salt; air-fry 400°F 8 min. Add the nuggets from frozen, 10–12 min more at 400°F, shaking at 6 min, to 170°F (they're sold uncooked). Pack hot in the preheated jar; mango + dip in the bento with an ice pack."
   },
   {
    "day": "Thu",
-   "date": "Nov 5",
-   "items": "Mild beef & broccoli: 60 g beef + 40 g broccoli (packed Wed night) over 100 g bone broth rice (frozen Sunday, fridge Wed night); 1 kiwi + a handful of blueberries",
-   "how": "Reheat covered with 1 Tbsp broth in a small saucepan 4–5 min (or microwave 1½–2 min), stirring, to 165°F. Pack hot; fruit in the bento."
+   "date": "Nov 12",
+   "items": "5 mini grass-fed beef meatballs + 100 g orzo in ¼ cup mild marinara, 1 tsp parmesan (frozen Sunday, fridge Wed night); 1 kiwi + a handful of blueberries",
+   "how": "Heat covered in a small saucepan with 1 Tbsp water 6–8 min, stirring, to 165°F. Pack hot in the preheated jar; parmesan on top. Fruit in the bento."
   }
  ],
  "breakfasts": [
-  "Yogurt bowls: 170 g Kalona grass-fed whole-milk yogurt + 75 g berries + ½ kiwi, honey optional, no granola (~110 cal / 6 g P per 170 g yogurt, so pair with eggs).",
-  "Eggs: 2 dozen OrgaNICK Corn & Soy Feed Free (fried or scrambled with spray, 2–3 min); 2 go into Chloe's Tue fried rice. No egg bites this week.",
-  "Snacks: fruit, Creami thirds, and protein bars if you made them (optional Sunday batch below)."
+  "Yogurt bowls: Maple Hill grass-fed Greek yogurt + berries or kiwi, honey optional, no granola (Maple Hill: 160 cal / 15 g P per 170 g).",
+  "Eggs: 2 dozen OrgaNICK Corn & Soy Feed Free (fried or scrambled with spray); 3 go on Wednesday's bowls and 2 into Chloe's Tue fried rice.",
+  "Rory's daily snacks (unchanged): Jacob bar pre-workout; 3 PM = 136 g Maple Hill + 35 g Equip chocolate peanut butter + 182 g apple. Dessert (a third of a Creami pint) right after dinner, then nothing until bed."
  ],
- "lunches": "Grown-up lunches (3 each day): Mon–Wed Rory's 'fire' box (200 g lemon-oregano chicken + 120 g bone broth rice + 100 g peas and carrots + 40 g aji verde, ≈ 580 cal / 72 g P); Thu 100 g beef & broccoli + 100 g broccoli + 120 g bone broth rice (packed Wed night; rice from the freezer); Fri 180 g Greek thighs + 120 g sweet potato + 40 g tzatziki (packed Thu night).",
+ "lunches": "Grown-up lunches: Rory's 'fire' box Mon–Fri (200 g lemon-oregano chicken + 120 g bone broth rice + 150 g peas and carrots + 40 g aji verde, ≈ 623 cal / 77 g P; Thu/Fri boxes frozen Sunday). Wendy's box Mon–Thu (150 g chicken + 120 g rice + 100 g peas and carrots + 40 g aji verde; Thu frozen). Wendy's Fri lunch = Thursday's cashew chicken, packed Thu night.",
  "creami": [
   {
-   "name": "Honey vanilla ×2 (creamier, more yogurt)",
-   "desc": "(per pint) 170 g organic low-fat cottage cheese, 150 g Kalona whole-milk yogurt, 60 g Grassmilk whole milk, 14 g honey, 2 g vanilla, pinch of salt, 24 g Noble vanilla beef isolate. ≈ 412 cal · 46 g P per pint; ⅓ ≈ 137 cal · 15 g P. More yogurt than last week, per Rory's note that the yogurt-heavy version spins creamier."
+   "name": "Honey vanilla ×2",
+   "desc": "(per pint) 170 g Maple Hill Greek, 100 g organic low-fat cottage cheese, 40 g Grassmilk whole milk, 80 g water, 12 g honey, 2 g vanilla, 24 g Noble vanilla isolate. ≈ 402 cal · 47 g P per pint; ⅓ ≈ 134 cal · 16 g P."
   },
   {
-   "name": "Chocolate ×1 (Rory's 'fire' pint, now with Equip)",
-   "desc": "230 g cottage cheese, 100 g milk, 60 g water, 10 g organic cocoa, 12 g maple syrup, 1 g vanilla, pinch of salt, 1 scoop (~28 g) Equip chocolate peanut butter beef protein in place of the Noble. ≈ 408 cal · 50 g P; ⅓ ≈ 136 cal · 17 g P (Equip counted as ~100 cal / 20 g P per scoop from Equip's labels)."
+   "name": "Chocolate PB ×1 (Rory's 'fire' pint, Equip)",
+   "desc": "160 g Maple Hill, 110 g cottage cheese, 30 g milk, 100 g water, 8 g cocoa, 6 g honey, 1 g vanilla, 29 g Equip chocolate peanut butter. ≈ 408 cal · 51 g P; ⅓ ≈ 136 cal · 17 g P."
+  },
+  {
+   "name": "Cookies & cream ×1 (Equip)",
+   "desc": "160 g Maple Hill, 100 g cottage cheese, 30 g milk, 110 g water, 6 g honey, 2 g vanilla, 30 g Equip cookies & cream, 6 g cacao nibs folded in after the spin (or use Mix-in). ≈ 425 cal · 52 g P; ⅓ ≈ 142 cal · 17 g P."
   },
   {
    "name": "Pistachio ×1 (Wendy)",
-   "desc": "220 g cottage cheese, 110 g milk, 40 g water, 32 g pistachio butter (ON HAND), 8 g honey, 1 g vanilla, pinch of salt, 24 g Noble. ≈ 550 cal · 54 g P; ⅓ ≈ 183 cal · 18 g P."
+   "desc": "160 g Maple Hill, 100 g cottage cheese, 40 g milk, 80 g water, 25 g pistachio butter (on hand), 8 g honey, 1 g vanilla, 24 g Noble. ≈ 528 cal · 51 g P; ⅓ ≈ 176 cal · 17 g P."
   },
   {
    "name": "Mango ×1 (pure mango)",
-   "desc": "300 g ripe mango chunks (~1½ mangoes), 120 g cottage cheese, 40 g milk, 5 g lime juice, 24 g Noble, no honey. Spin Lite Ice Cream. ≈ 392 cal · 37 g P; ⅓ ≈ 131 cal · 12 g P."
-  },
-  {
-   "name": "Strawberry-honey ×1 (new)",
-   "desc": "220 g hulled strawberries, 150 g cottage cheese, 80 g Kalona yogurt, 10 g honey, 5 g lemon juice, 24 g Noble. Blend until no seeds of fruit are left whole. Spin Lite Ice Cream; re-spin with 15 g milk. ≈ 370 cal · 41 g P; ⅓ ≈ 123 cal · 14 g P."
+   "desc": "230 g ripe mango, 150 g Maple Hill, 80 g cottage cheese, 5 g lime juice, 30 g Noble, no honey. Spin Lite Ice Cream. ≈ 460 cal · 49 g P; ⅓ ≈ 153 cal · 16 g P."
   },
   {
    "name": "Notes",
-   "desc": "Make Sunday, freeze level 24 h. Blend each base 30–45 s, fill to the max line. Re-spin with 15–30 g milk if crumbly. Totals for 6 pints: cottage cheese ~1,060 g · Kalona ~380 g · milk ~370 g · Noble 120 g (+120 g if you make the bars) · 1 scoop Equip chocolate PB · mango 300 g · strawberries 220 g · cocoa 10 g · maple 12 g · honey 46 g. Macros are estimates (Noble 24 g ≈ 90 cal / 20 g P)."
+   "desc": "Make Sunday, freeze level 24 h. Blend each base 30–45 s, fill to the max line. Re-spin with 15–30 g milk if crumbly. Totals for 6 pints: Maple Hill 970 g · cottage cheese 590 g · milk 180 g · Noble 102 g · 1 scoop each Equip chocolate PB and cookies & cream · mango 230 g · cocoa 8 g · cacao nibs 6 g · honey 50 g. Macros are estimates (Noble 24 g ≈ 90 cal / 20 g P, not yet checked against the tub)."
   }
  ],
  "prep": [
   {
-   "t": "Sat Oct 31",
+   "t": "Sat Nov 7",
    "title": "Delivery day",
-   "step": "FREEZE on arrival: salmon, both sirloin packs (2.5 lb for Wed, 2 lb for Fri), the thighs, nuggets. FRIDGE: ground beef + chicken breasts (cooked Sunday).",
+   "step": "FREEZE on arrival: salmon, sirloin, chicken thighs, nuggets. FRIDGE: chuck roast + chicken breasts (cooked Sunday). Maple Hill from Publix goes straight to the fridge.",
    "details": []
   },
   {
    "t": "Sun AM",
    "title": "Salmon to the fridge",
-   "step": "Move the 1.75 lb salmon from the freezer to the fridge (on a plate) so it's thawed for Monday.",
+   "step": "Move the 1.25 lb salmon from the freezer to the fridge on a plate so it's thawed for Monday.",
    "details": []
   },
   {
-   "t": "1:00",
+   "t": "12:15",
+   "title": "Roast in first",
+   "step": "Oven to 325°F. Bloom the gelatin in 60 g of the measured broth. Season the chuck (no sear) into the pot with the apple, onion, garlic, ginger, honey, vinegar, tamari, broth, sesame oil, tomato paste and miso. Lid on; in the oven by 12:45. Done ~4:45.",
+   "details": []
+  },
+  {
+   "t": "12:45",
    "title": "Bone broth rice (big batch)",
-   "step": "Rinse 600 g jasmine. Two 4-qt saucepans, each with 300 g rice + 515 g bone broth + ½ tsp salt. Boil, cover, lowest heat 15 min, off heat 10 min → ~2,150 g. Spread on 2 sheet pans to cool (fridge within 1 hr).",
+   "step": "Rinse 800 g jasmine. Two 4-qt saucepans, each 400 g rice + 690 g bone broth + ½ tsp salt. Boil, cover, lowest heat 15 min, off heat 10 min → ~2,870 g. Spread on 2 sheet pans to cool (fridge within 1 hr).",
+   "details": []
+  },
+  {
+   "t": "12:50",
+   "title": "Lunch chicken (air fryer, 4 batches)",
+   "step": "Pound and season 6 lb air-chilled breasts lemon-oregano. Air-fry ~1½ lb per batch at 380°F 16–18 min, flipping halfway, to 165°F: batches at 1:00, 1:20, 1:40, 2:00. Rest each batch on a board.",
    "details": []
   },
   {
    "t": "1:05",
-   "title": "Lunch chicken (air fryer)",
-   "step": "Season 3 lb air-chilled breasts lemon-oregano; air-fry 380°F 14–18 min per batch at ~1:10, 1:30 and 1:50, to 165°F. Rest, slice.",
-   "details": []
-  },
-  {
-   "t": "1:10",
    "title": "Creami bases (6 pints)",
-   "step": "While the chicken cooks: blend and fill 2 honey vanilla, 1 chocolate (Equip), 1 pistachio, 1 mango, 1 strawberry-honey. Lids on, freeze level. ~35 min.",
+   "step": "Between air-fryer flips: blend and fill 2 honey vanilla, 1 chocolate PB, 1 cookies & cream, 1 pistachio, 1 mango. Lids on, freeze level. ~40 min.",
    "details": []
   },
   {
-   "t": "1:50",
-   "title": "Aji verde + peas and carrots",
-   "step": "Blend the aji verde (170 g Kalona, 30 g cilantro, 15 g parmesan, 15 g lime, 1 garlic, 3 g salt); portion into 4 cups of 40 g + a Tuesday jar. Steam ~480 g frozen peas and carrots with 2 Tbsp broth 5–6 min; season; cool.",
+   "t": "1:45",
+   "title": "Aji verde + chermoula",
+   "step": "Blend the aji verde (220 g Maple Hill, 40 g cilantro, 20 g parmesan, 20 g lime, 1 garlic, 4 g salt); 6 cups × 40 g + a Tue jar of 70 g. Stir together Monday's chermoula (~100 g) in a small jar. Fridge both.",
    "details": []
   },
   {
-   "t": "2:05",
-   "title": "Chloe's Monday orzo",
-   "step": "Cook 45 g orzo 8–9 min; drain. Container: 5 frozen meatballs + 100 g orzo + ¼ cup marinara (fridge).",
+   "t": "1:55",
+   "title": "Peas and carrots",
+   "step": "3 bags frozen peas and carrots in 2 batches, covered with 45 g broth each, 6–7 min; season with salt, honey, lemon. Spread to cool.",
    "details": []
   },
   {
-   "t": "2:15",
-   "title": "Portion + label",
-   "step": "FRIDGE: 3 'fire' lunch boxes (200 g chicken + 120 g rice + 100 g peas/carrots + aji cup) · Tue chicken 370 g · Wendy Tue 120 g rice + 100 g peas/carrots · Chloe Tue 100 g rice + 40 g peas/carrots · Mon dinner rice 420 g · Wed dinner rice 450 g · Chloe's Mon jar · aji verde jar. FREEZER: Thu rice 460 g (Chloe 100 + 3 × 120). Keep 240 g rice out for tonight. Label dish / day / grams / 'cooked 11/1'.",
+   "t": "2:10",
+   "title": "Chloe's Thursday jar",
+   "step": "Cook 45 g orzo 8–9 min; drain. Container: 5 frozen meatballs + 100 g orzo + 60 g marinara → FREEZER.",
    "details": []
   },
   {
-   "t": "2:45",
-   "title": "Optional protein bars",
-   "step": "Only if you didn't make them this week: mix, press into a lined 8×4 loaf pan, chill 1 hr, cut 6 (fridge).",
+   "t": "2:25",
+   "title": "Portion + label (scale out)",
+   "step": "FRIDGE: Rory boxes Mon/Tue/Wed (200 g chicken + 120 g rice + 150 g peas/carrots) · Wendy boxes Mon/Tue/Wed (150 + 120 + 100) · Tue chicken 370 g · Wendy Tue 120 g rice + 100 g peas/carrots · Chloe Tue 100 g rice + 40 g peas/carrots · Mon dinner rice 330 g · Wed dinner rice 330 g. FREEZER: Rory Thu + Fri boxes, Wendy Thu box, Thu dinner rice 380 g. Keep 340 g rice + 100 g for Chloe's Mon out for tonight. Label dish / day / grams / 'cooked 11/8'.",
    "details": []
   },
   {
    "t": "3:00",
    "title": "Fruit + clean up",
-   "step": "Wash and cut fruit for the week's bowls (kiwi, strawberries, blueberries); leave mangoes and apples whole. Clean up. Everything cooked is put away by ~3:30. Break until 4:55.",
+   "step": "Wash and cut fruit for bowls (kiwi, strawberries, blueberries); leave mangoes and apples whole. Clean up; everything put away by ~3:30. Break until 4:45.",
+   "details": []
+  },
+  {
+   "t": "4:45",
+   "title": "Roast out + shred",
+   "step": "Check it shreds easily (~200–205°F); if not, 20–30 min more. Shred into the juices; reduce on the stove 5–8 min if thin.",
    "details": []
   },
   {
    "t": "4:55",
-   "title": "Cheeseburger bowls",
-   "step": "Bloom the gelatin, mix the burger sauce, chop the romaine, tomatoes and pickles, shred the cheddar.",
+   "title": "Carrots + pack beef",
+   "step": "Honey-ginger carrots (covered 7–8 min with broth and ginger, then glaze with honey 3–4 min). Pack Wed beef 360 g + ½ cup juices and Chloe's Mon container (70 g beef + juices + 100 g rice), fridge.",
    "details": []
   },
   {
-   "t": "5:00",
-   "title": "Cook + plate",
-   "step": "Brown the beef with onion, spices, ketchup, mustard and gelatin to 160°F; dry-cook the riced cauliflower 7–8 min and fold in 140 g rice. Dinner ~5:20.",
+   "t": "5:15",
+   "title": "Dinner",
+   "step": "Rice warmed with 2 Tbsp broth; plate beef, rice, carrots. Creami third right after dinner.",
    "details": []
   },
   {
    "t": "Week",
-   "title": "Thaw + marinate schedule",
-   "step": "Mon night: 2.5 lb sirloin → fridge (Wed). Tue night: thighs → fridge (Thu). Wed night: marinate the thighs; Thu rice (460 g) → fridge; 2 lb sirloin → fridge (Fri); pack Thu lunches. Thu AM: strain the yogurt. Thu night: chimichurri; pack Fri lunches. Wed AM: nuggets straight from the freezer.",
+   "title": "Thaw + to-do schedule",
+   "step": "Tue night: thighs → fridge (Thu). Wed night: Thu–Fri aji verde mini batch; Rory Thu box, Wendy Thu box, Thu rice, Chloe Thu jar and 1.5 lb sirloin → fridge. Thu night: Rory Fri box → fridge; chimichurri; pack Wendy's Fri lunch. Wed AM: nuggets straight from the freezer.",
    "details": []
   }
  ],
- "prepNote": "Sun Nov 1: no roast this week, so it's a shorter cook. Rice, lunch chicken, 6 Creami, aji verde, peas and carrots and Chloe's Monday jar 1:00–3:30; cheeseburger bowls cooked fresh at 5:00.",
+ "prepNote": "Sun Nov 8: roast in by 12:45; rice, 6 lb lunch chicken, 6 Creami, sauces, peas and carrots and Chloe's Thursday jar 12:45–3:30 while it braises; dinner ~5:15. Back to 3 people, so the batch is smaller.",
  "grocery": [
   {
    "section": "Meat & seafood",
    "items": [
-    "Whole Foods Market Organic Chicken Thigh Boneless/Skinless AIR CHILLED tray pack, 3.5 lb (Thu Greek thighs + Fri lunches) [Whole Foods (Amazon)] → $27.97",
-    "Organic AIR-CHILLED boneless skinless chicken breasts (cart only a listing that says air-chilled, e.g. Bell & Evans organic), 3 lb (Sun lunch chicken: 3 'fire' lunches + Tue car dinner) [Whole Foods (Amazon)] → $23.97",
-    "Organic grass-fed ground beef 93% lean, 2 lb (Sun cheeseburger bowls) → $21.98",
-    "Wild-caught sockeye salmon, 1.75 lb (Mon miso-honey salmon (freeze on arrival)) → $30.61",
-    "Grass-fed top sirloin steak, 4.5 lb (2.5 + 2) (Wed beef & broccoli 2.5 lb + Fri steak night 2 lb (freeze on arrival)) → $89.96",
+    "Organic AIR-CHILLED boneless skinless chicken breasts (cart only a listing that says air-chilled, e.g. Bell & Evans organic), 6 lb (Sun lunch chicken: Rory 5 + Wendy 4 'fire' lunches + Tue car dinner) [Whole Foods (Amazon)] → $47.94",
+    "Whole Foods Market Organic Chicken Thigh Boneless/Skinless AIR CHILLED, 1.75 lb (Thu honey cashew chicken + Wendy's Fri lunch (freeze on arrival)) [Whole Foods (Amazon)] → $13.98",
+    "Grass-fed chuck roast, 3 lb (Sun apple-ginger roast + Wed bowls + Chloe Mon) → $35.97",
+    "Wild-caught sockeye salmon, 1.25 lb (Mon chermoula salmon (freeze on arrival)) → $21.86",
+    "Grass-fed top sirloin steak, 1.5 lb (Fri steak night (freeze on arrival)) → $29.99",
     "Bell & Evans organic breaded chicken nuggets (12 oz, frozen), 1 bag (Chloe's Wed lunch. Check off if a bag is open in the freezer) [Whole Foods (Amazon)] → $8.99"
    ]
   },
   {
    "section": "Eggs & dairy",
    "items": [
-    "OrgaNICK Corn & Soy Feed Free pasture-raised eggs (in store), 2 dozen (breakfasts + Chloe's Tue fried rice) → $15.98",
-    "Kalona SuperNatural grass-fed whole-milk plain yogurt, 24 oz, 4 tubs (bowls, Creami ~380 g, aji verde, tzatziki, burger sauce) → $29.16",
-    "Organic low-fat cottage cheese, 16 oz, 2 tubs (Creami ~1,060 g. Check off if you have 3+ tubs) → $9.58",
-    "Organic Valley Grassmilk whole milk, 59 oz, 1 (Creami ~370 g (+ bars)) → $7.29",
-    "Organic Valley Grassmilk cheddar block, 8 oz, 1 (Sun cheeseburger bowls (60 g). Check off if you have some) → $6.99",
-    "Organic Valley grated parmesan, 4 oz, 1 (aji verde + Chloe's orzo. Check off if ≥ 25 g left) → $6.49"
+    "OrgaNICK Corn & Soy Feed Free pasture-raised eggs (in store), 2 dozen (breakfasts, Wed bowls (3), Chloe's Tue fried rice (2)) → $15.98",
+    "Maple Hill organic whole-milk Greek yogurt, plain, 16 oz (for cooking), 3 tubs (Creami 970 g, aji verde 305 g, Tue car dessert 100 g) [Publix (Instacart)] → $22.23",
+    "Maple Hill organic whole-milk Greek yogurt, plain, 16 oz (Rory's daily breakfast + snacks), 7 tubs (~426 g/day for Rory's breakfast, 10:30 and 3 PM snacks. Check off whatever's already in the fridge) [Publix (Instacart)] → $51.87",
+    "Organic low-fat cottage cheese, 16 oz, 2 tubs (Creami 590 g. Check off if you have 2+ tubs) → $9.58",
+    "Organic Valley Grassmilk whole milk, 59 oz, 1 (Creami 180 g. Check off if last week's jug is still half full) → $7.29",
+    "Organic Valley grated parmesan, 4 oz, 1 (aji verde 28 g + Chloe's orzo. Check off if ≥ 30 g left) → $6.49"
    ]
   },
   {
    "section": "Organic vegetables",
    "items": [
-    "Organic frozen riced cauliflower, 12 oz, 2 bags (Sun 80/20 rice blend) → $6.98",
-    "Organic frozen peas and carrots, 16 oz, 2 bags ('fire' lunches, Wendy Tue, Chloe Tue) → $6.00",
-    "Romaine hearts (3 ct), 1 (Sun burger salad) → $4.99",
-    "Roma tomatoes, 1.25 lb (Sun bowls 200 g + Thu salad 300 g) → $3.74",
-    "Red onion, 1 (Sun beef + Thu salad) → $1.49",
-    "English cucumbers, 3 (Tue spears, Thu tzatziki + salad) → $8.37",
+    "Organic frozen peas and carrots, 16 oz, 3 bags (9 'fire' lunches, Wendy Tue, Chloe Tue) → $9.00",
+    "Carrots, 2 lb bag, 1 (Sun honey-ginger carrots (500 g) + snacks) → $2.99",
+    "Yellow onion, 1 (Sun roast) → $1.29",
+    "Asparagus (1 lb bunches), 2 (Mon lemon-garlic asparagus (1.5 lb)) → $9.98",
+    "English cucumbers, 2 (Tue spears, Wed smashed cucumbers) → $5.58",
     "Red bell pepper, 1 (Tue car spears) → $2.49",
-    "Asparagus (1 lb bunches), 2 (Mon sesame-garlic asparagus) → $9.98",
-    "Broccoli crowns, 2.5 lb (Wed beef & broccoli + Thu lunches) → $8.73",
-    "Sweet potatoes, 3 lb (Thu wedges + Fri lunches) → $5.97",
-    "Yukon Gold potatoes, 3 lb bag, 1 bag (Fri 800 g + Chloe's Wed wedges) → $5.49",
+    "Broccoli crowns, 1 lb (Thu cashew chicken) → $3.49",
+    "Sugar snap peas, 8 oz, 1 (Thu cashew chicken) → $3.99",
+    "Yukon Gold potatoes, 3 lb bag, 1 bag (Fri 650 g + Chloe's Wed wedges) → $5.49",
     "Green beans, 16 oz, 1 bag (Fri lemon-garlic green beans) → $3.00",
-    "Cilantro, 1 bunch (Sun aji verde) → $1.69",
-    "Flat-leaf (Italian) parsley, 1 bunch (Fri chimichurri) → $1.99",
-    "Fresh dill, 1 bunch (Thu tzatziki) → $1.99",
-    "Green onions, 1 bunch (Wed beef & broccoli garnish) → $1.79",
-    "Fresh ginger, ~4 oz (Mon glaze + Wed sauce. Check off if you have a knob left) → $1.50",
-    "Garlic, 3 heads (all week (~25 cloves)) → $1.50",
-    "Organic dill pickle chips, jar, 1 (Sun bowls + burger sauce. Check off if you have a jar) → $4.99"
+    "Cilantro, 2 bunches (aji verde 55 g + Mon chermoula 20 g) → $3.38",
+    "Flat-leaf (Italian) parsley, 1 bunch (Mon chermoula 15 g + Fri chimichurri 30 g) → $1.99",
+    "Green onions, 1 bunch (Wed + Thu garnish) → $1.79",
+    "Fresh ginger, ~4 oz (roast, carrots, Thu glaze. Check off if you have a knob left) → $1.50",
+    "Garlic, 3 heads (all week (~22 cloves)) → $1.50"
    ]
   },
   {
    "section": "Organic fruit",
    "items": [
-    "Mangoes, 4 (mango pint (300 g), Chloe Wed, snacks) → $6.00",
-    "Apples, 5 (Chloe Mon + Tue car, snacks) → $6.80",
-    "Kiwis, 1 lb, 2 × 1 lb (bowls, Chloe Mon/Thu) → $11.98",
-    "Strawberries, 2 lb, 1 (strawberry pint 220 g, bowls, Chloe Tue) → $10.99",
+    "Mangoes, 3 (mango pint 230 g, Chloe Wed) → $4.50",
+    "Apples, 10 (Rory's 3 PM snack (182 g × 7), roast, Chloe Mon + Tue) → $13.60",
+    "Kiwis, 1 lb, 1 (bowls, Chloe Mon/Thu) → $5.99",
+    "Strawberries, 1 lb, 1 (bowls, Chloe Tue) → $5.49",
     "Blueberries, 18 oz, 1 (bowls, Chloe Thu) → $10.99",
     "Mandarins, 3 lb bag, 1 (Chloe Tue, snacks) → $5.99",
-    "Lemons, 2 lb bag, 1 (lunch chicken, Thu marinade/tzatziki/salad, green beans, chimichurri) → $5.99",
-    "Limes, 1 lb bag, 1 (aji verde, Mon glaze, Wed sauce, mango pint) → $3.99"
+    "Lemons, 2 lb bag, 1 (lunch chicken (2), peas/carrots, chermoula, asparagus, green beans, chimichurri) → $5.99",
+    "Limes, 1 lb bag, 1 (aji verde, Wed cucumbers, Thu glaze, mango pint) → $3.99"
    ]
   },
   {
    "section": "Pantry & house staples",
    "items": [
-    "Organic bone broth, 32 oz, 2 (Sun rice 1,030 g, Wed sauce + broccoli, Fri beans, reheats) → $25.98",
-    "Hero flour tortillas (6 ct), 1 pack (Tue car wraps) → $8.29",
+    "Organic bone broth, 32 oz, 3 (rice 1,380 g, roast 480 g, carrots, Thu glaze + veg, Fri beans, reheats) → $38.97",
+    "Hero flour tortillas (6 ct), 1 pack (Tue car wraps. Check off if 3+ are left) → $8.29",
     "Cedar's organic hummus, 10 oz, 1 (Tue wraps. Check off if last week's tub is still good) → $4.99",
-    "Organic pure vanilla extract (added Oct 25), 1 bottle (Creami + bars) → $12.99",
-    "Organic dried oregano (Grocery Needs), 1 jar (lunch chicken, Thu marinade, salad, chimichurri. Check off if last week's jar came) → $7.49",
-    "Noble vanilla beef isolate (need ~120 g, +120 g for bars), check (5 Creami pints. Check off if you have it) [Online / check-off] (unpriced)"
+    "Organic dried oregano (Grocery Needs), 1 jar (lunch chicken, chimichurri. Check off if a jar came last week) → $7.49",
+    "Organic dry-roasted unsalted cashews, 8 oz (Thu cashew chicken (40 g). Check off if you have some) → $7.99",
+    "Organic low-sodium tamari, 1 bottle (roast 120 g + Thu 55 g. Check off if you have ~200 g) → $5.99",
+    "Organic apple cider vinegar, 1 bottle (roast 30 g. Check off if you have some) → $4.99",
+    "Noble vanilla beef isolate (need ~102 g), check (4 Creami pints. Check off if you have it) [Online / check-off] (unpriced)",
+    "Organic cacao nibs (need 6 g), check (cookies & cream pint. Check off if you have them (or skip them)) [Online / check-off] (unpriced)"
    ]
   },
   {
    "section": "Pantry — on hand (don't buy)",
    "items": [
-    "Freezer: ~22 mini beef meatballs (Oct 25), extra peas/carrots after this week",
-    "Pantry: white miso, tamari, coconut aminos, gelatin, toasted sesame oil + seeds, honey, maple syrup, Dijon, yellow mustard, ketchup, red wine vinegar, jasmine rice, orzo, marinara, extra-virgin olive oil, avocado-oil spray, smoked paprika, cumin, garlic + onion powder, red pepper flakes, hot sauce/chili crisp/Aleppo",
-    "Creami extras: cocoa, pistachio butter (Wendy's pint), Equip chocolate peanut butter protein; bars: almond butter, almond flour, mini dark chocolate chips",
-    "Not listed on purpose: granola (never), cabbage (never), pistachio butter, Equip"
+    "Freezer: ~17 mini beef meatballs (Oct 25).",
+    "Pantry: jasmine rice (need 800 g), orzo, marinara, white miso, tomato paste, gelatin, coconut aminos, toasted sesame oil + seeds, honey, Dijon, red wine vinegar, extra-virgin olive oil, avocado-oil spray, smoked paprika, cumin, garlic powder, red pepper flakes, chili crisp/hot sauce/Aleppo, cinnamon + star anise.",
+    "Creami extras: cocoa, pistachio butter (Wendy's pint), Equip chocolate peanut butter + Equip cookies & cream.",
+    "Not listed on purpose: granola (never), cabbage (never), Maple Hill at Sprouts (Publix only)."
    ]
   }
  ],
@@ -1268,23 +1287,57 @@
    "protein": 3.0,
    "carbs": 10.5,
    "fat": 0.3
+  },
+  "ajiverde_mh": {
+   "name": "Aji verde (Maple Hill Greek, cilantro, parmesan, lime)",
+   "cal": 99,
+   "protein": 8.9,
+   "carbs": 5.5,
+   "fat": 4.6
+  },
+  "hgcarrots": {
+   "name": "Honey-ginger broth-glazed carrots",
+   "cal": 45,
+   "protein": 0.9,
+   "carbs": 10.5,
+   "fat": 0.3
+  },
+  "egg_fr": {
+   "name": "OrgaNICK egg, fried with spray (50 g)",
+   "cal": 143,
+   "protein": 12.6,
+   "carbs": 0.7,
+   "fat": 9.5
+  },
+  "cashchick": {
+   "name": "Honey cashew chicken thighs in tamari-honey-ginger glaze (no cashews)",
+   "cal": 195,
+   "protein": 24.0,
+   "carbs": 4.5,
+   "fat": 8.0
+  },
+  "brocsnap": {
+   "name": "Broccoli + sugar snap peas, broth-steamed",
+   "cal": 37,
+   "protein": 2.6,
+   "carbs": 7.0,
+   "fat": 0.3
   }
  },
  "lunchIntro": "Each morning: fill the 12 oz thermal jar with boiling water for 5–10 min, then dump it. Heat the hot food to 165°F (steaming), pack it into the warmed jar, and close it. Cold food goes in the steel bento with an ice pack, and everything goes in the insulated bag.",
- "prepIntro": "Times assume a 1:00 PM start and dinner around 5:20 PM. About 2½ hours hands-on plus 25 minutes for dinner; there's no oven braise this week, so you get a break mid-afternoon. Tuesday is the car dinner (15 min), Saturday is the night out, and Mon/Wed/Thu/Fri dinners are cooked fresh (25–40 min each).",
+ "prepIntro": "Times assume a 12:15 PM start and dinner around 5:15 PM. About 2¾ hours hands-on (the air fryer runs 4 chicken batches while you do Creami and sauces), then a break while the roast finishes. Tuesday is the car dinner (15 min), Wednesday is a 20-minute reheat, Saturday is the night out, and Mon/Thu/Fri dinners are cooked fresh (25–40 min).",
  "prepSafety": [
-  "Chicken 165°F (thighs best at 175°F); ground beef 160°F; salmon 145°F; steak 130–135°F medium-rare (USDA 145°F); reheated leftovers 165°F. Bell & Evans nuggets are sold uncooked: cook to 170°F.",
+  "Chicken 165°F (thighs best at 175°F); salmon 145°F; steak 130–135°F medium-rare (USDA 145°F); chuck shreds at ~200–205°F; reheated leftovers 165°F. Bell & Evans nuggets are sold uncooked: cook to 170°F.",
   "Cool fast: spread rice on sheet pans; everything into the fridge within 1–2 hours (rice within 1 hour).",
-  "Fridge = eaten Mon–Wed. Freezer = Thu onward (Thu rice). Wed/Thu dinners pack the next day's lunches; Fri's lunches are eaten within 1 day.",
-  "Reheat each portion only once. Label every container with dish, day, grams and 'cooked 11/1'."
+  "Fridge = eaten Mon–Wed. Freezer = Thu onward (Rory Thu/Fri boxes, Wendy Thu box, Thu rice, Chloe's Thu jar). Aji verde for Thu–Fri is blended fresh Wed night.",
+  "Reheat each portion only once. Label every container with dish, day, grams and 'cooked 11/8'."
  ],
  "prepThaw": [
-  "Sat Oct 31 (delivery): freeze the salmon, both sirloins and the thighs right away; ground beef and breasts go in the fridge for Sunday.",
+  "Sat Nov 7 (delivery): freeze the salmon, sirloin, thighs and nuggets right away; chuck and breasts go in the fridge for Sunday.",
   "Sun morning: salmon → fridge (for Mon).",
-  "Mon night: 2.5 lb sirloin → fridge (for Wed).",
-  "Tue night: 3.5 lb thighs → fridge (for Thu).",
-  "Wed night: marinate the thighs; Thu rice (460 g) → fridge; 2 lb sirloin → fridge (for Fri).",
-  "Thu morning: strain 300 g Kalona for the tzatziki. Thu night: make the chimichurri.",
+  "Tue night: 1.75 lb thighs → fridge (for Thu).",
+  "Wed night: 1.5 lb sirloin → fridge (for Fri); Rory + Wendy Thu boxes, Thu rice, Chloe's Thu jar → fridge; blend the Thu–Fri aji verde.",
+  "Thu night: Rory's Fri box → fridge; make the chimichurri; pack Wendy's Fri lunch from dinner.",
   "Saturday: night out, nothing to thaw."
  ],
  "groceryNote": "Check off anything we already have in Todoist > Home & Family > Thursday Order; only open items get ordered.",
