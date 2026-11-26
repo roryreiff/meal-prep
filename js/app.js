@@ -128,7 +128,8 @@
       b.classList.toggle("on", on);
       b.setAttribute("aria-selected", on ? "true" : "false");
     });
-    const [t, sub] = titles[name];
+    let [t, sub] = titles[name];
+    if (name === "prep" && DATA && DATA.prepTitle) [t, sub] = [DATA.prepTitle, DATA.prepSubtitle || sub];
     $("#header-title").textContent = t;
     $("#header-sub").textContent =
       sub ||
@@ -203,7 +204,7 @@
       <div class="chip">${esc(DATA.lunches)}</div>
       <h2 class="section-title">Ninja Creami</h2>
       <div class="chip-list">${creamis}</div>
-      <p class="est-note" style="margin-top:12px">Blend Sunday · freeze ~24h · spin from Monday evening.</p>
+      <p class="est-note" style="margin-top:12px">${esc(DATA.creamiNote || "Blend Sunday · freeze ~24h · spin from Monday evening.")}</p>
     `;
   }
 
